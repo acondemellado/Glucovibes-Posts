@@ -5,8 +5,8 @@
   "fuente": [
     "ig:6ad880a2785291f70efedaf4"
   ],
-  "estado": "en_buffer_borrador",
-  "fecha_sugerida": "2026-10-27 (martes) 13:00",
+  "estado": "borrador",
+  "fecha_sugerida": "2026-10-27 (martes) 19:30",
   "slides": [
     {
       "tipo": "portada",
@@ -38,26 +38,12 @@
       ]
     },
     {
-      "tipo": "cifras",
-      "titulo": "33 mg/dl",
+      "tipo": "imagen",
+      "titulo": "44 mg/dl",
       "titulo_rojo": "de diferencia",
-      "items": [
-        {
-          "etq": "Pan de molde",
-          "valor": "156",
-          "unidad": "mg/dl",
-          "det": "Pico de glucosa",
-          "nivel": "mala"
-        },
-        {
-          "etq": "Pan 100% integral",
-          "valor": "123",
-          "unidad": "mg/dl",
-          "det": "Pico de glucosa",
-          "nivel": "buena"
-        }
-      ],
-      "nota": "Curvas observadas en registros reales de una Viber; la respuesta puede variar entre personas."
+      "src": "curvas.png",
+      "ancho": 900,
+      "nota": "Curvas reales de una Viber, misma tostada en dos días. La respuesta puede variar entre personas."
     },
     {
       "tipo": "lista",
@@ -93,15 +79,16 @@
     }
   ],
   "instagram": {
-    "caption": "🍞 Hoy, en «Cómo afecta»: ¿importa el pan de tus tostadas?\n\nUna de nuestras Vibers tomó la misma tostada dos días. Solo cambió el pan: de molde blanco o 100% integral.\n\n📈 Resultado: con pan de molde, pico de 156 mg/dl. Con pan integral, 123 mg/dl.\n\n¿Por qué? El pan de molde suele llevar harinas refinadas y azúcares añadidos. El integral conserva su fibra, que frena la entrada de glucosa.\n\n💡 #Glucotip: revisa la etiqueta y busca harina integral como primer ingrediente.\n\nY recuerda: tu respuesta es tuya.\n\n¿Qué pan eliges tú? 👇",
+    "caption": "🍞 Hoy, en «Cómo afecta»: ¿importa el pan de tus tostadas?\n\nUna de nuestras Vibers tomó la misma tostada dos días. Solo cambió el pan: de molde blanco o 100% integral.\n\n📈 Resultado: con pan de molde, pico de 156 mg/dl. Con pan integral, 112 mg/dl.\n\n¿Por qué? El pan de molde suele llevar harinas refinadas y azúcares añadidos. El integral conserva su fibra, que frena la entrada de glucosa.\n\n💡 #Glucotip: revisa la etiqueta y busca harina integral como primer ingrediente.\n\nY recuerda: tu respuesta es tuya.\n\n¿Qué pan eliges tú? 👇",
     "hashtags": "#comoafecta #glucosa #saludmetabolica #panintegral #impactoglucemico #nutriciondeprecision #glucovibes #habitossaludables"
   },
   "linkedin": {
-    "texto": "¿El pan importa tanto? Los datos dicen que sí.\n\nUna usuaria de Glucovibes tomó la misma tostada dos días cambiando solo el pan. Con pan de molde blanco, la glucosa llegó a 156 mg/dl. Con pan 100% integral, se quedó en 123 mg/dl.\n\nLa diferencia está en la fibra: la harina refinada se absorbe rápido; la integral conserva su estructura y suaviza la curva.\n\nSon decisiones pequeñas que, repetidas cada día, cambian tu salud metabólica. Y por eso medimos: porque tu respuesta es tuya.\n\n¿Lo habías visto en tus datos?",
+    "texto": "¿El pan importa tanto? Los datos dicen que sí.\n\nUna usuaria de Glucovibes tomó la misma tostada dos días cambiando solo el pan. Con pan de molde blanco, la glucosa llegó a 156 mg/dl. Con pan 100% integral, se quedó en 112 mg/dl.\n\nLa diferencia está en la fibra: la harina refinada se absorbe rápido; la integral conserva su estructura y suaviza la curva.\n\nSon decisiones pequeñas que, repetidas cada día, cambian tu salud metabólica. Y por eso medimos: porque tu respuesta es tuya.\n\n¿Lo habías visto en tus datos?",
     "hashtags": "#SaludMetabólica #Glucosa #NutriciónDePrecisión #HealthTech"
   },
   "buffer": {
     "instagram_post_id": "6ad88a3ad109f3f66b8abd73",
     "canal": "glucovibes (instagram)"
-  }
+  },
+  "nota_revision": "Cifra del integral corregida a 112 mg/dl (vídeo y curva originales); el texto del reel de 2025 decía 123."
 }
