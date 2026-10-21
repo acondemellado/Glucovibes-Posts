@@ -7,7 +7,7 @@ Instagram (y LinkedIn cuando esté conectado). 3 por semana: martes (comparativa
 | Fecha | Día | Pilar | Tema | Estado |
 |---|---|---|---|---|
 | 2026-10-21 | miércoles | 3 | ¿Hambre después de comer? Pico y bajón | publicado |
-| 2026-10-27 | martes | 1 | Cómo afecta: pan de molde vs pan 100% integral (156 vs 123 mg/dl) | revisar |
+| 2026-10-27 | martes | 1 | Cómo afecta: pan de molde vs pan 100% integral (156 vs 123 mg/dl) | programado |
 | 2026-10-29 | jueves | 4 | La inflamación silenciosa que nadie te mide | programado |
 | 2026-10-31 | sábado | 5 | Receta: pan de atún al microondas (proteico, sin harinas) | programado |
 | 2026-11-03 | martes | 1 | Zumo o naranja: misma fruta, distinta respuesta | programado |
