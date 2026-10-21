@@ -5,7 +5,7 @@
   "fuente": [
     "112c3bfcc4"
   ],
-  "estado": "borrador",
+  "estado": "en_buffer_borrador",
   "fecha_sugerida": "2026-11-03 (martes) 13:00",
   "slides": [
     {
@@ -90,5 +90,9 @@
   "linkedin": {
     "texto": "¿Por qué tenemos hambre (o sueño) una hora después de comer?\n\nEn muchos casos, la respuesta está en la curva de glucosa. Un pico alto suele venir seguido de un bajón —la hipoglucemia reactiva— y con él llegan el antojo, la fatiga y la pérdida de concentración. Justo lo contrario de lo que necesitamos en mitad de una jornada de trabajo.\n\nUn ejemplo real: el mismo pan integral tostado (50 g) sube la glucosa +52 mg/dl con mermelada de fresa y solo +31 mg/dl con aguacate y jamón serrano.\n\nUna curva más estable se traduce en energía sostenida, y se consigue con gestos sencillos:\n→ Sumar fibra\n→ Reducir azúcares añadidos y harinas refinadas\n→ Incluir proteína de calidad\n→ Moverse un poco después de comer\n\nPero lo más interesante que vemos en los datos de Glucovibes es que la respuesta es individual: el mismo plato puede disparar la glucosa de una persona y apenas mover la de otra. Por eso copiar dietas rara vez funciona. La nutrición de precisión empieza por medir.\n\n¿Te pasa ese bajón de después de comer?",
     "hashtags": "#SaludMetabólica #Glucosa #NutriciónDePrecisión #Productividad #HealthTech"
+  },
+  "buffer": {
+    "instagram_post_id": "6ad8851272c27851146a302d",
+    "canal": "glucovibes (instagram)"
   }
 }
