@@ -1,0 +1,94 @@
+{
+  "id": "05_inflamacion-silenciosa",
+  "tema": "La inflamación silenciosa que nadie te mide",
+  "pilar": 4,
+  "fuente": [
+    "e97a28b536"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-10-29 (jueves) 13:00",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Indicadores Glucovibes",
+      "titulo": "La inflamación",
+      "titulo_rojo": "que no duele",
+      "subtitulo": "No se ve ni se nota… pero con los años pasa factura."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Inflamación crónica",
+      "titulo_rojo": "de bajo grado",
+      "items": [
+        {
+          "ico": "🔥",
+          "titulo": "Silenciosa",
+          "texto": "No duele ni da síntomas claros."
+        },
+        {
+          "ico": "⏳",
+          "titulo": "Acumulativa",
+          "texto": "Junto con el estrés oxidativo, está detrás de buena parte del envejecimiento."
+        },
+        {
+          "ico": "✅",
+          "titulo": "La buena noticia",
+          "texto": "Se puede medir y cuidar."
+        }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Tres capas",
+      "titulo_rojo": "de información",
+      "items": [
+        {
+          "ico": "🩸",
+          "titulo": "Tu analítica de sangre",
+          "texto": "PCR, NLR, ferritina, albúmina…"
+        },
+        {
+          "ico": "📈",
+          "titulo": "Tu sensor de glucosa",
+          "texto": "Biomarcadores dinámicos, día a día."
+        },
+        {
+          "ico": "🌙",
+          "titulo": "Tus hábitos",
+          "texto": "Nutrición, descanso y actividad."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "Dos índices:",
+      "titulo_rojo": "más bajo, mejor",
+      "src": "app_inflamacion.png",
+      "ancho": 500,
+      "nota": "Captura de la app Glucovibes (datos de Alberto, fundador y usuario)."
+    },
+    {
+      "tipo": "portada",
+      "chip": "La clave",
+      "titulo": "No solo cómo estás:",
+      "titulo_rojo": "qué hábitos te ayudan.",
+      "subtitulo": "Combina lo estático (analítica) con lo dinámico (tu día a día) para actuar antes de que hable tu cuerpo.",
+      "desliza": "Desliza →"
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Ponle número",
+      "titulo_rojo": "a lo invisible.",
+      "cta": "Conoce tu nivel",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "Hay una inflamación que no duele ni se ve 🔥\n\nSe llama inflamación crónica de bajo grado. Junto con el estrés oxidativo, está detrás de buena parte del envejecimiento. La buena noticia: se puede medir y cuidar.\n\nEn Glucovibes la calculamos con tres capas de información:\n🩸 Tu analítica (PCR, NLR, ferritina, albúmina…)\n📈 Tu sensor de glucosa\n🌙 Tus hábitos: nutrición, descanso y actividad\n\nCon ellas salen dos índices: inflamación interna y estrés oxidativo. Aquí, cuanto más bajo, mejor.\n\nNo solo ves cómo estás: ves qué hábitos te ayudan y cuáles te penalizan.\n\n💾 Guárdalo y revisa tu próxima analítica con otros ojos.",
+    "hashtags": "#inflamacion #estresoxidativo #saludmetabolica #longevidad #glucosa #glucovibes #habitossaludables #ciencia"
+  },
+  "linkedin": {
+    "texto": "La inflamación más peligrosa es la que no duele.\n\nLa inflamación crónica de bajo grado no da síntomas, pero junto con el estrés oxidativo está detrás de buena parte del envejecimiento y de muchas enfermedades metabólicas.\n\nEn Glucovibes la medimos combinando tres capas: biomarcadores de la analítica de sangre (PCR, NLR, ferritina, albúmina…), datos dinámicos del sensor de glucosa y hábitos diarios de nutrición, descanso y actividad.\n\nEl resultado son dos índices —inflamación interna y estrés oxidativo— donde una puntuación baja significa menor factor de riesgo. Y lo más útil: muestran qué hábitos te están ayudando y cuáles te penalizan.\n\nPonerle número a lo invisible es la forma de actuar antes de que hable el cuerpo.\n\n¿Sabes cómo está tu inflamación?",
+    "hashtags": "#SaludMetabólica #Longevidad #HealthTech #Prevención"
+  }
+}

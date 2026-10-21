@@ -1,0 +1,86 @@
+{
+  "id": "07_origen-glucovibes",
+  "tema": "Así nació Glucovibes",
+  "pilar": 6,
+  "fuente": [
+    "26d606020b"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-11-07 (sábado) 13:00",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Detrás de Glucovibes",
+      "titulo": "Así nació",
+      "titulo_rojo": "Glucovibes",
+      "subtitulo": "Una historia personal que se convirtió en comunidad."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Todo empezó",
+      "titulo_rojo": "en 2004",
+      "items": [
+        {
+          "ico": "🩺",
+          "titulo": "Un diagnóstico",
+          "texto": "A Alberto, nuestro fundador, le diagnosticaron una enfermedad autoinmune."
+        },
+        {
+          "ico": "🔍",
+          "titulo": "Una pregunta",
+          "texto": "¿Qué pasa dentro de mi cuerpo con lo que como, duermo y hago?"
+        },
+        {
+          "ico": "📈",
+          "titulo": "Una respuesta: medir",
+          "texto": "Datos reales en lugar de suposiciones."
+        }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Hoy,",
+      "titulo_rojo": "Glucovibes es",
+      "items": [
+        {
+          "ico": "📲",
+          "titulo": "Una app",
+          "texto": "Que interpreta tu glucosa, tus analíticas y tus hábitos."
+        },
+        {
+          "ico": "🤝",
+          "titulo": "Una comunidad",
+          "texto": "Miles de Vibers aprendiendo de sus propios datos."
+        },
+        {
+          "ico": "🧡",
+          "titulo": "Un fundador que también es usuario",
+          "texto": "Alberto usa Glucovibes cada día."
+        }
+      ]
+    },
+    {
+      "tipo": "portada",
+      "chip": "Nuestra misión",
+      "titulo": "Hacemos visible",
+      "titulo_rojo": "lo invisible.",
+      "subtitulo": "Para que decidas con datos, no con modas.",
+      "desliza": "Desliza →"
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Pon vida a tus años,",
+      "titulo_rojo": "no solo años a la vida.",
+      "cta": "Únete a la comunidad",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "¿Sabes cómo nació Glucovibes? 🧡\n\nEn septiembre de 2004 a Alberto, nuestro fundador, le diagnosticaron una enfermedad autoinmune. Ese día empezó a hacerse una pregunta: ¿qué pasa dentro de mi cuerpo con lo que como, duermo y hago?\n\nLa respuesta fue medir. Datos reales en lugar de suposiciones.\n\nHoy esa búsqueda personal es una app y una comunidad de Vibers que aprenden de sus propios datos. Y Alberto sigue siendo uno más: fundador y usuario.\n\nPorque hacemos visible lo invisible.\n\nPon vida a tus años, no solo años a la vida.",
+    "hashtags": "#glucovibes #saludmetabolica #longevidad #historia #emprendimiento #bienestar #comunidad"
+  },
+  "linkedin": {
+    "texto": "Glucovibes nació de un problema personal.\n\nEn 2004, a nuestro fundador, Alberto Conde Mellado, le diagnosticaron una enfermedad autoinmune. Aquel día empezó una pregunta que no ha dejado de hacerse: ¿qué pasa dentro de mi cuerpo con lo que como, cómo duermo y cómo me muevo?\n\nLa respuesta fue medir. Primero para él; después, para miles de personas que hoy forman la comunidad Glucovibes.\n\nSeguimos con la misma idea: hacer visible lo invisible para decidir con datos, no con modas. Y Alberto sigue siendo, además de fundador, usuario.\n\nPon vida a tus años, no solo años a la vida.",
+    "hashtags": "#Emprendimiento #HealthTech #SaludMetabólica #Longevidad"
+  }
+}
