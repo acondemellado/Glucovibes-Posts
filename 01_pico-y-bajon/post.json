@@ -1,0 +1,94 @@
+{
+  "id": "01_pico-y-bajon",
+  "tema": "¿Hambre después de comer? Pico y bajón",
+  "pilar": 3,
+  "fuente": [
+    "112c3bfcc4"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-11-03 (martes) 13:00",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Aprende tu metabolismo",
+      "titulo": "¿Hambre después",
+      "titulo_rojo": "de comer?",
+      "subtitulo": "Puede que la culpa sea un pico de glucosa… y su bajón."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Dos curvas,",
+      "titulo_rojo": "dos tardes muy distintas",
+      "items": [
+        {
+          "ico": "🎢",
+          "titulo": "Pico y bajón",
+          "texto": "Tras un pico alto llega el bajón: hambre, antojos y fatiga. Es la hipoglucemia reactiva."
+        },
+        {
+          "ico": "🟢",
+          "titulo": "Curva estable",
+          "texto": "Energía sostenida, menos antojos y mejor concentración."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "Mismo pan,",
+      "titulo_rojo": "distinta curva",
+      "src": "curvas.png",
+      "ancho": 860,
+      "nota": "Pan integral con mermelada: +52 mg/dl. Con aguacate y jamón: +31 mg/dl. Curvas observadas en registros reales; la respuesta puede variar entre personas."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "4 gestos para",
+      "titulo_rojo": "una curva más estable",
+      "items": [
+        {
+          "ico": "🥦",
+          "titulo": "Suma fibra",
+          "texto": "Verduras, legumbres, fruta entera."
+        },
+        {
+          "ico": "🚫",
+          "titulo": "Fuera azúcares añadidos",
+          "texto": "Y menos harinas refinadas."
+        },
+        {
+          "ico": "🍳",
+          "titulo": "Proteína de calidad",
+          "texto": "En cada comida principal."
+        },
+        {
+          "ico": "🚶",
+          "titulo": "Muévete después de comer",
+          "texto": "Un paseo corto ya ayuda."
+        }
+      ]
+    },
+    {
+      "tipo": "portada",
+      "chip": "La clave",
+      "titulo": "Tu respuesta",
+      "titulo_rojo": "es tuya.",
+      "subtitulo": "El mismo alimento puede disparar tu glucosa y no la de tu vecina. Por eso copiar dietas no suele funcionar.",
+      "desliza": "Desliza →"
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Deja de adivinar.",
+      "titulo_rojo": "Mídelo.",
+      "cta": "Descubre tu respuesta",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "¿Comes… y a la hora tienes más hambre que antes? 🤔\n\nUna causa muy habitual es un pico de glucosa seguido de su bajón: la famosa hipoglucemia reactiva. Llega el antojo, la fatiga y las ganas de picar.\n\n📈 Mira el ejemplo: el mismo pan integral con mermelada sube la glucosa +52 mg/dl; con aguacate y jamón, +31 mg/dl.\n\n🟢 La buena noticia: una curva más estable se consigue con pequeños gestos. Fibra, menos azúcares añadidos, proteína de calidad y moverte después de comer.\n\nPero ojo: tu respuesta es tuya. Lo que a ti te dispara, a otra persona puede no afectarle. Por eso en Glucovibes hacemos visible lo invisible.\n\n💾 Guárdalo para tu próxima comida.",
+    "hashtags": "#glucosa #saludmetabolica #hipoglucemiareactiva #nutriciondeprecision #glucovibes #habitossaludables #nutricion #energia"
+  },
+  "linkedin": {
+    "texto": "¿Por qué tenemos hambre (o sueño) una hora después de comer?\n\nEn muchos casos, la respuesta está en la curva de glucosa. Un pico alto suele venir seguido de un bajón —la hipoglucemia reactiva— y con él llegan el antojo, la fatiga y la pérdida de concentración. Justo lo contrario de lo que necesitamos en mitad de una jornada de trabajo.\n\nUn ejemplo real: el mismo pan integral tostado (50 g) sube la glucosa +52 mg/dl con mermelada de fresa y solo +31 mg/dl con aguacate y jamón serrano.\n\nUna curva más estable se traduce en energía sostenida, y se consigue con gestos sencillos:\n→ Sumar fibra\n→ Reducir azúcares añadidos y harinas refinadas\n→ Incluir proteína de calidad\n→ Moverse un poco después de comer\n\nPero lo más interesante que vemos en los datos de Glucovibes es que la respuesta es individual: el mismo plato puede disparar la glucosa de una persona y apenas mover la de otra. Por eso copiar dietas rara vez funciona. La nutrición de precisión empieza por medir.\n\n¿Te pasa ese bajón de después de comer?",
+    "hashtags": "#SaludMetabólica #Glucosa #NutriciónDePrecisión #Productividad #HealthTech"
+  }
+}
