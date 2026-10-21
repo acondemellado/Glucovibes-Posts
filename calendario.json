@@ -1,0 +1,391 @@
+{
+  "actualizado": "2026-10-21",
+  "franjas": {
+    "martes": "pilar 1-2",
+    "jueves": "pilar 3-4",
+    "sábado": "pilar 5-6"
+  },
+  "publicaciones": [
+    {
+      "fecha": "2026-10-21",
+      "dia": "miércoles",
+      "hora": "13:00",
+      "pilar": 3,
+      "tema": "¿Hambre después de comer? Pico y bajón",
+      "fuentes": [
+        "112c3bfcc4"
+      ],
+      "carpeta": "01_pico-y-bajon",
+      "estado": "publicado"
+    },
+    {
+      "fecha": "2026-10-27",
+      "dia": "martes",
+      "hora": "13:00",
+      "pilar": 1,
+      "tema": "Cómo afecta: pan de molde vs pan 100% integral (156 vs 123 mg/dl)",
+      "fuentes": [
+        "ig:6ad880a1785291f70efedaf4",
+        "fd64c991d9"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-10-29",
+      "dia": "jueves",
+      "hora": "13:00",
+      "pilar": 4,
+      "tema": "La inflamación silenciosa que nadie te mide",
+      "fuentes": [
+        "e97a28b536"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-10-31",
+      "dia": "sábado",
+      "hora": "13:00",
+      "pilar": 5,
+      "tema": "Receta: pan de atún al microondas (proteico, sin harinas)",
+      "fuentes": [
+        "d1f5d2d6cb",
+        "ig:6ad880a1785291f70efeda98"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-11-03",
+      "dia": "martes",
+      "hora": "13:00",
+      "pilar": 1,
+      "tema": "Zumo o naranja: misma fruta, distinta respuesta",
+      "fuentes": [
+        "23613e7534"
+      ],
+      "carpeta": "03_zumo-vs-naranja",
+      "estado": "generado"
+    },
+    {
+      "fecha": "2026-11-05",
+      "dia": "jueves",
+      "hora": "13:00",
+      "pilar": 2,
+      "tema": "¿Saltarte el desayuno baja tu glucosa? Depende",
+      "fuentes": [
+        "059275dc1c"
+      ],
+      "carpeta": "02_ayuno-desayuno",
+      "estado": "generado"
+    },
+    {
+      "fecha": "2026-11-07",
+      "dia": "sábado",
+      "hora": "13:00",
+      "pilar": 6,
+      "tema": "Así nació Glucovibes: hacemos visible lo invisible",
+      "fuentes": [
+        "26d606020b"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-11-10",
+      "dia": "martes",
+      "hora": "13:00",
+      "pilar": 1,
+      "tema": "Cómo afecta: misma cena a las 20:30 vs a las 23:00",
+      "fuentes": [
+        "ig:6ad880a1785291f70efedae1"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-11-12",
+      "dia": "jueves",
+      "hora": "13:00",
+      "pilar": 4,
+      "tema": "¿Tu cuerpo envejece más rápido o más lento que tú? Edad biológica",
+      "fuentes": [
+        "0e31ddea65"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-11-14",
+      "dia": "sábado",
+      "hora": "13:00",
+      "pilar": 5,
+      "tema": "Receta: poke bowl de atún y aguacate",
+      "fuentes": [
+        "4b13d6b581"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-11-17",
+      "dia": "martes",
+      "hora": "13:00",
+      "pilar": 1,
+      "tema": "Mismo buffet, dos glucosas: el orden importa",
+      "fuentes": [
+        "669169f739"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-11-19",
+      "dia": "jueves",
+      "hora": "13:00",
+      "pilar": 4,
+      "tema": "¿Con cuánta energía te has levantado hoy? Readiness",
+      "fuentes": [
+        "6798bab68a"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-11-21",
+      "dia": "sábado",
+      "hora": "13:00",
+      "pilar": 5,
+      "tema": "Dos donuts, dos respuestas (y receta casera)",
+      "fuentes": [
+        "218efb0e6f"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-11-24",
+      "dia": "martes",
+      "hora": "13:00",
+      "pilar": 1,
+      "tema": "Cómo afecta: salsa de tomate casera vs industrial (130 vs 154 mg/dl)",
+      "fuentes": [
+        "ig:6ad880a2785291f70efedb09"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-11-26",
+      "dia": "jueves",
+      "hora": "13:00",
+      "pilar": 3,
+      "tema": "Los carbohidratos: ni buenos ni malos, depende de cuáles y cuándo",
+      "fuentes": [
+        "c964e53e42"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-11-28",
+      "dia": "sábado",
+      "hora": "13:00",
+      "pilar": 5,
+      "tema": "El mismo plato no vale para un día de sofá que para uno de bici",
+      "fuentes": [
+        "0ba580ee42",
+        "5cd3b3c282"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-12-01",
+      "dia": "martes",
+      "hora": "13:00",
+      "pilar": 2,
+      "tema": "Entrenas, llegas con hambre… y el pico llega igual",
+      "fuentes": [
+        "ddc78d5635"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-12-03",
+      "dia": "jueves",
+      "hora": "13:00",
+      "pilar": 3,
+      "tema": "Proteína: los ladrillos de tu cuerpo (y tu desayuno)",
+      "fuentes": [
+        "b29db17ed2",
+        "208b423f92",
+        "6506dac3ab"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-12-05",
+      "dia": "sábado",
+      "hora": "13:00",
+      "pilar": 6,
+      "tema": "Tu salud no es una foto: es una película",
+      "fuentes": [
+        "f8067d7f6b"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-12-08",
+      "dia": "martes",
+      "hora": "13:00",
+      "pilar": 1,
+      "tema": "Cómo afecta: magdalena industrial vs casera (152 vs 129 mg/dl)",
+      "fuentes": [
+        "ig:6ad880a1785291f70efedabc"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-12-10",
+      "dia": "jueves",
+      "hora": "13:00",
+      "pilar": 3,
+      "tema": "Las grasas: no tan malas como crees",
+      "fuentes": [
+        "c68d4980fd",
+        "cbadada367",
+        "0a7b870d27"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-12-12",
+      "dia": "sábado",
+      "hora": "13:00",
+      "pilar": 5,
+      "tema": "Bowl de yogur: muesli azucarado vs chocolate negro y frutos secos",
+      "fuentes": [
+        "ig:6ad880a1785291f70efedaae"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-12-15",
+      "dia": "martes",
+      "hora": "13:00",
+      "pilar": 1,
+      "tema": "Cómo afecta: manzana sola vs manzana + 25 g de nueces",
+      "fuentes": [
+        "ig:6ad880a1785291f70efedaa8"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-12-17",
+      "dia": "jueves",
+      "hora": "13:00",
+      "pilar": 3,
+      "tema": "La fibra, tu gran aliada (25 g al día)",
+      "fuentes": [
+        "fd64c991d9",
+        "ig:6ad880a1785291f70efedaa4"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-12-19",
+      "dia": "sábado",
+      "hora": "13:00",
+      "pilar": 5,
+      "tema": "Recetas navideñas Glucovibes",
+      "fuentes": [
+        "93fe8baed2"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-12-22",
+      "dia": "martes",
+      "hora": "13:00",
+      "pilar": 1,
+      "tema": "Cómo afecta: mismo desayuno tras dormir mal vs dormir bien",
+      "fuentes": [
+        "ig:6ad880a1785291f70efeda9c"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-12-24",
+      "dia": "jueves",
+      "hora": "13:00",
+      "pilar": 3,
+      "tema": "Glucosa y actividad: muévete después de comer",
+      "fuentes": [
+        "5b29da3ccf",
+        "bbd61678c8"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-12-26",
+      "dia": "sábado",
+      "hora": "13:00",
+      "pilar": 6,
+      "tema": "Los pilares de un estilo de vida saludable",
+      "fuentes": [
+        "9a1d4e1258"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-12-29",
+      "dia": "martes",
+      "hora": "13:00",
+      "pilar": 1,
+      "tema": "Cómo afecta: puré instantáneo vs puré casero",
+      "fuentes": [
+        "ig:6ad880a1785291f70efedab2"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2026-12-31",
+      "dia": "jueves",
+      "hora": "13:00",
+      "pilar": 4,
+      "tema": "Tus analíticas, mejor cada vez: mira tu evolución",
+      "fuentes": [
+        "70cc8e2075"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2027-01-02",
+      "dia": "sábado",
+      "hora": "13:00",
+      "pilar": 5,
+      "tema": "Smoothie: triturado solo vs con toppings (fibra, proteína, grasa)",
+      "fuentes": [
+        "ig:6ad880a1785291f70efedaa0"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    }
+  ]
+}

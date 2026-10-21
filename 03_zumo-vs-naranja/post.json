@@ -2,24 +2,90 @@
   "id": "03_zumo-vs-naranja",
   "tema": "Zumo de naranja vs. naranja entera",
   "pilar": 1,
-  "fuente": ["23613e7534"],
+  "fuente": [
+    "23613e7534"
+  ],
   "estado": "borrador",
-  "fecha_sugerida": "2026-11-07 (sábado) 10:00",
+  "fecha_sugerida": "2026-11-03 (martes) 13:00",
   "slides": [
-    {"tipo": "portada", "chip": "Misma comida, distinta respuesta", "titulo": "Misma fruta.", "titulo_rojo": "Distinta respuesta.", "subtitulo": "Zumo de naranja vs. naranja entera: lo que le pasa a tu glucosa."},
-    {"tipo": "imagen", "titulo": "Dos curvas", "titulo_rojo": "reales", "src": "curvas.png", "nota": "Curvas observadas; la respuesta puede variar entre personas. Índices: extrapolación visual, no cálculo de la app."},
-    {"tipo": "cifras", "titulo": "La mitad", "titulo_rojo": "de subida", "items": [
-      {"etq": "Zumo", "valor": "+57", "unidad": "mg/dl", "det": "Pico rápido y bajón por debajo del inicio", "nivel": "mala"},
-      {"etq": "Naranja entera", "valor": "+28", "unidad": "mg/dl", "det": "Curva suave, sin caídas bruscas", "nivel": "buena"},
-      {"etq": "GlucoScore zumo", "valor": "5", "unidad": "/10", "det": "Pico 3/10 · Amplitud 3/10", "nivel": "mala"},
-      {"etq": "GlucoScore naranja", "valor": "7", "unidad": "/10", "det": "Pico 5/10 · Amplitud 7/10", "nivel": "buena"}
-    ]},
-    {"tipo": "lista", "titulo": "¿Por qué", "titulo_rojo": "pasa esto?", "items": [
-      {"ico": "🌾", "titulo": "La fibra", "texto": "Se queda en el exprimidor. Y es la que frena la absorción del azúcar."},
-      {"ico": "⏱️", "titulo": "La velocidad", "texto": "Un vaso se bebe en segundos y lleva el azúcar de 2-3 naranjas."},
-      {"ico": "😋", "titulo": "La saciedad", "texto": "Masticar sacia. El zumo, apenas."}
-    ]},
-    {"tipo": "cierre", "titulo": "La forma de comerla", "titulo_rojo": "también importa.", "cta": "Descubre tu respuesta", "web": "glucovibes.com"}
+    {
+      "tipo": "portada",
+      "chip": "Misma comida, distinta respuesta",
+      "titulo": "Misma fruta.",
+      "titulo_rojo": "Distinta respuesta.",
+      "subtitulo": "Zumo de naranja vs. naranja entera: lo que le pasa a tu glucosa."
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "Dos curvas",
+      "titulo_rojo": "reales",
+      "src": "curvas.png",
+      "nota": "Curvas observadas; la respuesta puede variar entre personas. Índices: extrapolación visual, no cálculo de la app."
+    },
+    {
+      "tipo": "cifras",
+      "titulo": "La mitad",
+      "titulo_rojo": "de subida",
+      "items": [
+        {
+          "etq": "Zumo",
+          "valor": "+57",
+          "unidad": "mg/dl",
+          "det": "Pico rápido y bajón por debajo del inicio",
+          "nivel": "mala"
+        },
+        {
+          "etq": "Naranja entera",
+          "valor": "+28",
+          "unidad": "mg/dl",
+          "det": "Curva suave, sin caídas bruscas",
+          "nivel": "buena"
+        },
+        {
+          "etq": "GlucoScore zumo",
+          "valor": "5",
+          "unidad": "/10",
+          "det": "Pico 3/10 · Amplitud 3/10",
+          "nivel": "mala"
+        },
+        {
+          "etq": "GlucoScore naranja",
+          "valor": "7",
+          "unidad": "/10",
+          "det": "Pico 5/10 · Amplitud 7/10",
+          "nivel": "buena"
+        }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "¿Por qué",
+      "titulo_rojo": "pasa esto?",
+      "items": [
+        {
+          "ico": "🌾",
+          "titulo": "La fibra",
+          "texto": "Se queda en el exprimidor. Y es la que frena la absorción del azúcar."
+        },
+        {
+          "ico": "⏱️",
+          "titulo": "La velocidad",
+          "texto": "Un vaso se bebe en segundos y lleva el azúcar de 2-3 naranjas."
+        },
+        {
+          "ico": "😋",
+          "titulo": "La saciedad",
+          "texto": "Masticar sacia. El zumo, apenas."
+        }
+      ]
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "La forma de comerla",
+      "titulo_rojo": "también importa.",
+      "cta": "Descubre tu respuesta",
+      "web": "glucovibes.com"
+    }
   ],
   "instagram": {
     "caption": "Zumo de naranja «natural» vs. naranja entera. ¿Misma cosa? Tu glucosa dice que no 🍊\n\n📈 Zumo: +57 mg/dl, subida rápida y bajón por debajo del punto de partida.\n🟢 Naranja entera: +28 mg/dl, curva suave y sin caídas.\n\nLa diferencia: la fibra (que se queda en el exprimidor), la velocidad (un vaso se bebe en segundos) y la saciedad (masticar sacia).\n\nNo se trata de demonizar el zumo, sino de saber que la forma de consumir un alimento también importa.\n\n💾 Guárdalo para tu próximo desayuno.",
