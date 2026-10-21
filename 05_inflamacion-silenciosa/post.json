@@ -5,7 +5,7 @@
   "fuente": [
     "e97a28b536"
   ],
-  "estado": "borrador",
+  "estado": "en_buffer_borrador",
   "fecha_sugerida": "2026-10-29 (jueves) 13:00",
   "slides": [
     {
@@ -90,5 +90,9 @@
   "linkedin": {
     "texto": "La inflamación más peligrosa es la que no duele.\n\nLa inflamación crónica de bajo grado no da síntomas, pero junto con el estrés oxidativo está detrás de buena parte del envejecimiento y de muchas enfermedades metabólicas.\n\nEn Glucovibes la medimos combinando tres capas: biomarcadores de la analítica de sangre (PCR, NLR, ferritina, albúmina…), datos dinámicos del sensor de glucosa y hábitos diarios de nutrición, descanso y actividad.\n\nEl resultado son dos índices —inflamación interna y estrés oxidativo— donde una puntuación baja significa menor factor de riesgo. Y lo más útil: muestran qué hábitos te están ayudando y cuáles te penalizan.\n\nPonerle número a lo invisible es la forma de actuar antes de que hable el cuerpo.\n\n¿Sabes cómo está tu inflamación?",
     "hashtags": "#SaludMetabólica #Longevidad #HealthTech #Prevención"
+  },
+  "buffer": {
+    "instagram_post_id": "6ad88a3bd0cc3336f11837b1",
+    "canal": "glucovibes (instagram)"
   }
 }

@@ -5,7 +5,7 @@
   "fuente": [
     "26d606020b"
   ],
-  "estado": "borrador",
+  "estado": "en_buffer_borrador",
   "fecha_sugerida": "2026-11-07 (sábado) 13:00",
   "slides": [
     {
@@ -82,5 +82,9 @@
   "linkedin": {
     "texto": "Glucovibes nació de un problema personal.\n\nEn 2004, a nuestro fundador, Alberto Conde Mellado, le diagnosticaron una enfermedad autoinmune. Aquel día empezó una pregunta que no ha dejado de hacerse: ¿qué pasa dentro de mi cuerpo con lo que como, cómo duermo y cómo me muevo?\n\nLa respuesta fue medir. Primero para él; después, para miles de personas que hoy forman la comunidad Glucovibes.\n\nSeguimos con la misma idea: hacer visible lo invisible para decidir con datos, no con modas. Y Alberto sigue siendo, además de fundador, usuario.\n\nPon vida a tus años, no solo años a la vida.",
     "hashtags": "#Emprendimiento #HealthTech #SaludMetabólica #Longevidad"
+  },
+  "buffer": {
+    "instagram_post_id": "6ad88a3d7143aca6ab08c36e",
+    "canal": "glucovibes (instagram)"
   }
 }

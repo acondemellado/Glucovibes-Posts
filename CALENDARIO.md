@@ -7,12 +7,12 @@ Instagram (y LinkedIn cuando esté conectado). 3 por semana: martes (comparativa
 | Fecha | Día | Pilar | Tema | Estado |
 |---|---|---|---|---|
 | 2026-10-21 | miércoles | 3 | ¿Hambre después de comer? Pico y bajón | publicado |
-| 2026-10-27 | martes | 1 | Cómo afecta: pan de molde vs pan 100% integral (156 vs 123 mg/dl) | pendiente |
-| 2026-10-29 | jueves | 4 | La inflamación silenciosa que nadie te mide | pendiente |
-| 2026-10-31 | sábado | 5 | Receta: pan de atún al microondas (proteico, sin harinas) | pendiente |
-| 2026-11-03 | martes | 1 | Zumo o naranja: misma fruta, distinta respuesta | generado |
-| 2026-11-05 | jueves | 2 | ¿Saltarte el desayuno baja tu glucosa? Depende | generado |
-| 2026-11-07 | sábado | 6 | Así nació Glucovibes: hacemos visible lo invisible | pendiente |
+| 2026-10-27 | martes | 1 | Cómo afecta: pan de molde vs pan 100% integral (156 vs 123 mg/dl) | en_buffer_borrador |
+| 2026-10-29 | jueves | 4 | La inflamación silenciosa que nadie te mide | en_buffer_borrador |
+| 2026-10-31 | sábado | 5 | Receta: pan de atún al microondas (proteico, sin harinas) | en_buffer_borrador |
+| 2026-11-03 | martes | 1 | Zumo o naranja: misma fruta, distinta respuesta | en_buffer_borrador |
+| 2026-11-05 | jueves | 2 | ¿Saltarte el desayuno baja tu glucosa? Depende | en_buffer_borrador |
+| 2026-11-07 | sábado | 6 | Así nació Glucovibes: hacemos visible lo invisible | en_buffer_borrador |
 | 2026-11-10 | martes | 1 | Cómo afecta: misma cena a las 20:30 vs a las 23:00 | pendiente |
 | 2026-11-12 | jueves | 4 | ¿Tu cuerpo envejece más rápido o más lento que tú? Edad biológica | pendiente |
 | 2026-11-14 | sábado | 5 | Receta: poke bowl de atún y aguacate | pendiente |

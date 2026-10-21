@@ -5,7 +5,7 @@
   "fuente": [
     "059275dc1c"
   ],
-  "estado": "borrador",
+  "estado": "en_buffer_borrador",
   "fecha_sugerida": "2026-11-05 (jueves) 13:00",
   "slides": [
     {
@@ -110,5 +110,9 @@
   "linkedin": {
     "texto": "El ayuno se ha convertido casi en un dogma. Pero los datos cuentan una historia más matizada.\n\nComparamos dos días de una misma persona con sensor de glucosa, en la misma franja horaria:\n• Sin desayuno (primera comida a las 12:00): máximo 120 mg/dl, amplitud 34 mg/dl.\n• Con desayuno y 3 comidas: máximo 118 mg/dl, amplitud 26 mg/dl.\n\nEsta persona creía que el ayuno matinal le mantenía la glucosa muy baja. En realidad, su impacto fue prácticamente nulo y la primera comida generó una subida más brusca. Una posible explicación en algunas personas: el cortisol, que puede dispararse durante el ayuno matinal.\n\nTres aprendizajes:\n1. El ayuno no es bueno para todo el mundo.\n2. Ayunar no obliga a saltarse comidas: adelantar la cena y retrasar el desayuno también alarga el ayuno nocturno.\n3. En un número elevado de usuarios de Glucovibes, saltarse la cena genera más estabilidad que saltarse el desayuno.\n\nBajar la glucosa no siempre pasa por restringir, sino por entender cómo funciona tu metabolismo.\n\n¿Ayunas? ¿Has medido alguna vez qué te provoca?",
     "hashtags": "#SaludMetabólica #Ayuno #Glucosa #NutriciónDePrecisión #HealthTech"
+  },
+  "buffer": {
+    "instagram_post_id": "6ad88a56d1cf44a4af4c4263",
+    "canal": "glucovibes (instagram)"
   }
 }

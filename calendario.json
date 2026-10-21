@@ -28,8 +28,8 @@
         "ig:6ad880a2785291f70efedaf4",
         "fd64c991d9"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "04_pan-molde-vs-integral",
+      "estado": "en_buffer_borrador"
     },
     {
       "fecha": "2026-10-29",
@@ -40,8 +40,8 @@
       "fuentes": [
         "e97a28b536"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "05_inflamacion-silenciosa",
+      "estado": "en_buffer_borrador"
     },
     {
       "fecha": "2026-10-31",
@@ -53,8 +53,8 @@
         "d1f5d2d6cb",
         "ig:6ad880a1785291f70efeda98"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "06_pan-de-atun",
+      "estado": "en_buffer_borrador"
     },
     {
       "fecha": "2026-11-03",
@@ -66,7 +66,7 @@
         "23613e7534"
       ],
       "carpeta": "03_zumo-vs-naranja",
-      "estado": "generado"
+      "estado": "en_buffer_borrador"
     },
     {
       "fecha": "2026-11-05",
@@ -78,7 +78,7 @@
         "059275dc1c"
       ],
       "carpeta": "02_ayuno-desayuno",
-      "estado": "generado"
+      "estado": "en_buffer_borrador"
     },
     {
       "fecha": "2026-11-07",
@@ -89,8 +89,8 @@
       "fuentes": [
         "26d606020b"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "07_origen-glucovibes",
+      "estado": "en_buffer_borrador"
     },
     {
       "fecha": "2026-11-10",

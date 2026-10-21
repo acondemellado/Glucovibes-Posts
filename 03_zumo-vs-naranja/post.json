@@ -5,7 +5,7 @@
   "fuente": [
     "23613e7534"
   ],
-  "estado": "borrador",
+  "estado": "en_buffer_borrador",
   "fecha_sugerida": "2026-11-03 (martes) 13:00",
   "slides": [
     {
@@ -94,5 +94,9 @@
   "linkedin": {
     "texto": "Mismo alimento, distinta respuesta metabólica.\n\nUn vaso de zumo de naranja y una naranja entera parecen equivalentes. Las curvas de glucosa dicen lo contrario:\n• Zumo: +57 mg/dl, con un descenso posterior por debajo del nivel basal.\n• Naranja entera: +28 mg/dl, con una curva suave y sostenida.\n• GlucoScore estimado: 5/10 frente a 7/10.\n\n¿Por qué? Al exprimir, la mayor parte de la fibra se queda fuera; un vaso concentra el azúcar de 2-3 piezas y se consume en segundos, sin la saciedad que aporta masticar.\n\nEs un ejemplo sencillo de algo que vemos a diario en Glucovibes: no solo importa qué comes, sino cómo lo comes. Y la respuesta varía entre personas, por eso medir marca la diferencia.\n\n¿Sigues tomando zumo en el desayuno?",
     "hashtags": "#SaludMetabólica #Glucosa #Nutrición #NutriciónDePrecisión #HealthTech"
+  },
+  "buffer": {
+    "instagram_post_id": "6ad88a55d109f3f66b8ac685",
+    "canal": "glucovibes (instagram)"
   }
 }
