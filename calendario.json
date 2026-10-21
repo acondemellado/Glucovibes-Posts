@@ -9,7 +9,7 @@
     {
       "fecha": "2026-10-21",
       "dia": "miércoles",
-      "hora": "13:00",
+      "hora": "11:37",
       "pilar": 3,
       "tema": "¿Hambre después de comer? Pico y bajón",
       "fuentes": [
@@ -21,7 +21,7 @@
     {
       "fecha": "2026-10-27",
       "dia": "martes",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 1,
       "tema": "Cómo afecta: pan de molde vs pan 100% integral (156 vs 123 mg/dl)",
       "fuentes": [
@@ -29,24 +29,24 @@
         "fd64c991d9"
       ],
       "carpeta": "04_pan-molde-vs-integral",
-      "estado": "en_buffer_borrador"
+      "estado": "revisar"
     },
     {
       "fecha": "2026-10-29",
       "dia": "jueves",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 4,
       "tema": "La inflamación silenciosa que nadie te mide",
       "fuentes": [
         "e97a28b536"
       ],
       "carpeta": "05_inflamacion-silenciosa",
-      "estado": "en_buffer_borrador"
+      "estado": "programado"
     },
     {
       "fecha": "2026-10-31",
       "dia": "sábado",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 5,
       "tema": "Receta: pan de atún al microondas (proteico, sin harinas)",
       "fuentes": [
@@ -54,48 +54,48 @@
         "ig:6ad880a1785291f70efeda98"
       ],
       "carpeta": "06_pan-de-atun",
-      "estado": "en_buffer_borrador"
+      "estado": "programado"
     },
     {
       "fecha": "2026-11-03",
       "dia": "martes",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 1,
       "tema": "Zumo o naranja: misma fruta, distinta respuesta",
       "fuentes": [
         "23613e7534"
       ],
       "carpeta": "03_zumo-vs-naranja",
-      "estado": "en_buffer_borrador"
+      "estado": "programado"
     },
     {
       "fecha": "2026-11-05",
       "dia": "jueves",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 2,
       "tema": "¿Saltarte el desayuno baja tu glucosa? Depende",
       "fuentes": [
         "059275dc1c"
       ],
       "carpeta": "02_ayuno-desayuno",
-      "estado": "en_buffer_borrador"
+      "estado": "programado"
     },
     {
       "fecha": "2026-11-07",
       "dia": "sábado",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 6,
       "tema": "Así nació Glucovibes: hacemos visible lo invisible",
       "fuentes": [
         "26d606020b"
       ],
       "carpeta": "07_origen-glucovibes",
-      "estado": "en_buffer_borrador"
+      "estado": "programado"
     },
     {
       "fecha": "2026-11-10",
       "dia": "martes",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 1,
       "tema": "Cómo afecta: misma cena a las 20:30 vs a las 23:00",
       "fuentes": [
@@ -107,7 +107,7 @@
     {
       "fecha": "2026-11-12",
       "dia": "jueves",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 4,
       "tema": "¿Tu cuerpo envejece más rápido o más lento que tú? Edad biológica",
       "fuentes": [
@@ -119,7 +119,7 @@
     {
       "fecha": "2026-11-14",
       "dia": "sábado",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 5,
       "tema": "Receta: poke bowl de atún y aguacate",
       "fuentes": [
@@ -131,7 +131,7 @@
     {
       "fecha": "2026-11-17",
       "dia": "martes",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 1,
       "tema": "Mismo buffet, dos glucosas: el orden importa",
       "fuentes": [
@@ -143,7 +143,7 @@
     {
       "fecha": "2026-11-19",
       "dia": "jueves",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 4,
       "tema": "¿Con cuánta energía te has levantado hoy? Readiness",
       "fuentes": [
@@ -155,7 +155,7 @@
     {
       "fecha": "2026-11-21",
       "dia": "sábado",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 5,
       "tema": "Dos donuts, dos respuestas (y receta casera)",
       "fuentes": [
@@ -167,7 +167,7 @@
     {
       "fecha": "2026-11-24",
       "dia": "martes",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 1,
       "tema": "Cómo afecta: salsa de tomate casera vs industrial (130 vs 154 mg/dl)",
       "fuentes": [
@@ -179,7 +179,7 @@
     {
       "fecha": "2026-11-26",
       "dia": "jueves",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 3,
       "tema": "Los carbohidratos: ni buenos ni malos, depende de cuáles y cuándo",
       "fuentes": [
@@ -191,7 +191,7 @@
     {
       "fecha": "2026-11-28",
       "dia": "sábado",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 5,
       "tema": "El mismo plato no vale para un día de sofá que para uno de bici",
       "fuentes": [
@@ -204,7 +204,7 @@
     {
       "fecha": "2026-12-01",
       "dia": "martes",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 2,
       "tema": "Entrenas, llegas con hambre… y el pico llega igual",
       "fuentes": [
@@ -216,7 +216,7 @@
     {
       "fecha": "2026-12-03",
       "dia": "jueves",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 3,
       "tema": "Proteína: los ladrillos de tu cuerpo (y tu desayuno)",
       "fuentes": [
@@ -230,7 +230,7 @@
     {
       "fecha": "2026-12-05",
       "dia": "sábado",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 6,
       "tema": "Tu salud no es una foto: es una película",
       "fuentes": [
@@ -242,7 +242,7 @@
     {
       "fecha": "2026-12-08",
       "dia": "martes",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 1,
       "tema": "Cómo afecta: magdalena industrial vs casera (152 vs 129 mg/dl)",
       "fuentes": [
@@ -254,7 +254,7 @@
     {
       "fecha": "2026-12-10",
       "dia": "jueves",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 3,
       "tema": "Las grasas: no tan malas como crees",
       "fuentes": [
@@ -268,7 +268,7 @@
     {
       "fecha": "2026-12-12",
       "dia": "sábado",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 5,
       "tema": "Bowl de yogur: muesli azucarado vs chocolate negro y frutos secos",
       "fuentes": [
@@ -280,7 +280,7 @@
     {
       "fecha": "2026-12-15",
       "dia": "martes",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 1,
       "tema": "Cómo afecta: manzana sola vs manzana + 25 g de nueces",
       "fuentes": [
@@ -292,7 +292,7 @@
     {
       "fecha": "2026-12-17",
       "dia": "jueves",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 3,
       "tema": "La fibra, tu gran aliada (25 g al día)",
       "fuentes": [
@@ -305,7 +305,7 @@
     {
       "fecha": "2026-12-19",
       "dia": "sábado",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 5,
       "tema": "Recetas navideñas Glucovibes",
       "fuentes": [
@@ -317,7 +317,7 @@
     {
       "fecha": "2026-12-22",
       "dia": "martes",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 1,
       "tema": "Cómo afecta: mismo desayuno tras dormir mal vs dormir bien",
       "fuentes": [
@@ -329,7 +329,7 @@
     {
       "fecha": "2026-12-24",
       "dia": "jueves",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 3,
       "tema": "Glucosa y actividad: muévete después de comer",
       "fuentes": [
@@ -342,7 +342,7 @@
     {
       "fecha": "2026-12-26",
       "dia": "sábado",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 6,
       "tema": "Los pilares de un estilo de vida saludable",
       "fuentes": [
@@ -354,7 +354,7 @@
     {
       "fecha": "2026-12-29",
       "dia": "martes",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 1,
       "tema": "Cómo afecta: puré instantáneo vs puré casero",
       "fuentes": [
@@ -366,7 +366,7 @@
     {
       "fecha": "2026-12-31",
       "dia": "jueves",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 4,
       "tema": "Tus analíticas, mejor cada vez: mira tu evolución",
       "fuentes": [
@@ -378,7 +378,7 @@
     {
       "fecha": "2027-01-02",
       "dia": "sábado",
-      "hora": "13:00",
+      "hora": "19:30",
       "pilar": 5,
       "tema": "Smoothie: triturado solo vs con toppings (fibra, proteína, grasa)",
       "fuentes": [
@@ -387,5 +387,6 @@
       "carpeta": null,
       "estado": "pendiente"
     }
-  ]
+  ],
+  "hora_publicacion": "19:30 (Europe/Madrid); Buffer indica que el mejor horario es 19:00-20:00"
 }
