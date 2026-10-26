@@ -1,0 +1,90 @@
+{
+  "id": "08_cena-temprana-vs-tarde",
+  "tema": "Cómo afecta: misma cena a las 20:30 vs a las 23:00",
+  "pilar": 1,
+  "fuente": [
+    "ig:6ad880a1785291f70efedae1"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-11-10 (martes) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Cómo afecta",
+      "titulo": "Misma cena.",
+      "titulo_rojo": "Distinta hora.",
+      "subtitulo": "Un Viber cenó lo mismo a las 20:30 y a las 23:00. Su glucosa no respondió igual."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "El",
+      "titulo_rojo": "experimento",
+      "items": [
+        {
+          "ico": "🕗",
+          "titulo": "Cena 1: a las 20:30",
+          "texto": "Exactamente los mismos alimentos."
+        },
+        {
+          "ico": "🕚",
+          "titulo": "Cena 2: a las 23:00",
+          "texto": "El mismo plato, dos horas y media más tarde."
+        },
+        {
+          "ico": "⚖️",
+          "titulo": "Todo lo demás, igual",
+          "texto": "Misma composición, actividad física y nivel de estrés."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "La hora",
+      "titulo_rojo": "también cuenta",
+      "src": "curvas.png",
+      "ancho": 900,
+      "nota": "Curvas reales de un Viber, misma cena en dos horarios. Picos aproximados leídos en la gráfica. La respuesta puede variar entre personas."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "¿Por qué",
+      "titulo_rojo": "pasa esto?",
+      "items": [
+        {
+          "ico": "🌙",
+          "titulo": "Menos sensibilidad a la insulina",
+          "texto": "Por la noche baja y al cuerpo le cuesta más gestionar la glucosa."
+        },
+        {
+          "ico": "😴",
+          "titulo": "Ritmos circadianos",
+          "texto": "Cenar tarde puede alterarlos y empeorar la calidad del descanso."
+        }
+      ]
+    },
+    {
+      "tipo": "portada",
+      "chip": "#Glucotip",
+      "titulo": "Adelanta la cena",
+      "titulo_rojo": "cuando puedas.",
+      "subtitulo": "Tu glucosa y tu descanso lo notarán.",
+      "desliza": "Desliza →"
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Deja de adivinar.",
+      "titulo_rojo": "Mídelo.",
+      "cta": "Descubre tu respuesta",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🍽️ Hoy, en «Cómo afecta»: ¿importa la hora de la cena?\n\nUn Viber cenó exactamente lo mismo dos días: a las 20:30 y a las 23:00. Misma composición, misma actividad, mismo estrés.\n\n📈 A las 20:30, la curva se quedó estable, con un pico de unos 107 mg/dl. A las 23:00, la misma cena subió hasta unos 138 mg/dl y la curva se mantuvo alta más tiempo.\n\n🌙 ¿Por qué? Por la noche baja la sensibilidad a la insulina y el cuerpo entra en modo reposo. Cenar tarde también puede alterar tus ritmos circadianos y tu descanso.\n\n💡 #Glucotip: siempre que puedas, adelanta la cena.\n\nY recuerda: tu respuesta es tuya.\n\n¿A qué hora sueles cenar? 👇",
+    "hashtags": "#comoafecta #glucosa #saludmetabolica #crononutricion #ritmoscircadianos #impactoglucemico #nutriciondeprecision #glucovibes"
+  },
+  "linkedin": {
+    "texto": "¿Importa a qué hora cenas? Los datos dicen que sí.\n\nUn usuario de Glucovibes cenó exactamente lo mismo dos días: a las 20:30 y a las 23:00, con la misma actividad y el mismo nivel de estrés.\n\nA las 20:30 la curva se mantuvo estable, con un pico de unos 107 mg/dl. A las 23:00, la misma cena llegó a unos 138 mg/dl y la glucosa tardó más en bajar.\n\nPor la noche la sensibilidad a la insulina disminuye y el cuerpo se prepara para descansar. Cenar tarde complica la gestión de la glucosa y puede afectar al sueño.\n\nNo siempre podemos elegir la hora. Pero cuando se puede, adelantar la cena es un cambio pequeño con efecto medible.\n\n¿Lo habías visto en tus datos?",
+    "hashtags": "#SaludMetabólica #Glucosa #NutriciónDePrecisión #HealthTech #Crononutrición"
+  },
+  "nota_revision": "El texto del reel no da cifras. Los picos (≈107 y ≈138 mg/dl) están leídos en la gráfica del propio reel (fotograma de la miniatura; Buffer no guarda el vídeo de este post, así que no hay subtítulos que contrastar). Revisa si te parecen bien o prefieres quitar las cifras."
+}

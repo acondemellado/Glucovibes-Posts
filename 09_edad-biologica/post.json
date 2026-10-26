@@ -1,0 +1,100 @@
+{
+  "id": "09_edad-biologica",
+  "tema": "¿Tu cuerpo envejece más rápido o más lento que tú? Edad biológica",
+  "pilar": 4,
+  "fuente": [
+    "0e31ddea65"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-11-12 (jueves) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Indicadores Glucovibes",
+      "titulo": "Tienes dos edades.",
+      "titulo_rojo": "¿Coinciden?",
+      "subtitulo": "La de tu DNI y la de tu metabolismo."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Qué es la",
+      "titulo_rojo": "edad biológica",
+      "items": [
+        {
+          "ico": "🕰️",
+          "titulo": "El estado real de tu organismo",
+          "texto": "Puede ir más rápido o más lento que los años que cumples."
+        },
+        {
+          "ico": "🩸",
+          "titulo": "Sale de tu analítica",
+          "texto": "Con los biomarcadores de tu última analítica de sangre."
+        },
+        {
+          "ico": "🔬",
+          "titulo": "Fórmulas contrastadas",
+          "texto": "Como PhenoAge, usada en estudios científicos."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "Así se ve",
+      "titulo_rojo": "en la app",
+      "src": "app.png",
+      "ancho": 560,
+      "nota": "Captura real de la app Glucovibes de una Viber."
+    },
+    {
+      "tipo": "portada",
+      "chip": "Lo importante",
+      "titulo": "No es el número.",
+      "titulo_rojo": "Es la dirección.",
+      "subtitulo": "Saber si tu ritmo está acelerado o ralentizado te dice si tus hábitos suman o restan años.",
+      "desliza": "Desliza →"
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Las palancas",
+      "titulo_rojo": "para frenar el reloj",
+      "items": [
+        {
+          "ico": "🥗",
+          "titulo": "Nutrición",
+          "texto": "Comida real y equilibrada."
+        },
+        {
+          "ico": "😴",
+          "titulo": "Descanso",
+          "texto": "Dormir bien, todos los días."
+        },
+        {
+          "ico": "🚶",
+          "titulo": "Actividad",
+          "texto": "Moverte con regularidad."
+        },
+        {
+          "ico": "📈",
+          "titulo": "Control de la glucosa",
+          "texto": "Menos picos y bajones."
+        }
+      ],
+      "nota": "Mantenidas en el tiempo."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Sube tu analítica.",
+      "titulo_rojo": "Descubre tu edad real.",
+      "cta": "Pruébalo en la app",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🕰️ Tienes una edad en el DNI… y otra por dentro.\n\nTu edad biológica refleja el estado real de tu organismo. Y puede ir más rápido o más lento que los años que cumples.\n\n🩸 En Glucovibes la calculamos con los biomarcadores de tu última analítica de sangre, usando fórmulas contrastadas en estudios científicos, como PhenoAge.\n\n📉 Lo potente no es el número, es la dirección: saber si tu ritmo está acelerado o ralentizado te dice si tus hábitos suman o restan años.\n\n💡 Nutrición, descanso, actividad y control de la glucosa: esas son las palancas.\n\n🚀 Sube tu analítica a la app y descubre tu edad biológica. Link en bio.",
+    "hashtags": "#edadbiologica #longevidad #saludmetabolica #glucosa #analiticas #glucovibes #habitossaludables #bienestar"
+  },
+  "linkedin": {
+    "texto": "Tienes una edad en el DNI y otra por dentro. No siempre coinciden.\n\nLa edad biológica refleja el estado real del organismo y puede avanzar más rápido o más lento que los años cumplidos. En Glucovibes la estimamos a partir de los biomarcadores de una analítica de sangre, con fórmulas contrastadas en la literatura científica como PhenoAge.\n\nLo interesante no es el número aislado, sino la dirección: si el ritmo de envejecimiento está acelerado o ralentizado. Eso indica si los hábitos están sumando o restando, y da algo concreto sobre lo que actuar.\n\nNutrición, descanso, actividad y control de la glucosa son las palancas que, mantenidas en el tiempo, pueden frenar ese reloj interno.\n\n¿Conoces tu edad biológica?",
+    "hashtags": "#Longevidad #SaludMetabólica #HealthTech #EdadBiológica"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "13_donut-casero-vs-industrial",
+  "tema": "Dos donuts, dos respuestas: industrial vs Glucovibes",
+  "pilar": 5,
+  "fuente": [
+    "218efb0e6f"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-11-21 (sábado) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Misma comida, distinta respuesta",
+      "titulo": "Dos donuts.",
+      "titulo_rojo": "Dos respuestas.",
+      "subtitulo": "¿Un donut puede no disparar tu glucosa? Depende de cómo esté hecho."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Los",
+      "titulo_rojo": "dos donuts",
+      "items": [
+        {
+          "ico": "🍩",
+          "titulo": "Donut industrial",
+          "texto": "Harina refinada, azúcares añadidos, grasas y muy poca fibra."
+        },
+        {
+          "ico": "🍫",
+          "titulo": "Donut Glucovibes",
+          "texto": "Verduras y comida real no refinada, sin azúcares añadidos y con chocolate de alta pureza."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "47 mg/dl",
+      "titulo_rojo": "de diferencia",
+      "src": "curvas.png",
+      "ancho": 860,
+      "nota": "Curvas observadas en la misma persona, dos días consecutivos a la misma hora. El impacto puede variar entre personas."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Qué dicen",
+      "titulo_rojo": "las curvas",
+      "columnas": [
+        "",
+        "Industrial",
+        "Glucovibes"
+      ],
+      "filas": [
+        [
+          "Pico",
+          "153 mg/dl",
+          "106 mg/dl*"
+        ],
+        [
+          "Mínimo",
+          "81 mg/dl",
+          "78 mg/dl"
+        ],
+        [
+          "Pico (índice)",
+          "3/10",
+          "9/10*"
+        ],
+        [
+          "Estabilización",
+          "3/10",
+          "8/10*"
+        ],
+        [
+          "Amplitud",
+          "2/10",
+          "7/10*"
+        ],
+        [
+          "GlucoScore",
+          "5/10",
+          "8/10*"
+        ]
+      ]
+    },
+    {
+      "tipo": "portada",
+      "chip": "La clave",
+      "titulo": "El problema no es el capricho.",
+      "titulo_rojo": "Es cómo está hecho.",
+      "subtitulo": "Con fibra y comida real, el mismo antojo se gestiona con mucha más calma.",
+      "desliza": "Desliza →"
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "¿Quieres la receta?",
+      "titulo_rojo": "Escríbenos.",
+      "cta": "Prueba tus versiones",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🍩 Dos donuts. Dos respuestas.\n\nUn Viber comparó dos donuts en dos días consecutivos, a la misma hora:\n\n🍩 Industrial: harina refinada, azúcares añadidos y muy poca fibra. Subida rápida hasta 153 mg/dl y caída brusca. GlucoScore 5/10.\n\n🍫 Glucovibes: verduras y comida real, sin azúcares añadidos y con chocolate de alta pureza. Apenas pasó de 106 mg/dl. GlucoScore 8/10.\n\n💡 El problema no es el capricho, es cómo está hecho. Cuando la base es fibra y alimentos reales, tu metabolismo lo gestiona con mucha más calma.\n\nNo hace falta renunciar a todo: hace falta saber qué te sienta bien a ti. Tu respuesta es tuya.\n\n¿Quieres la receta del donut Glucovibes? Escríbenos por mensaje directo. 📩",
+    "hashtags": "#donut #recetasaludable #sinazucar #glucosa #saludmetabolica #comoafecta #glucovibes #comidareal"
+  },
+  "linkedin": {
+    "texto": "¿Un donut puede no disparar la glucosa? Depende de cómo esté hecho.\n\nComparamos dos en la misma persona, en dos días consecutivos y a la misma hora. El industrial (harina refinada, azúcares añadidos, poca fibra) llevó la glucosa a 153 mg/dl con una caída brusca: GlucoScore 5/10. La versión Glucovibes, con verduras y comida real, sin azúcares añadidos y con chocolate de alta pureza, apenas pasó de 106 mg/dl: GlucoScore 8/10.\n\nEl problema no es el capricho, sino su diseño. Con fibra y alimentos reales como base, el mismo antojo se convierte en algo que el metabolismo gestiona con mucha más calma.\n\nEl impacto puede variar entre personas: por eso medimos.\n\n¿Qué capricho te gustaría poner a prueba?",
+    "hashtags": "#SaludMetabólica #Glucosa #NutriciónDePrecisión #HealthTech"
+  },
+  "nota_revision": "He quitado la marca del donut industrial que cita la newsletter. La imagen de curvas es la de la newsletter (rotulada «Dona convencional» / «Dona Glucovibes»). La receta no está en la biblioteca: el cierre invita a pedirla por mensaje directo."
+}

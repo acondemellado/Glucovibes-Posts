@@ -1,0 +1,116 @@
+{
+  "id": "11_buffet-actividad",
+  "tema": "Mismo buffet, dos glucosas: moverte alrededor de la comida",
+  "pilar": 1,
+  "fuente": [
+    "669169f739"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-11-17 (martes) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Misma comida, distinta respuesta",
+      "titulo": "Mismo desayuno.",
+      "titulo_rojo": "Dos glucosas.",
+      "subtitulo": "No comió menos. Se movió alrededor de la comida."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "La",
+      "titulo_rojo": "prueba",
+      "items": [
+        {
+          "ico": "🍽️",
+          "titulo": "El mismo desayuno tipo buffet",
+          "texto": "Unas 1000 kcal, en dos días distintos."
+        },
+        {
+          "ico": "🛋️",
+          "titulo": "Día 1: sin moverse",
+          "texto": "Sin actividad antes ni después."
+        },
+        {
+          "ico": "🏋️",
+          "titulo": "Día 2: con actividad",
+          "texto": "Algo de fuerza antes y un paseo de 30-40 min después."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "27 mg/dl",
+      "titulo_rojo": "de diferencia",
+      "src": "curvas.png",
+      "ancho": 900,
+      "nota": "Curvas reales de un Viber, mismo desayuno en dos días. La respuesta puede variar entre personas."
+    },
+    {
+      "tipo": "cifras",
+      "titulo": "El",
+      "titulo_rojo": "resultado",
+      "items": [
+        {
+          "etq": "Pico sin moverse",
+          "valor": "142",
+          "unidad": "mg/dl",
+          "det": "Subida brusca, montaña rusa",
+          "nivel": "mala"
+        },
+        {
+          "etq": "Pico con actividad",
+          "valor": "115",
+          "unidad": "mg/dl",
+          "det": "Curva mucho más plana",
+          "nivel": "buena"
+        },
+        {
+          "etq": "GlucoScore",
+          "valor": "5",
+          "unidad": "/10",
+          "det": "Sin moverse",
+          "nivel": "mala"
+        },
+        {
+          "etq": "GlucoScore",
+          "valor": "8",
+          "unidad": "/10",
+          "det": "Con actividad",
+          "nivel": "buena"
+        }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "¿Por qué",
+      "titulo_rojo": "funciona?",
+      "items": [
+        {
+          "ico": "💪",
+          "titulo": "Fuerza antes",
+          "texto": "Prepara el músculo para captar glucosa."
+        },
+        {
+          "ico": "🚶",
+          "titulo": "Paseo después",
+          "texto": "La quema en lugar de acumularla."
+        }
+      ]
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Deja de adivinar.",
+      "titulo_rojo": "Mídelo.",
+      "cta": "Descubre tu respuesta",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🍽️ Mismo desayuno. Dos glucosas.\n\nUn Viber tomó el mismo desayuno tipo buffet (unas 1000 kcal) dos días.\n\n🛋️ Día 1, sin moverse: pico de 142 mg/dl, subida brusca y GlucoScore de 5.\n\n🏋️ Día 2, con algo de fuerza antes y un paseo de 30-40 minutos después: pico de 115 mg/dl, curva mucho más plana y GlucoScore de 8.\n\n¿La diferencia? No comió menos: se movió alrededor de la comida. La fuerza prepara el músculo para captar glucosa y el paseo la quema en lugar de acumularla.\n\nFunciona en el buffet del hotel… y cualquier día del año. Tu respuesta es tuya.\n\nGuárdalo para tu próximo desayuno fuera. 📌",
+    "hashtags": "#glucosa #saludmetabolica #actividadfisica #paseo #glucoscore #nutriciondeprecision #glucovibes #habitossaludables"
+  },
+  "linkedin": {
+    "texto": "Mismo desayuno, misma cantidad (unas 1000 kcal), dos curvas de glucosa muy distintas.\n\nUn usuario de Glucovibes hizo la prueba con un desayuno tipo buffet en dos días. Sin moverse, la glucosa llegó a 142 mg/dl con un GlucoScore de 5. Con algo de fuerza antes y un paseo de 30-40 minutos después, el pico se quedó en 115 mg/dl y el GlucoScore subió a 8.\n\nNo comió menos. Cambió lo que hizo alrededor de la comida: el músculo activado capta glucosa y el paseo la utiliza en lugar de acumularla.\n\nEs un recurso sencillo para viajes, comidas de trabajo o cualquier día.\n\n¿Lo habías visto en tus datos?",
+    "hashtags": "#SaludMetabólica #Glucosa #ActividadFísica #HealthTech"
+  }
+}

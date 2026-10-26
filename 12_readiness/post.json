@@ -1,0 +1,93 @@
+{
+  "id": "12_readiness",
+  "tema": "¿Con cuánta energía te has levantado hoy? Readiness",
+  "pilar": 4,
+  "fuente": [
+    "6798bab68a"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-11-19 (jueves) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Indicadores Glucovibes",
+      "titulo": "¿Con cuánta energía",
+      "titulo_rojo": "te has levantado hoy?",
+      "subtitulo": "No es casualidad: es tu Readiness."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "De dónde",
+      "titulo_rojo": "sale",
+      "items": [
+        {
+          "ico": "💓",
+          "titulo": "HRV nocturna",
+          "texto": "Gran termómetro de tu recuperación."
+        },
+        {
+          "ico": "❤️",
+          "titulo": "Frecuencia cardíaca en reposo",
+          "texto": "Leída de tu reloj o pulsera."
+        },
+        {
+          "ico": "😴",
+          "titulo": "Tu sueño y su calidad",
+          "texto": "Según tus sensaciones al despertar."
+        },
+        {
+          "ico": "🔋",
+          "titulo": "Body battery",
+          "texto": "Tu batería corporal."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "Así se ve",
+      "titulo_rojo": "cada mañana",
+      "src": "app.png",
+      "ancho": 500,
+      "nota": "Captura real de la app Glucovibes de una Viber."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Para qué",
+      "titulo_rojo": "sirve",
+      "items": [
+        {
+          "ico": "⚡",
+          "titulo": "Readiness alto",
+          "texto": "Día para dar caña."
+        },
+        {
+          "ico": "🛌",
+          "titulo": "Readiness bajo",
+          "texto": "Mejor recuperarte, evitar lo intenso y cuidar los hidratos refinados."
+        },
+        {
+          "ico": "🩸",
+          "titulo": "Sin sensor de glucosa",
+          "texto": "Se calcula con tus datos cada mañana."
+        }
+      ],
+      "nota": "Necesita varios días de datos para calibrarse contigo."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Empieza el día",
+      "titulo_rojo": "sabiendo cómo estás.",
+      "cta": "Descubre tu Readiness",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "⚡ Hay días que te levantas como una moto… y otros en los que el cuerpo pesa antes de poner un pie en el suelo.\n\nNo es casualidad: es tu Readiness, tu nivel de recuperación y energía para el día.\n\n💓 Glucovibes lo calcula con tu HRV nocturna, tu frecuencia cardíaca en reposo, tu sueño y tu batería corporal, leídos de tu reloj o pulsera.\n\n🙋 Y le suma algo que ningún sensor capta: cómo te sientes al despertar.\n\n💡 ¿Readiness alto? Dale caña. ¿Bajo? Recupera, evita lo intenso y cuida los hidratos refinados.\n\nNo necesitas sensor de glucosa. Solo unos días para que la app te conozca.\n\n¿Cómo te has levantado hoy? 👇",
+    "hashtags": "#readiness #hrv #recuperacion #descanso #saludmetabolica #glucovibes #wearables #bienestar"
+  },
+  "linkedin": {
+    "texto": "Hay días en los que te levantas con energía y otros en los que el cuerpo pesa antes de empezar. Eso se puede medir.\n\nEl Readiness de Glucovibes estima tu nivel de recuperación cada mañana a partir de datos fisiológicos de tu wearable: HRV nocturna, frecuencia cardíaca en reposo, sueño y batería corporal. Y añade lo que ningún sensor capta: un breve cuestionario sobre cómo te sientes al despertar.\n\nSe calcula con una ventana de varios días para calibrarse a cada persona, y no necesita sensor de glucosa.\n\n¿Para qué sirve? Para decidir con cabeza: un día de Readiness alto admite intensidad; uno bajo pide recuperación, descanso y comidas equilibradas.\n\n¿Ajustas tu día según cómo has dormido?",
+    "hashtags": "#HealthTech #Wearables #Recuperación #SaludMetabólica"
+  },
+  "nota_revision": "He omitido la marca del reloj que cita la newsletter (regla de no marcas de terceros)."
+}

@@ -1,0 +1,101 @@
+{
+  "id": "10_receta-bocados-pollo",
+  "tema": "Receta: bocados de pollo con ensalada de pasta de lenteja y salsa de yogur",
+  "pilar": 5,
+  "fuente": [
+    "adc44e1e32"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-11-14 (sábado) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Receta Glucovibes",
+      "titulo": "Un plato que",
+      "titulo_rojo": "no dispara tu glucosa.",
+      "subtitulo": "Bocados de pollo con ensalada de pasta de lenteja y salsa de yogur."
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "Del recetario",
+      "titulo_rojo": "de la app",
+      "src": "receta.png",
+      "ancho": 560,
+      "nota": "Ficha real de la receta en la app Glucovibes."
+    },
+    {
+      "tipo": "cifras",
+      "titulo": "Lo que",
+      "titulo_rojo": "lleva el plato",
+      "items": [
+        {
+          "etq": "Proteína",
+          "valor": "64",
+          "unidad": "g",
+          "det": "Saciedad y músculo",
+          "nivel": "buena"
+        },
+        {
+          "etq": "Fibra",
+          "valor": "11",
+          "unidad": "g",
+          "det": "44% de la CDR",
+          "nivel": "buena"
+        },
+        {
+          "etq": "Hidratos",
+          "valor": "43",
+          "unidad": "g",
+          "det": "De pasta de lenteja",
+          "nivel": "buena"
+        },
+        {
+          "etq": "Energía",
+          "valor": "635",
+          "unidad": "kcal",
+          "det": "Comida o cena",
+          "nivel": "buena"
+        }
+      ],
+      "nota": "Datos de la ficha de la receta en la app."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Por qué",
+      "titulo_rojo": "funciona",
+      "items": [
+        {
+          "ico": "🥗",
+          "titulo": "Equilibrio",
+          "texto": "Fibra, carbohidratos, proteína de calidad y grasas saludables."
+        },
+        {
+          "ico": "📈",
+          "titulo": "Glucosa estable",
+          "texto": "Ayuda a mantener la curva tranquila y alarga la saciedad."
+        },
+        {
+          "ico": "🥡",
+          "titulo": "Lista para el tupper",
+          "texto": "Perfecta para llevar al trabajo."
+        }
+      ]
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Más recetas",
+      "titulo_rojo": "en la app.",
+      "cta": "Filtra por momento del día",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🥗 ¿Sin ideas para comer? Esta receta es sencilla, para cualquier nivel en la cocina.\n\nBocados de pollo con ensalada de pasta de lenteja y salsa de yogur. 🍗\n\n✅ Combina fibra, carbohidratos, proteína de calidad y grasas saludables. Así ayuda a mantener la glucosa estable y a alargar la saciedad.\n\n📊 En la ficha de la app: 635 kcal, 64 g de proteína y 11 g de fibra.\n\n🥡 Y te la puedes llevar al trabajo en un tupper.\n\nEl paso a paso está en el recetario de la app Glucovibes, con filtros para opciones veganas, vegetarianas, intolerancias y momento del día.\n\nGuárdala para tu próxima comida. 📌",
+    "hashtags": "#recetasaludable #recetasfaciles #tupper #glucosa #saludmetabolica #nutriciondeprecision #glucovibes #comidareal"
+  },
+  "linkedin": {
+    "texto": "Comer bien entre semana no tiene por qué ser complicado.\n\nEn el recetario de Glucovibes hay ideas sencillas pensadas para mantener la glucosa estable. Un ejemplo: bocados de pollo con ensalada de pasta de lenteja y salsa de yogur.\n\nCombina fibra, carbohidratos, proteína de calidad y grasas saludables: 635 kcal, 64 g de proteína y 11 g de fibra según la ficha de la app. Esa combinación ayuda a suavizar la curva y a alargar la saciedad.\n\nY cabe en un tupper, que es lo que de verdad decide qué comemos un martes cualquiera.\n\n¿Qué te funciona a ti para comer bien fuera de casa?",
+    "hashtags": "#SaludMetabólica #NutriciónDePrecisión #Glucosa #HealthTech"
+  },
+  "nota_revision": "La newsletter prevista (poke bowl, 4b13d6b581) era una plantilla vacía sin receta; la he sustituido por la receta de bocados de pollo (adc44e1e32). Cifras sacadas de la captura de la ficha de la app que venía en esa newsletter."
+}
