@@ -5,7 +5,7 @@
   "fuente": [
     "6798bab68a"
   ],
-  "estado": "borrador",
+  "estado": "revisar",
   "fecha_sugerida": "2026-11-19 (jueves) 19:30",
   "slides": [
     {
@@ -89,5 +89,9 @@
     "texto": "Hay días en los que te levantas con energía y otros en los que el cuerpo pesa antes de empezar. Eso se puede medir.\n\nEl Readiness de Glucovibes estima tu nivel de recuperación cada mañana a partir de datos fisiológicos de tu wearable: HRV nocturna, frecuencia cardíaca en reposo, sueño y batería corporal. Y añade lo que ningún sensor capta: un breve cuestionario sobre cómo te sientes al despertar.\n\nSe calcula con una ventana de varios días para calibrarse a cada persona, y no necesita sensor de glucosa.\n\n¿Para qué sirve? Para decidir con cabeza: un día de Readiness alto admite intensidad; uno bajo pide recuperación, descanso y comidas equilibradas.\n\n¿Ajustas tu día según cómo has dormido?",
     "hashtags": "#HealthTech #Wearables #Recuperación #SaludMetabólica"
   },
-  "nota_revision": "He omitido la marca del reloj que cita la newsletter (regla de no marcas de terceros)."
+  "nota_revision": "He omitido la marca del reloj que cita la newsletter (regla de no marcas de terceros).",
+  "buffer": {
+    "instagram_post_id": "6adeffd57333971c1ebb4809",
+    "canal": "glucovibes (instagram)"
+  }
 }

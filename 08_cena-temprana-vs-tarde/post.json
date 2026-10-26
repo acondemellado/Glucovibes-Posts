@@ -5,7 +5,7 @@
   "fuente": [
     "ig:6ad880a1785291f70efedae1"
   ],
-  "estado": "borrador",
+  "estado": "revisar",
   "fecha_sugerida": "2026-11-10 (martes) 19:30",
   "slides": [
     {
@@ -86,5 +86,9 @@
     "texto": "¿Importa a qué hora cenas? Los datos dicen que sí.\n\nUn usuario de Glucovibes cenó exactamente lo mismo dos días: a las 20:30 y a las 23:00, con la misma actividad y el mismo nivel de estrés.\n\nA las 20:30 la curva se mantuvo estable, con un pico de unos 107 mg/dl. A las 23:00, la misma cena llegó a unos 138 mg/dl y la glucosa tardó más en bajar.\n\nPor la noche la sensibilidad a la insulina disminuye y el cuerpo se prepara para descansar. Cenar tarde complica la gestión de la glucosa y puede afectar al sueño.\n\nNo siempre podemos elegir la hora. Pero cuando se puede, adelantar la cena es un cambio pequeño con efecto medible.\n\n¿Lo habías visto en tus datos?",
     "hashtags": "#SaludMetabólica #Glucosa #NutriciónDePrecisión #HealthTech #Crononutrición"
   },
-  "nota_revision": "El texto del reel no da cifras. Los picos (≈107 y ≈138 mg/dl) están leídos en la gráfica del propio reel (fotograma de la miniatura; Buffer no guarda el vídeo de este post, así que no hay subtítulos que contrastar). Revisa si te parecen bien o prefieres quitar las cifras."
+  "nota_revision": "El texto del reel no da cifras. Los picos (≈107 y ≈138 mg/dl) están leídos en la gráfica del propio reel (fotograma de la miniatura; Buffer no guarda el vídeo de este post, así que no hay subtítulos que contrastar). Revisa si te parecen bien o prefieres quitar las cifras.",
+  "buffer": {
+    "instagram_post_id": "6adeff9644e0f3cdcac70156",
+    "canal": "glucovibes (instagram)"
+  }
 }

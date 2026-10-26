@@ -13,12 +13,12 @@ Instagram (y LinkedIn cuando esté conectado). 3 por semana: martes (comparativa
 | 2026-11-03 | martes | 1 | Zumo o naranja: misma fruta, distinta respuesta | programado |
 | 2026-11-05 | jueves | 2 | ¿Saltarte el desayuno baja tu glucosa? Depende | programado |
 | 2026-11-07 | sábado | 6 | Así nació Glucovibes: hacemos visible lo invisible | programado |
-| 2026-11-10 | martes | 1 | Cómo afecta: misma cena a las 20:30 vs a las 23:00 | pendiente |
-| 2026-11-12 | jueves | 4 | ¿Tu cuerpo envejece más rápido o más lento que tú? Edad biológica | pendiente |
-| 2026-11-14 | sábado | 5 | Receta: poke bowl de atún y aguacate | pendiente |
-| 2026-11-17 | martes | 1 | Mismo buffet, dos glucosas: el orden importa | pendiente |
-| 2026-11-19 | jueves | 4 | ¿Con cuánta energía te has levantado hoy? Readiness | pendiente |
-| 2026-11-21 | sábado | 5 | Dos donuts, dos respuestas (y receta casera) | pendiente |
+| 2026-11-10 | martes | 1 | Cómo afecta: misma cena a las 20:30 vs a las 23:00 | revisar |
+| 2026-11-12 | jueves | 4 | ¿Tu cuerpo envejece más rápido o más lento que tú? Edad biológica | revisar |
+| 2026-11-14 | sábado | 5 | Receta: bocados de pollo con ensalada de pasta de lenteja y salsa de yogur | revisar |
+| 2026-11-17 | martes | 1 | Mismo buffet, dos glucosas: el orden importa | revisar |
+| 2026-11-19 | jueves | 4 | ¿Con cuánta energía te has levantado hoy? Readiness | revisar |
+| 2026-11-21 | sábado | 5 | Dos donuts, dos respuestas: industrial vs Glucovibes | revisar |
 | 2026-11-24 | martes | 1 | Cómo afecta: salsa de tomate casera vs industrial (130 vs 154 mg/dl) | pendiente |
 | 2026-11-26 | jueves | 3 | Los carbohidratos: ni buenos ni malos, depende de cuáles y cuándo | pendiente |
 | 2026-11-28 | sábado | 5 | El mismo plato no vale para un día de sofá que para uno de bici | pendiente |

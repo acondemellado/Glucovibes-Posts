@@ -5,7 +5,7 @@
   "fuente": [
     "0e31ddea65"
   ],
-  "estado": "borrador",
+  "estado": "revisar",
   "fecha_sugerida": "2026-11-12 (jueves) 19:30",
   "slides": [
     {
@@ -96,5 +96,9 @@
   "linkedin": {
     "texto": "Tienes una edad en el DNI y otra por dentro. No siempre coinciden.\n\nLa edad biológica refleja el estado real del organismo y puede avanzar más rápido o más lento que los años cumplidos. En Glucovibes la estimamos a partir de los biomarcadores de una analítica de sangre, con fórmulas contrastadas en la literatura científica como PhenoAge.\n\nLo interesante no es el número aislado, sino la dirección: si el ritmo de envejecimiento está acelerado o ralentizado. Eso indica si los hábitos están sumando o restando, y da algo concreto sobre lo que actuar.\n\nNutrición, descanso, actividad y control de la glucosa son las palancas que, mantenidas en el tiempo, pueden frenar ese reloj interno.\n\n¿Conoces tu edad biológica?",
     "hashtags": "#Longevidad #SaludMetabólica #HealthTech #EdadBiológica"
+  },
+  "buffer": {
+    "instagram_post_id": "6adeffc9e4fd2be3e65a4951",
+    "canal": "glucovibes (instagram)"
   }
 }

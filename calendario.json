@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-21",
+  "actualizado": "2026-10-26",
   "franjas": {
     "martes": "pilar 1-2",
     "jueves": "pilar 3-4",
@@ -101,8 +101,8 @@
       "fuentes": [
         "ig:6ad880a1785291f70efedae1"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "08_cena-temprana-vs-tarde",
+      "estado": "revisar"
     },
     {
       "fecha": "2026-11-12",
@@ -113,20 +113,20 @@
       "fuentes": [
         "0e31ddea65"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "09_edad-biologica",
+      "estado": "revisar"
     },
     {
       "fecha": "2026-11-14",
       "dia": "sábado",
       "hora": "19:30",
       "pilar": 5,
-      "tema": "Receta: poke bowl de atún y aguacate",
+      "tema": "Receta: bocados de pollo con ensalada de pasta de lenteja y salsa de yogur",
       "fuentes": [
-        "4b13d6b581"
+        "adc44e1e32"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "10_receta-bocados-pollo",
+      "estado": "revisar"
     },
     {
       "fecha": "2026-11-17",
@@ -137,8 +137,8 @@
       "fuentes": [
         "669169f739"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "11_buffet-actividad",
+      "estado": "revisar"
     },
     {
       "fecha": "2026-11-19",
@@ -149,20 +149,20 @@
       "fuentes": [
         "6798bab68a"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "12_readiness",
+      "estado": "revisar"
     },
     {
       "fecha": "2026-11-21",
       "dia": "sábado",
       "hora": "19:30",
       "pilar": 5,
-      "tema": "Dos donuts, dos respuestas (y receta casera)",
+      "tema": "Dos donuts, dos respuestas: industrial vs Glucovibes",
       "fuentes": [
         "218efb0e6f"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "13_donut-casero-vs-industrial",
+      "estado": "revisar"
     },
     {
       "fecha": "2026-11-24",

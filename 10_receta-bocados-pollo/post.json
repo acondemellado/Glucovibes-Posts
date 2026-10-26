@@ -5,7 +5,7 @@
   "fuente": [
     "adc44e1e32"
   ],
-  "estado": "borrador",
+  "estado": "revisar",
   "fecha_sugerida": "2026-11-14 (sábado) 19:30",
   "slides": [
     {
@@ -97,5 +97,9 @@
     "texto": "Comer bien entre semana no tiene por qué ser complicado.\n\nEn el recetario de Glucovibes hay ideas sencillas pensadas para mantener la glucosa estable. Un ejemplo: bocados de pollo con ensalada de pasta de lenteja y salsa de yogur.\n\nCombina fibra, carbohidratos, proteína de calidad y grasas saludables: 635 kcal, 64 g de proteína y 11 g de fibra según la ficha de la app. Esa combinación ayuda a suavizar la curva y a alargar la saciedad.\n\nY cabe en un tupper, que es lo que de verdad decide qué comemos un martes cualquiera.\n\n¿Qué te funciona a ti para comer bien fuera de casa?",
     "hashtags": "#SaludMetabólica #NutriciónDePrecisión #Glucosa #HealthTech"
   },
-  "nota_revision": "La newsletter prevista (poke bowl, 4b13d6b581) era una plantilla vacía sin receta; la he sustituido por la receta de bocados de pollo (adc44e1e32). Cifras sacadas de la captura de la ficha de la app que venía en esa newsletter."
+  "nota_revision": "La newsletter prevista (poke bowl, 4b13d6b581) era una plantilla vacía sin receta; la he sustituido por la receta de bocados de pollo (adc44e1e32). Cifras sacadas de la captura de la ficha de la app que venía en esa newsletter.",
+  "buffer": {
+    "instagram_post_id": "6adeffca44e0f3cdcac7089c",
+    "canal": "glucovibes (instagram)"
+  }
 }

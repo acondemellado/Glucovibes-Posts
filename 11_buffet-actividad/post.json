@@ -5,7 +5,7 @@
   "fuente": [
     "669169f739"
   ],
-  "estado": "borrador",
+  "estado": "revisar",
   "fecha_sugerida": "2026-11-17 (martes) 19:30",
   "slides": [
     {
@@ -112,5 +112,9 @@
   "linkedin": {
     "texto": "Mismo desayuno, misma cantidad (unas 1000 kcal), dos curvas de glucosa muy distintas.\n\nUn usuario de Glucovibes hizo la prueba con un desayuno tipo buffet en dos días. Sin moverse, la glucosa llegó a 142 mg/dl con un GlucoScore de 5. Con algo de fuerza antes y un paseo de 30-40 minutos después, el pico se quedó en 115 mg/dl y el GlucoScore subió a 8.\n\nNo comió menos. Cambió lo que hizo alrededor de la comida: el músculo activado capta glucosa y el paseo la utiliza en lugar de acumularla.\n\nEs un recurso sencillo para viajes, comidas de trabajo o cualquier día.\n\n¿Lo habías visto en tus datos?",
     "hashtags": "#SaludMetabólica #Glucosa #ActividadFísica #HealthTech"
+  },
+  "buffer": {
+    "instagram_post_id": "6adeffd0ba65356abc9746aa",
+    "canal": "glucovibes (instagram)"
   }
 }

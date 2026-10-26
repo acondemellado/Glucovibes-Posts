@@ -5,7 +5,7 @@
   "fuente": [
     "218efb0e6f"
   ],
-  "estado": "borrador",
+  "estado": "revisar",
   "fecha_sugerida": "2026-11-21 (sábado) 19:30",
   "slides": [
     {
@@ -106,5 +106,9 @@
     "texto": "¿Un donut puede no disparar la glucosa? Depende de cómo esté hecho.\n\nComparamos dos en la misma persona, en dos días consecutivos y a la misma hora. El industrial (harina refinada, azúcares añadidos, poca fibra) llevó la glucosa a 153 mg/dl con una caída brusca: GlucoScore 5/10. La versión Glucovibes, con verduras y comida real, sin azúcares añadidos y con chocolate de alta pureza, apenas pasó de 106 mg/dl: GlucoScore 8/10.\n\nEl problema no es el capricho, sino su diseño. Con fibra y alimentos reales como base, el mismo antojo se convierte en algo que el metabolismo gestiona con mucha más calma.\n\nEl impacto puede variar entre personas: por eso medimos.\n\n¿Qué capricho te gustaría poner a prueba?",
     "hashtags": "#SaludMetabólica #Glucosa #NutriciónDePrecisión #HealthTech"
   },
-  "nota_revision": "He quitado la marca del donut industrial que cita la newsletter. La imagen de curvas es la de la newsletter (rotulada «Dona convencional» / «Dona Glucovibes»). La receta no está en la biblioteca: el cierre invita a pedirla por mensaje directo."
+  "nota_revision": "He quitado la marca del donut industrial que cita la newsletter. La imagen de curvas es la de la newsletter (rotulada «Dona convencional» / «Dona Glucovibes»). La receta no está en la biblioteca: el cierre invita a pedirla por mensaje directo.",
+  "buffer": {
+    "instagram_post_id": "6adeffd67333971c1ebb4881",
+    "canal": "glucovibes (instagram)"
+  }
 }
