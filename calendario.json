@@ -181,7 +181,8 @@
       ],
       "carpeta": null,
       "estado": "revisar",
-      "nota": "Sin generar: el reel (fuente ig:) solo se lee desde Buffer y el conector estaba desconectado el 2026-11-02. Hacerla al reconectar."
+      "nota": "Sin generar: el reel (fuente ig:) solo se lee desde Buffer y el conector estaba desconectado el 2026-11-02. Hacerla al reconectar.",
+      "aviso_thread": "1a19b27c34f6c171"
     },
     {
       "fecha": "2026-11-26",
@@ -193,7 +194,8 @@
         "c964e53e42"
       ],
       "carpeta": "14_carbohidratos",
-      "estado": "revisar"
+      "estado": "revisar",
+      "aviso_thread": "1a19b27c34f6c171"
     },
     {
       "fecha": "2026-11-28",
@@ -206,7 +208,8 @@
         "5cd3b3c282"
       ],
       "carpeta": "15_plato-segun-actividad",
-      "estado": "revisar"
+      "estado": "revisar",
+      "aviso_thread": "1a19b27c34f6c171"
     },
     {
       "fecha": "2026-12-01",
@@ -218,7 +221,8 @@
         "ddc78d5635"
       ],
       "carpeta": "16_hambre-tras-entrenar",
-      "estado": "revisar"
+      "estado": "revisar",
+      "aviso_thread": "1a19b27c34f6c171"
     },
     {
       "fecha": "2026-12-03",
@@ -231,7 +235,8 @@
       ],
       "carpeta": "17_origen-glucosa",
       "estado": "revisar",
-      "nota": "Sustituye a «Proteína: los ladrillos de tu cuerpo»: sus fuentes (b29db17ed2, 208b423f92, 6506dac3ab) son plantillas vacías."
+      "nota": "Sustituye a «Proteína: los ladrillos de tu cuerpo»: sus fuentes (b29db17ed2, 208b423f92, 6506dac3ab) son plantillas vacías.",
+      "aviso_thread": "1a19b27c34f6c171"
     },
     {
       "fecha": "2026-12-05",
@@ -243,7 +248,8 @@
         "f8067d7f6b"
       ],
       "carpeta": "18_salud-foto-pelicula",
-      "estado": "revisar"
+      "estado": "revisar",
+      "aviso_thread": "1a19b27c34f6c171"
     },
     {
       "fecha": "2026-12-08",
