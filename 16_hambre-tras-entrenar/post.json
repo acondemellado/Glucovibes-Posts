@@ -1,0 +1,103 @@
+{
+  "id": "16_hambre-tras-entrenar",
+  "tema": "Entrenas, llegas con hambre… y el pico llega igual",
+  "pilar": 2,
+  "fuente": [
+    "ddc78d5635"
+  ],
+  "estado": "revisar",
+  "fecha_sugerida": "2026-12-01 (martes) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Mitos con datos",
+      "titulo": "«Me lo he ganado»…",
+      "titulo_rojo": "y el pico llega igual.",
+      "subtitulo": "Entrenar no te libra del pico si llegas a casa vacía."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "La escena",
+      "titulo_rojo": "típica",
+      "items": [
+        {
+          "ico": "🚴",
+          "titulo": "Sesión larga o intensa",
+          "texto": "Llegas a casa sin energía."
+        },
+        {
+          "ico": "🍝",
+          "titulo": "Hambre voraz",
+          "texto": "Arrasas la nevera: muchos hidratos de golpe."
+        },
+        {
+          "ico": "🎢",
+          "titulo": "Pico… y bajón",
+          "texto": "Mucha insulina, hipoglucemia reactiva y otra vez hambre."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "El día de",
+      "titulo_rojo": "una Viber",
+      "src": "app.png",
+      "ancho": 520,
+      "nota": "Captura real de la app Glucovibes tras 256 minutos de bici."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "La solución:",
+      "titulo_rojo": "no llegar vacía",
+      "items": [
+        {
+          "ico": "🍌",
+          "titulo": "Lleva carbohidratos",
+          "texto": "Para ir reponiendo en esfuerzos largos. Mejor hechos en casa."
+        },
+        {
+          "ico": "⏱️",
+          "titulo": "Poco y a menudo",
+          "texto": "Mejor que mucho en una sola parada."
+        },
+        {
+          "ico": "🍽️",
+          "titulo": "Al terminar, comida completa",
+          "texto": "Con proteína y algo de fibra, que dé saciedad."
+        },
+        {
+          "ico": "🥗",
+          "titulo": "Comida real",
+          "texto": "Poco procesada: nutre más y se asimila de forma más estable."
+        }
+      ]
+    },
+    {
+      "tipo": "portada",
+      "chip": "#Glucotip",
+      "titulo": "Comer para recuperar",
+      "titulo_rojo": "no es comer sin freno.",
+      "subtitulo": "Dale a tus músculos lo que necesitan, cuando lo necesitan."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Alimenta bien",
+      "titulo_rojo": "tus entrenos.",
+      "cta": "Descubre tu respuesta",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🎢 «Me lo he ganado»… y aun así, el pico llega.\n\nSesión larga, llegas a casa vacía y con un hambre voraz. Arrasas la nevera y tu glucosa se dispara igualmente.\n\nTanta carga de hidratos de golpe pide mucha insulina. Después llega la hipoglucemia reactiva, vuelve el hambre… y encadenas más picos. Justo lo que no necesitas para recuperarte.\n\n👉 La clave es no llegar vacía:\n✔️ Lleva carbohidratos para ir reponiendo (mejor caseros)\n✔️ Poco y a menudo\n✔️ Al terminar, comida completa con proteína y algo de fibra\n✔️ Comida real, poco procesada\n\n💡 Comer para recuperar no es comer sin freno.\n\n¿Te ha pasado? 👇",
+    "hashtags": "#glucosa #entrenamiento #nutriciondeportiva #saludmetabolica #glucovibes #ciclismo #recuperacion #nutriciondeprecision"
+  },
+  "linkedin": {
+    "texto": "Entrenar no te libra del pico de glucosa.\n\nEscena típica: sesión larga o intensa, llegas a casa vacío y con mucha hambre, y comes muchos hidratos de golpe. Aunque «te lo has ganado», la glucosa sube igualmente.\n\nEsa ingesta masiva pide mucha insulina; después llega una hipoglucemia reactiva, vuelve el hambre y se encadenan más picos. Justo lo contrario de lo que necesitas para recuperarte.\n\nLa solución más simple es no llegar vacío: planificar la energía durante la actividad, comer poco y a menudo en esfuerzos largos y, al terminar, hacer una comida completa con proteína y algo de fibra, mejor con comida real y poco procesada.\n\nComer para recuperar no es comer sin freno.\n\n¿Cómo gestionas la comida después de entrenar?",
+    "hashtags": "#SaludMetabólica #Glucosa #NutriciónDeportiva #HealthTech #Rendimiento"
+  },
+  "nota_revision": "La captura no rotula el pico en cifras, así que el texto no da números. No está en Buffer: el conector de Buffer está desconectado y no se pudo crear el borrador. Hay que reconectarlo para subirla.",
+  "buffer": {
+    "instagram_post_id": null,
+    "canal": "glucovibes (instagram)"
+  }
+}

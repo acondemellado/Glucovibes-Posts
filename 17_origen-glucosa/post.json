@@ -1,0 +1,117 @@
+{
+  "id": "17_origen-glucosa",
+  "tema": "¿De dónde viene la glucosa? Empieza en las plantas",
+  "pilar": 3,
+  "fuente": [
+    "1f507fe9b8"
+  ],
+  "estado": "revisar",
+  "fecha_sugerida": "2026-12-03 (jueves) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Aprende tu metabolismo",
+      "titulo": "¿De dónde viene",
+      "titulo_rojo": "la glucosa?",
+      "subtitulo": "Todo empieza en las plantas. 🌱"
+    },
+    {
+      "tipo": "lista",
+      "titulo": "La fábrica:",
+      "titulo_rojo": "la fotosíntesis",
+      "items": [
+        {
+          "ico": "☀️",
+          "titulo": "Luz + CO₂ + agua",
+          "texto": "Con eso las plantas fabrican glucosa."
+        },
+        {
+          "ico": "🌬️",
+          "titulo": "Se quedan el carbono",
+          "texto": "Y liberan el oxígeno como «residuo» útil para nosotros."
+        },
+        {
+          "ico": "🧠",
+          "titulo": "Carbo-hidrato",
+          "texto": "«Carbo» por el carbono e «hidrato» por el agua."
+        }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Qué hacen",
+      "titulo_rojo": "con ella",
+      "items": [
+        {
+          "ico": "🥔",
+          "titulo": "Almidón",
+          "texto": "Su reserva de energía, en raíces y tallos: patata, boniato."
+        },
+        {
+          "ico": "🌾",
+          "titulo": "Fibra",
+          "texto": "Estructuras rígidas. No la digerimos, pero protege tu intestino."
+        },
+        {
+          "ico": "🍎",
+          "titulo": "Fructosa",
+          "texto": "En los frutos, más dulce para atraer animales."
+        },
+        {
+          "ico": "🍬",
+          "titulo": "Sacarosa",
+          "texto": "Glucosa + fructosa = el azúcar de mesa."
+        }
+      ]
+    },
+    {
+      "tipo": "portada",
+      "chip": "En tu cuerpo",
+      "titulo": "Tu hígado guarda solo",
+      "titulo_rojo": "de 80 a 100 g de glucógeno.",
+      "subtitulo": "Lo que sobra, el cuerpo lo convierte en grasa."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "La",
+      "titulo_rojo": "diferencia",
+      "items": [
+        {
+          "ico": "🌱",
+          "titulo": "Las plantas",
+          "texto": "Fabrican y usan la glucosa que necesitan."
+        },
+        {
+          "ico": "🙋",
+          "titulo": "Las personas",
+          "texto": "Podemos comer más de la que necesitamos. Ahí empiezan los desequilibrios."
+        },
+        {
+          "ico": "🔑",
+          "titulo": "Las hormonas clave",
+          "texto": "Insulina, glucagón y cortisol."
+        }
+      ]
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Entiende tu glucosa",
+      "titulo_rojo": "desde el origen.",
+      "cta": "Descubre Glucovibes",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🌱 ¿Te has preguntado de dónde viene la glucosa? De las plantas.\n\n☀️ Con luz, CO₂ y agua fabrican glucosa. Se quedan el carbono y liberan el oxígeno. Por eso se llaman carbo-hidratos: carbono + agua.\n\nCon esa glucosa crean:\n🥔 Almidón, su reserva (patata, boniato)\n🌾 Fibra, que no digerimos pero protege tu intestino\n🍎 Fructosa, más dulce, en los frutos\n🍬 Y glucosa + fructosa = azúcar de mesa\n\nLa diferencia: nosotros podemos comer más glucosa de la que necesitamos. Tu hígado solo guarda unos 80-100 g como glucógeno; el exceso acaba como grasa.\n\nComparte con quien siempre pregunta «¿y esto por qué?» 🤓",
+    "hashtags": "#glucosa #carbohidratos #fotosintesis #saludmetabolica #ciencia #glucovibes #nutricion #nutriciondeprecision"
+  },
+  "linkedin": {
+    "texto": "¿De dónde viene la glucosa? La respuesta empieza en las plantas.\n\nCon la fotosíntesis, las plantas fabrican glucosa a partir de CO₂, agua y luz solar. Se quedan con el carbono y liberan el oxígeno. De ahí el nombre: carbo-hidrato.\n\nCon esa glucosa forman almidón (su reserva, en raíces y tallos como la patata o el boniato), fibra (estructuras rígidas que no digerimos pero que cuidan nuestro intestino) y fructosa en los frutos. Glucosa más fructosa es sacarosa: el azúcar de mesa.\n\nEn nuestro cuerpo la glucosa también es energía. La diferencia es que podemos comer más de la que necesitamos: el hígado solo almacena unos 80-100 g de glucógeno, y el exceso se convierte en grasa. Insulina, glucagón y cortisol gobiernan ese equilibrio.\n\n¿Conocías el origen de la glucosa?",
+    "hashtags": "#SaludMetabólica #Glucosa #Ciencia #HealthTech #Nutrición"
+  },
+  "nota_revision": "Sustituye a «Proteína: los ladrillos de tu cuerpo» (3 de diciembre): sus tres fuentes en la biblioteca son plantillas vacías de Mailchimp, sin contenido. La imagen de la fotosíntesis de la newsletter es de terceros y de baja resolución, así que no la he usado. No está en Buffer: el conector de Buffer está desconectado y no se pudo crear el borrador. Hay que reconectarlo para subirla.",
+  "buffer": {
+    "instagram_post_id": null,
+    "canal": "glucovibes (instagram)"
+  }
+}

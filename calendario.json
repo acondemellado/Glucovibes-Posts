@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-26",
+  "actualizado": "2026-11-02",
   "franjas": {
     "martes": "pilar 1-2",
     "jueves": "pilar 3-4",
@@ -180,7 +180,8 @@
         "ig:6ad880a2785291f70efedb09"
       ],
       "carpeta": null,
-      "estado": "pendiente"
+      "estado": "revisar",
+      "nota": "Sin generar: el reel (fuente ig:) solo se lee desde Buffer y el conector estaba desconectado el 2026-11-02. Hacerla al reconectar."
     },
     {
       "fecha": "2026-11-26",
@@ -191,8 +192,8 @@
       "fuentes": [
         "c964e53e42"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "14_carbohidratos",
+      "estado": "revisar"
     },
     {
       "fecha": "2026-11-28",
@@ -204,8 +205,8 @@
         "0ba580ee42",
         "5cd3b3c282"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "15_plato-segun-actividad",
+      "estado": "revisar"
     },
     {
       "fecha": "2026-12-01",
@@ -216,22 +217,21 @@
       "fuentes": [
         "ddc78d5635"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "16_hambre-tras-entrenar",
+      "estado": "revisar"
     },
     {
       "fecha": "2026-12-03",
       "dia": "jueves",
       "hora": "19:30",
       "pilar": 3,
-      "tema": "Proteína: los ladrillos de tu cuerpo (y tu desayuno)",
+      "tema": "¿De dónde viene la glucosa? Empieza en las plantas",
       "fuentes": [
-        "b29db17ed2",
-        "208b423f92",
-        "6506dac3ab"
+        "1f507fe9b8"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "17_origen-glucosa",
+      "estado": "revisar",
+      "nota": "Sustituye a «Proteína: los ladrillos de tu cuerpo»: sus fuentes (b29db17ed2, 208b423f92, 6506dac3ab) son plantillas vacías."
     },
     {
       "fecha": "2026-12-05",
@@ -242,8 +242,8 @@
       "fuentes": [
         "f8067d7f6b"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "18_salud-foto-pelicula",
+      "estado": "revisar"
     },
     {
       "fecha": "2026-12-08",
@@ -269,7 +269,8 @@
         "0a7b870d27"
       ],
       "carpeta": null,
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "nota": "Ojo: las newsletters sin fecha de esta entrada son plantillas vacías de Mailchimp; buscar otra fuente."
     },
     {
       "fecha": "2026-12-12",
@@ -306,7 +307,8 @@
         "ig:6ad880a1785291f70efedaa4"
       ],
       "carpeta": null,
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "nota": "Ojo: las newsletters sin fecha de esta entrada son plantillas vacías de Mailchimp; buscar otra fuente."
     },
     {
       "fecha": "2026-12-19",

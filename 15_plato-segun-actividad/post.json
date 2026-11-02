@@ -1,0 +1,116 @@
+{
+  "id": "15_plato-segun-actividad",
+  "tema": "El mismo plato no vale para un día de sofá que para uno de bici",
+  "pilar": 5,
+  "fuente": [
+    "0ba580ee42",
+    "5cd3b3c282"
+  ],
+  "estado": "revisar",
+  "fecha_sugerida": "2026-11-28 (sábado) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Diseña tu plato",
+      "titulo": "Mismo plato.",
+      "titulo_rojo": "Distinto día.",
+      "subtitulo": "No es lo mismo un día de bici que uno de sofá."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "El punto",
+      "titulo_rojo": "de partida",
+      "items": [
+        {
+          "ico": "🥦",
+          "titulo": "½ verduras",
+          "texto": "La mitad del plato."
+        },
+        {
+          "ico": "🍗",
+          "titulo": "¼ proteína de calidad",
+          "texto": "Pechuga, pescado, huevo, legumbre…"
+        },
+        {
+          "ico": "🍠",
+          "titulo": "¼ carbohidrato de calidad",
+          "texto": "Boniato, integrales, legumbres."
+        }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Ajústalo",
+      "titulo_rojo": "a tu día",
+      "items": [
+        {
+          "ico": "🚴",
+          "titulo": "Día activo",
+          "texto": "Boniato, brócoli y pechuga a la plancha. Más carbohidrato para rendir y recuperar."
+        },
+        {
+          "ico": "🛋️",
+          "titulo": "Día tranquilo",
+          "texto": "Mitad de boniato, brócoli con coles de Bruselas y pechuga. Más verdura y proteína."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "Así respondió",
+      "titulo_rojo": "su glucosa",
+      "src": "curvas.png",
+      "ancho": 900,
+      "nota": "Curvas reales de un Viber con cada versión del plato. La respuesta puede variar entre personas."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Según el",
+      "titulo_rojo": "momento",
+      "items": [
+        {
+          "ico": "✅",
+          "titulo": "Antes de la actividad",
+          "texto": "Más carbohidrato, menos fibra y grasa."
+        },
+        {
+          "ico": "💪",
+          "titulo": "Después",
+          "texto": "Proteína + carbohidrato para recuperar."
+        },
+        {
+          "ico": "🛋️",
+          "titulo": "Lejos de la actividad",
+          "texto": "Proteína, fibra y grasas saludables; menos carbohidrato."
+        }
+      ]
+    },
+    {
+      "tipo": "portada",
+      "chip": "#Glucotip",
+      "titulo": "No va de comer menos.",
+      "titulo_rojo": "Va de comer acorde a tu día.",
+      "subtitulo": "Tu actividad y tu glucosa te dicen cuánto."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Ajusta tu plato",
+      "titulo_rojo": "con tus datos.",
+      "cta": "Descubre tu respuesta",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🍽️ El mismo plato no vale para un día de sofá que para uno de bici.\n\nPunto de partida: ½ verduras, ¼ proteína de calidad y ¼ carbohidrato de calidad.\n\n🚴 Día activo: boniato, brócoli y pechuga a la plancha. Tu cuerpo necesita más carbohidrato para rendir y recuperar.\n\n🛋️ Día tranquilo: mitad de boniato, más verdura (brócoli y coles de Bruselas) y la misma pechuga.\n\n📈 Un Viber probó las dos versiones: pico de 127 mg/dl con el plato de día activo y de 115 mg/dl con el de día tranquilo.\n\nNo va de comer menos, va de comer acorde a tu día.\n\nGuárdalo para tu próximo menú 📌",
+    "hashtags": "#platosaludable #glucosa #saludmetabolica #nutriciondeprecision #glucovibes #nutriciondeportiva #recetassaludables #habitossaludables"
+  },
+  "linkedin": {
+    "texto": "¿Debería ser igual tu plato un día de entrenamiento que un día de oficina? Los datos dicen que no.\n\nEl plato saludable es un buen punto de partida: la mitad verduras, un cuarto proteína de calidad y un cuarto carbohidrato de calidad.\n\nPero en un día activo el cuerpo tolera y necesita más carbohidrato para rendir y recuperar. En un día tranquilo conviene bajar esa carga y subir verdura y proteína.\n\nUn usuario de Glucovibes lo comprobó con el mismo plato en dos versiones: pico de 127 mg/dl con la de día activo y de 115 mg/dl con la de día tranquilo, con la mitad de boniato.\n\nNo se trata de comer menos, sino de comer acorde a lo que el día te pide.\n\n¿Ajustas tus comidas según tu actividad?",
+    "hashtags": "#SaludMetabólica #Glucosa #NutriciónDePrecisión #HealthTech #Nutrición"
+  },
+  "nota_revision": "La newsletter no rotula qué curva es de cada plato: he asumido su orden (1.ª imagen = plato de día activo, pico 127; 2.ª = día tranquilo, pico 115). Confírmalo. Picos leídos en la propia captura de la app. No está en Buffer: el conector de Buffer está desconectado y no se pudo crear el borrador. Hay que reconectarlo para subirla.",
+  "buffer": {
+    "instagram_post_id": null,
+    "canal": "glucovibes (instagram)"
+  }
+}

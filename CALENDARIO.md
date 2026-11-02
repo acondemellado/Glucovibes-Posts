@@ -19,12 +19,12 @@ Instagram (y LinkedIn cuando esté conectado). 3 por semana: martes (comparativa
 | 2026-11-17 | martes | 1 | Mismo buffet, dos glucosas: el orden importa | revisar |
 | 2026-11-19 | jueves | 4 | ¿Con cuánta energía te has levantado hoy? Readiness | revisar |
 | 2026-11-21 | sábado | 5 | Dos donuts, dos respuestas: industrial vs Glucovibes | revisar |
-| 2026-11-24 | martes | 1 | Cómo afecta: salsa de tomate casera vs industrial (130 vs 154 mg/dl) | pendiente |
-| 2026-11-26 | jueves | 3 | Los carbohidratos: ni buenos ni malos, depende de cuáles y cuándo | pendiente |
-| 2026-11-28 | sábado | 5 | El mismo plato no vale para un día de sofá que para uno de bici | pendiente |
-| 2026-12-01 | martes | 2 | Entrenas, llegas con hambre… y el pico llega igual | pendiente |
-| 2026-12-03 | jueves | 3 | Proteína: los ladrillos de tu cuerpo (y tu desayuno) | pendiente |
-| 2026-12-05 | sábado | 6 | Tu salud no es una foto: es una película | pendiente |
+| 2026-11-24 | martes | 1 | Cómo afecta: salsa de tomate casera vs industrial (130 vs 154 mg/dl) | revisar |
+| 2026-11-26 | jueves | 3 | Los carbohidratos: ni buenos ni malos, depende de cuáles y cuándo | revisar |
+| 2026-11-28 | sábado | 5 | El mismo plato no vale para un día de sofá que para uno de bici | revisar |
+| 2026-12-01 | martes | 2 | Entrenas, llegas con hambre… y el pico llega igual | revisar |
+| 2026-12-03 | jueves | 3 | ¿De dónde viene la glucosa? Empieza en las plantas | revisar |
+| 2026-12-05 | sábado | 6 | Tu salud no es una foto: es una película | revisar |
 | 2026-12-08 | martes | 1 | Cómo afecta: magdalena industrial vs casera (152 vs 129 mg/dl) | pendiente |
 | 2026-12-10 | jueves | 3 | Las grasas: no tan malas como crees | pendiente |
 | 2026-12-12 | sábado | 5 | Bowl de yogur: muesli azucarado vs chocolate negro y frutos secos | pendiente |

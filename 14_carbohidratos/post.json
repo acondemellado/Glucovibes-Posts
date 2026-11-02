@@ -1,0 +1,145 @@
+{
+  "id": "14_carbohidratos",
+  "tema": "Los carbohidratos: ni buenos ni malos, depende de cuáles y cuándo",
+  "pilar": 3,
+  "fuente": [
+    "c964e53e42"
+  ],
+  "estado": "revisar",
+  "fecha_sugerida": "2026-11-26 (jueves) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Aprende tu metabolismo",
+      "titulo": "Carbohidratos:",
+      "titulo_rojo": "ni buenos ni malos.",
+      "subtitulo": "Depende de cuáles elijas y de cómo los combines."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Qué",
+      "titulo_rojo": "son",
+      "items": [
+        {
+          "ico": "⚡",
+          "titulo": "Tu principal fuente de energía",
+          "texto": "Frutas, verduras, cereales, legumbres, tubérculos y lácteos."
+        },
+        {
+          "ico": "🩸",
+          "titulo": "Se convierten en glucosa",
+          "texto": "La sangre la lleva a tus células para moverte, pensar y hasta descansar."
+        },
+        {
+          "ico": "🧠",
+          "titulo": "Tu cerebro depende de ella",
+          "texto": "Sin glucosa suficiente: menos concentración y fatiga mental."
+        }
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Complejos",
+      "titulo_rojo": "vs simples",
+      "columnas": [
+        "",
+        "Complejos",
+        "Simples"
+      ],
+      "filas": [
+        [
+          "Dónde",
+          "Integrales, legumbres, tubérculos*",
+          "Azúcares añadidos, bollería, refrescos"
+        ],
+        [
+          "Digestión",
+          "Lenta*",
+          "Rápida"
+        ],
+        [
+          "Energía",
+          "Sostenida*",
+          "Rápida y corta"
+        ],
+        [
+          "Glucosa",
+          "Más estable*",
+          "Picos altos y rápidos"
+        ]
+      ],
+      "nota": "La fruta entera también es simple, pero trae fibra, vitaminas y minerales."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "La llave:",
+      "titulo_rojo": "la insulina",
+      "items": [
+        {
+          "ico": "🔑",
+          "titulo": "Abre la puerta de tus células",
+          "texto": "Para que la glucosa entre y se use como energía."
+        },
+        {
+          "ico": "🎢",
+          "titulo": "Si abusas de los refinados",
+          "texto": "Picos repetidos y más insulina, comida tras comida."
+        },
+        {
+          "ico": "⚠️",
+          "titulo": "Con el tiempo",
+          "texto": "Puede aparecer resistencia a la insulina."
+        }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "3 mitos",
+      "titulo_rojo": "con matices",
+      "items": [
+        {
+          "ico": "❌",
+          "titulo": "«No son esenciales»",
+          "texto": "Son energía clave para tu cerebro y para el esfuerzo intenso."
+        },
+        {
+          "ico": "❌",
+          "titulo": "«Bajos en carbos = más pérdida de peso»",
+          "texto": "No hay una dieta que sirva para todo el mundo."
+        },
+        {
+          "ico": "❌",
+          "titulo": "«Todos engordan»",
+          "texto": "Engorda el exceso de energía, venga de donde venga."
+        }
+      ]
+    },
+    {
+      "tipo": "portada",
+      "chip": "#Glucotip",
+      "titulo": "Elige integrales y fruta entera.",
+      "titulo_rojo": "Y combínalos.",
+      "subtitulo": "Fruta + un puñado de frutos secos: snack 🔝."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Descubre cómo te sientan",
+      "titulo_rojo": "tus carbohidratos.",
+      "cta": "Mídelo con Glucovibes",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🍚 ¿Carbohidratos sí o no? Depende, y mucho.\n\nSon tu principal fuente de energía. Se convierten en glucosa y tu cerebro depende de ella para concentrarse.\n\n🫐 Los complejos (integrales, legumbres, tubérculos) se digieren despacio: energía sostenida y glucosa más estable.\n\n🍩 Los simples de azúcares añadidos y harinas refinadas dan energía rápida… y picos altos. Repetidos comida tras comida, pueden acabar en resistencia a la insulina.\n\n🍊 La fruta entera es otra historia: fibra, vitaminas y minerales. Con frutos secos, snack 🔝.\n\nNo se trata de eliminarlos, sino de elegir cuáles y cuándo.\n\nGuárdalo para tu próxima compra 📌",
+    "hashtags": "#carbohidratos #glucosa #insulina #saludmetabolica #nutriciondeprecision #glucovibes #nutricion #habitossaludables"
+  },
+  "linkedin": {
+    "texto": "Los carbohidratos no son ni buenos ni malos. La pregunta útil es: ¿cuáles y cuándo?\n\nSon la principal fuente de energía del cuerpo. Se convierten en glucosa, y el cerebro depende especialmente de ella.\n\nLos complejos (cereales integrales, legumbres, tubérculos) se digieren despacio y dan una energía sostenida con una glucosa más estable. Los simples de azúcares añadidos y harinas refinadas dan energía rápida y picos altos. Si ese patrón se repite comida tras comida, aumenta la demanda de insulina y puede aparecer resistencia a la insulina.\n\nLa fruta entera merece mención aparte: aporta fibra, vitaminas y minerales.\n\nY tres mitos: no son prescindibles, no hay una dieta baja en carbohidratos que funcione para todo el mundo, y lo que engorda es el exceso de energía, venga de donde venga.\n\n¿Qué carbohidrato te ha sorprendido más en tus datos?",
+    "hashtags": "#SaludMetabólica #Glucosa #NutriciónDePrecisión #HealthTech #Nutrición"
+  },
+  "nota_revision": "Esta tanda debía empezar con «Cómo afecta: salsa de tomate casera vs industrial» (martes 24/11), pero no se ha generado: su fuente es un reel de Instagram que solo se lee desde Buffer, y el conector está desconectado, así que no hay texto ni curvas reales. Queda en el calendario como «revisar» para hacerla al reconectar Buffer. No está en Buffer: el conector de Buffer está desconectado y no se pudo crear el borrador. Hay que reconectarlo para subirla.",
+  "buffer": {
+    "instagram_post_id": null,
+    "canal": "glucovibes (instagram)"
+  }
+}

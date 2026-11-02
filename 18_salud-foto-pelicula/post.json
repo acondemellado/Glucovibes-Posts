@@ -1,0 +1,86 @@
+{
+  "id": "18_salud-foto-pelicula",
+  "tema": "Tu salud no es una foto: es una película",
+  "pilar": 6,
+  "fuente": [
+    "f8067d7f6b"
+  ],
+  "estado": "revisar",
+  "fecha_sugerida": "2026-12-05 (sábado) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Glucovibes por dentro",
+      "titulo": "Tu salud no es una foto.",
+      "titulo_rojo": "Es una película.",
+      "subtitulo": "¿Entenderías una película con solo 10 fotogramas?"
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Dos tipos de",
+      "titulo_rojo": "biomarcadores",
+      "items": [
+        {
+          "ico": "🩸",
+          "titulo": "Estáticos: la foto",
+          "texto": "Colesterol, glucosa en ayunas, hígado, riñón, hierro. Te dicen el qué."
+        },
+        {
+          "ico": "📈",
+          "titulo": "Dinámicos: la película",
+          "texto": "Qué comes, cuánto te mueves, cómo duermes y cómo responde tu glucosa. Te dicen el porqué."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "Las dos,",
+      "titulo_rojo": "en un solo sitio",
+      "src": "foto-pelicula.png",
+      "ancho": 760,
+      "nota": "Capturas reales de la app Glucovibes de un Viber."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Qué hace",
+      "titulo_rojo": "Glucovibes",
+      "items": [
+        {
+          "ico": "💡",
+          "titulo": "Explica cada biomarcador",
+          "texto": "Con recomendaciones según tu nivel."
+        },
+        {
+          "ico": "🎬",
+          "titulo": "Sitúa la foto en la película",
+          "texto": "Tu analítica, dentro de tu día a día."
+        },
+        {
+          "ico": "🎯",
+          "titulo": "Datos sueltos → decisiones",
+          "texto": "Eso es la nutrición de precisión."
+        }
+      ]
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Mira tu película",
+      "titulo_rojo": "completa.",
+      "cta": "Descubre Glucovibes",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🎬 ¿Entenderías una película con solo 10 fotogramas sueltos? Eso pasa con tus analíticas.\n\n🩸 Una analítica es una foto fija: colesterol, glucosa en ayunas, hígado, riñón, hierro… Te dice cómo estás hoy. Valiosa, pero incompleta.\n\n📈 Los biomarcadores dinámicos son la película: qué comes, cuánto te mueves, cómo duermes y cómo responde tu glucosa a cada comida. Te dicen el porqué y cómo cambiarlo.\n\nEn Glucovibes juntamos las dos: un Viber ve su analítica explicada y, al lado, la curva de cada desayuno.\n\nAsí los datos sueltos se convierten en decisiones.\n\n¿Tú miras la foto o la película? 👇",
+    "hashtags": "#analiticas #biomarcadores #saludmetabolica #glucosa #nutriciondeprecision #glucovibes #longevidad #bienestar"
+  },
+  "linkedin": {
+    "texto": "Una analítica de sangre es una foto fija. Tu salud es una película.\n\nLos biomarcadores estáticos (colesterol, glucosa en ayunas, función hepática y renal, hierro) dicen cómo estás hoy. Son valiosos, pero incompletos.\n\nLos biomarcadores dinámicos cambian cada día: qué comes, cuánto te mueves, cómo duermes y cómo responde tu glucosa a cada comida. Explican el porqué y, sobre todo, qué puedes cambiar.\n\nEn Glucovibes los reunimos en un solo sitio: cada biomarcador explicado con recomendaciones según su nivel, y situado dentro del día a día de cada persona. Así es como pasamos de datos sueltos a decisiones, y por eso podemos hablar de nutrición de precisión y de salud metabólica.\n\n¿Cuántos fotogramas de tu salud conoces?",
+    "hashtags": "#SaludMetabólica #Biomarcadores #NutriciónDePrecisión #HealthTech #Longevidad"
+  },
+  "nota_revision": "La captura de la analítica es la de la newsletter (sin nombre ni datos identificables). No está en Buffer: el conector de Buffer está desconectado y no se pudo crear el borrador. Hay que reconectarlo para subirla.",
+  "buffer": {
+    "instagram_post_id": null,
+    "canal": "glucovibes (instagram)"
+  }
+}
