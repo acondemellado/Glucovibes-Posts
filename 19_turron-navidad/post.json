@@ -6,7 +6,7 @@
     "93fe8baed2",
     "blog:recetas-dulces-navidenas"
   ],
-  "estado": "revisar",
+  "estado": "programado",
   "fecha_sugerida": "2026-12-19 (sábado) 19:30",
   "slides": [
     {
@@ -132,7 +132,7 @@
   },
   "nota_revision": "Fuente: newsletter de Navidad 2022 (93fe8baed2) + receta del blog glucovibes.com/blog/recetas-dulces-navidenas/ (ingredientes y pasos literales). No hay curva de glucosa del turrón: no se dan cifras. La foto de la newsletter tenía caras del equipo; se usa la foto del turrón del blog.",
   "buffer": {
-    "instagram_post_id": null,
+    "instagram_post_id": "6aeaf416961fae078abd6ec8",
     "canal": "glucovibes (instagram)"
   }
 }

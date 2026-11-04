@@ -5,7 +5,7 @@
   "fuente": [
     "70cc8e2075"
   ],
-  "estado": "revisar",
+  "estado": "programado",
   "fecha_sugerida": "2026-12-31 (jueves) 19:30",
   "slides": [
     {
@@ -98,7 +98,7 @@
   },
   "nota_revision": "Capturas de la newsletter 70cc8e2075 (sin nombre). La newsletter dice HDL «de 66 a ~90»; la captura muestra 66 → 90 → 95 → 97 → 88. Se titula «de 66 a 88» (primer y último valor) y se menciona el máximo de 97. Glucosa basal 88 → 82 coincide. Cerca del tema de 18_salud-foto-pelicula (05/12), pero aquí el foco es la evolución.",
   "buffer": {
-    "instagram_post_id": null,
+    "instagram_post_id": "6aeaf423ce16a24329e23068",
     "canal": "glucovibes (instagram)"
   }
 }

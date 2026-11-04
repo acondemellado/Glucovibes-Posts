@@ -6,7 +6,7 @@
     "5b29da3ccf",
     "bbd61678c8"
   ],
-  "estado": "revisar",
+  "estado": "programado",
   "fecha_sugerida": "2026-12-24 (jueves) 19:30",
   "slides": [
     {
@@ -107,7 +107,7 @@
   },
   "nota_revision": "Imagen: comparativa «¿Cómo afecta?» de la newsletter 5b29da3ccf (curvas una encima de otra, no lado a lado; se ha recortado la interfaz de Instagram). Discrepancia: el texto de la newsletter dice pico de 150 mg/dl, la curva marca ~155; se usa «~150» y +75 (texto) porque la curva no contradice el orden de magnitud. «<120» con bici se lee de la curva (la fuente no da la cifra). Toca temas cercanos a 11_buffet-actividad y 16_hambre-tras-entrenar: valorar si se prefiere otro tema para Nochebuena.",
   "buffer": {
-    "instagram_post_id": null,
+    "instagram_post_id": "6aeaf41b20b88292aa721161",
     "canal": "glucovibes (instagram)"
   }
 }

@@ -59,14 +59,15 @@
     {
       "fecha": "2026-11-03",
       "dia": "martes",
-      "hora": "19:30",
-      "pilar": 1,
-      "tema": "Zumo o naranja: misma fruta, distinta respuesta",
+      "hora": "19:26",
+      "pilar": 5,
+      "tema": "Dos donuts, dos respuestas: industrial vs Glucovibes",
       "fuentes": [
         "23613e7534"
       ],
-      "carpeta": "03_zumo-vs-naranja",
-      "estado": "programado"
+      "carpeta": "13_donut-casero-vs-industrial",
+      "estado": "publicado",
+      "nota": "Movida en Buffer desde el 21/11; publicada el 03/11 a las 19:26."
     },
     {
       "fecha": "2026-11-05",
@@ -95,15 +96,15 @@
     {
       "fecha": "2026-11-10",
       "dia": "martes",
-      "hora": "19:30",
+      "hora": "19:26",
       "pilar": 1,
-      "tema": "Cómo afecta: misma cena a las 20:30 vs a las 23:00",
+      "tema": "Zumo de naranja vs. naranja entera",
       "fuentes": [
         "ig:6ad880a1785291f70efedae1"
       ],
-      "carpeta": "08_cena-temprana-vs-tarde",
-      "estado": "revisar",
-      "aviso_thread": "1a177191b8dc8036"
+      "carpeta": "03_zumo-vs-naranja",
+      "estado": "programado",
+      "nota": "Movida en Buffer desde el 03/11 al 10/11 19:26."
     },
     {
       "fecha": "2026-11-12",
@@ -116,7 +117,10 @@
       ],
       "carpeta": "09_edad-biologica",
       "estado": "revisar",
-      "aviso_thread": "1a177191b8dc8036"
+      "aviso_thread": "1a177191b8dc8036",
+      "respuestas_procesadas": [
+        "1a1a5c69a2c13ae2"
+      ]
     },
     {
       "fecha": "2026-11-14",
@@ -129,7 +133,10 @@
       ],
       "carpeta": "10_receta-bocados-pollo",
       "estado": "revisar",
-      "aviso_thread": "1a177191b8dc8036"
+      "aviso_thread": "1a177191b8dc8036",
+      "respuestas_procesadas": [
+        "1a1a5c69a2c13ae2"
+      ]
     },
     {
       "fecha": "2026-11-17",
@@ -142,7 +149,10 @@
       ],
       "carpeta": "11_buffet-actividad",
       "estado": "revisar",
-      "aviso_thread": "1a177191b8dc8036"
+      "aviso_thread": "1a177191b8dc8036",
+      "respuestas_procesadas": [
+        "1a1a5c69a2c13ae2"
+      ]
     },
     {
       "fecha": "2026-11-19",
@@ -155,20 +165,27 @@
       ],
       "carpeta": "12_readiness",
       "estado": "revisar",
-      "aviso_thread": "1a177191b8dc8036"
+      "aviso_thread": "1a177191b8dc8036",
+      "respuestas_procesadas": [
+        "1a1a5c69a2c13ae2"
+      ]
     },
     {
       "fecha": "2026-11-21",
       "dia": "sábado",
       "hora": "19:30",
-      "pilar": 5,
-      "tema": "Dos donuts, dos respuestas: industrial vs Glucovibes",
+      "pilar": 1,
+      "tema": "Cómo afecta: misma cena a las 20:30 vs a las 23:00",
       "fuentes": [
         "218efb0e6f"
       ],
-      "carpeta": "13_donut-casero-vs-industrial",
-      "estado": "revisar",
-      "aviso_thread": "1a177191b8dc8036"
+      "carpeta": "08_cena-temprana-vs-tarde",
+      "estado": "programado",
+      "aviso_thread": "1a177191b8dc8036",
+      "nota": "Movida en Buffer desde el 10/11 al 21/11 (programada sin OK por email: la movió Alberto en Buffer).",
+      "respuestas_procesadas": [
+        "1a1a5c69a2c13ae2"
+      ]
     },
     {
       "fecha": "2026-11-24",
@@ -330,9 +347,11 @@
         "blog:recetas-dulces-navidenas"
       ],
       "carpeta": "19_turron-navidad",
-      "estado": "revisar",
-      "nota": "Aviso enviado el 2026-11-04 a acondemellado@gmail.com. Falta subir el borrador a Buffer (conector desconectado).",
-      "aviso_thread": "1a1a5bdcca1e5951"
+      "estado": "programado",
+      "aviso_thread": "1a1a5bdcca1e5951",
+      "respuestas_procesadas": [
+        "1a1a5c4de56a2270"
+      ]
     },
     {
       "fecha": "2026-12-22",
@@ -357,9 +376,11 @@
         "bbd61678c8"
       ],
       "carpeta": "20_dulce-tras-moverte",
-      "estado": "revisar",
-      "nota": "Aviso enviado el 2026-11-04 a acondemellado@gmail.com. Falta subir el borrador a Buffer (conector desconectado).",
-      "aviso_thread": "1a1a5bdcca1e5951"
+      "estado": "programado",
+      "aviso_thread": "1a1a5bdcca1e5951",
+      "respuestas_procesadas": [
+        "1a1a5c4de56a2270"
+      ]
     },
     {
       "fecha": "2026-12-26",
@@ -371,9 +392,11 @@
         "9a1d4e1258"
       ],
       "carpeta": "21_pilares-estilo-vida",
-      "estado": "revisar",
-      "nota": "Aviso enviado el 2026-11-04 a acondemellado@gmail.com. Falta subir el borrador a Buffer (conector desconectado).",
-      "aviso_thread": "1a1a5bdcca1e5951"
+      "estado": "programado",
+      "aviso_thread": "1a1a5bdcca1e5951",
+      "respuestas_procesadas": [
+        "1a1a5c4de56a2270"
+      ]
     },
     {
       "fecha": "2026-12-29",
@@ -397,9 +420,11 @@
         "70cc8e2075"
       ],
       "carpeta": "22_evolucion-analiticas",
-      "estado": "revisar",
-      "nota": "Aviso enviado el 2026-11-04 a acondemellado@gmail.com. Falta subir el borrador a Buffer (conector desconectado).",
-      "aviso_thread": "1a1a5bdcca1e5951"
+      "estado": "programado",
+      "aviso_thread": "1a1a5bdcca1e5951",
+      "respuestas_procesadas": [
+        "1a1a5c4de56a2270"
+      ]
     },
     {
       "fecha": "2027-01-02",

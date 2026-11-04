@@ -10,15 +10,15 @@ Instagram (y LinkedIn cuando esté conectado). 3 por semana: martes (comparativa
 | 2026-10-27 | martes | 1 | Cómo afecta: pan de molde vs pan 100% integral (156 vs 123 mg/dl) | publicado |
 | 2026-10-29 | jueves | 4 | La inflamación silenciosa que nadie te mide | publicado |
 | 2026-10-31 | sábado | 5 | Receta: pan de atún al microondas (proteico, sin harinas) | publicado |
-| 2026-11-03 | martes | 1 | Zumo o naranja: misma fruta, distinta respuesta | programado |
+| 2026-11-03 | martes | 5 | Dos donuts, dos respuestas: industrial vs Glucovibes | publicado |
 | 2026-11-05 | jueves | 2 | ¿Saltarte el desayuno baja tu glucosa? Depende | programado |
 | 2026-11-07 | sábado | 6 | Así nació Glucovibes: hacemos visible lo invisible | programado |
-| 2026-11-10 | martes | 1 | Cómo afecta: misma cena a las 20:30 vs a las 23:00 | revisar |
+| 2026-11-10 | martes | 1 | Zumo de naranja vs. naranja entera | programado |
 | 2026-11-12 | jueves | 4 | ¿Tu cuerpo envejece más rápido o más lento que tú? Edad biológica | revisar |
 | 2026-11-14 | sábado | 5 | Receta: bocados de pollo con ensalada de pasta de lenteja y salsa de yogur | revisar |
 | 2026-11-17 | martes | 1 | Mismo buffet, dos glucosas: el orden importa | revisar |
 | 2026-11-19 | jueves | 4 | ¿Con cuánta energía te has levantado hoy? Readiness | revisar |
-| 2026-11-21 | sábado | 5 | Dos donuts, dos respuestas: industrial vs Glucovibes | revisar |
+| 2026-11-21 | sábado | 1 | Cómo afecta: misma cena a las 20:30 vs a las 23:00 | programado |
 | 2026-11-24 | martes | 1 | Cómo afecta: salsa de tomate casera vs industrial (130 vs 154 mg/dl) | revisar |
 | 2026-11-26 | jueves | 3 | Los carbohidratos: ni buenos ni malos, depende de cuáles y cuándo | revisar |
 | 2026-11-28 | sábado | 5 | El mismo plato no vale para un día de sofá que para uno de bici | revisar |
@@ -30,10 +30,10 @@ Instagram (y LinkedIn cuando esté conectado). 3 por semana: martes (comparativa
 | 2026-12-12 | sábado | 5 | Bowl de yogur: muesli azucarado vs chocolate negro y frutos secos | pendiente |
 | 2026-12-15 | martes | 1 | Cómo afecta: manzana sola vs manzana + 25 g de nueces | pendiente |
 | 2026-12-17 | jueves | 3 | La fibra, tu gran aliada (25 g al día) | pendiente |
-| 2026-12-19 | sábado | 5 | Receta: Turrón Glucovibes de almendra y pistacho | revisar |
+| 2026-12-19 | sábado | 5 | Receta: Turrón Glucovibes de almendra y pistacho | programado |
 | 2026-12-22 | martes | 1 | Cómo afecta: mismo desayuno tras dormir mal vs dormir bien | pendiente |
-| 2026-12-24 | jueves | 3 | Mismo dulce, distinto momento: palmera en el sofá vs tras la bici | revisar |
-| 2026-12-26 | sábado | 6 | Tu salud es un coche: los pilares de un estilo de vida saludable | revisar |
+| 2026-12-24 | jueves | 3 | Mismo dulce, distinto momento: palmera en el sofá vs tras la bici | programado |
+| 2026-12-26 | sábado | 6 | Tu salud es un coche: los pilares de un estilo de vida saludable | programado |
 | 2026-12-29 | martes | 1 | Cómo afecta: puré instantáneo vs puré casero | pendiente |
-| 2026-12-31 | jueves | 4 | Tus analíticas, mejor cada vez: mira tu evolución | revisar |
+| 2026-12-31 | jueves | 4 | Tus analíticas, mejor cada vez: mira tu evolución | programado |
 | 2027-01-02 | sábado | 5 | Smoothie: triturado solo vs con toppings (fibra, proteína, grasa) | pendiente |
