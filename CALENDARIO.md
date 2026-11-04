@@ -30,10 +30,10 @@ Instagram (y LinkedIn cuando esté conectado). 3 por semana: martes (comparativa
 | 2026-12-12 | sábado | 5 | Bowl de yogur: muesli azucarado vs chocolate negro y frutos secos | pendiente |
 | 2026-12-15 | martes | 1 | Cómo afecta: manzana sola vs manzana + 25 g de nueces | pendiente |
 | 2026-12-17 | jueves | 3 | La fibra, tu gran aliada (25 g al día) | pendiente |
-| 2026-12-19 | sábado | 5 | Recetas navideñas Glucovibes | pendiente |
+| 2026-12-19 | sábado | 5 | Receta: Turrón Glucovibes de almendra y pistacho | borrador |
 | 2026-12-22 | martes | 1 | Cómo afecta: mismo desayuno tras dormir mal vs dormir bien | pendiente |
-| 2026-12-24 | jueves | 3 | Glucosa y actividad: muévete después de comer | pendiente |
-| 2026-12-26 | sábado | 6 | Los pilares de un estilo de vida saludable | pendiente |
+| 2026-12-24 | jueves | 3 | Mismo dulce, distinto momento: palmera en el sofá vs tras la bici | borrador |
+| 2026-12-26 | sábado | 6 | Tu salud es un coche: los pilares de un estilo de vida saludable | borrador |
 | 2026-12-29 | martes | 1 | Cómo afecta: puré instantáneo vs puré casero | pendiente |
-| 2026-12-31 | jueves | 4 | Tus analíticas, mejor cada vez: mira tu evolución | pendiente |
+| 2026-12-31 | jueves | 4 | Tus analíticas, mejor cada vez: mira tu evolución | borrador |
 | 2027-01-02 | sábado | 5 | Smoothie: triturado solo vs con toppings (fibra, proteína, grasa) | pendiente |

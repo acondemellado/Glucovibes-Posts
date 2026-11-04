@@ -1,0 +1,113 @@
+{
+  "id": "20_dulce-tras-moverte",
+  "tema": "Mismo dulce, distinto momento: palmera en el sofá vs tras la bici",
+  "pilar": 3,
+  "fuente": [
+    "5b29da3ccf",
+    "bbd61678c8"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-12-24 (jueves) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Glucosa y actividad",
+      "titulo": "Mismo dulce.",
+      "titulo_rojo": "Distinto momento.",
+      "subtitulo": "Una palmera de chocolate en el sofá… y otra después de pedalear."
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "Sofá vs",
+      "titulo_rojo": "bici",
+      "src": "curvas.jpg",
+      "ancho": 860,
+      "nota": "Curvas observadas en registros reales de un Viber; la respuesta puede variar entre personas."
+    },
+    {
+      "tipo": "cifras",
+      "titulo": "La diferencia,",
+      "titulo_rojo": "en cifras",
+      "items": [
+        {
+          "etq": "En el sofá",
+          "valor": "+75",
+          "unidad": "mg/dl",
+          "det": "De 80 a ~150 y alta casi 2 horas",
+          "nivel": "mala"
+        },
+        {
+          "etq": "Tras la bici",
+          "valor": "<120",
+          "unidad": "mg/dl",
+          "det": "Subida suave y vuelta a la calma",
+          "nivel": "buena"
+        }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Por qué",
+      "titulo_rojo": "pasa",
+      "items": [
+        {
+          "ico": "⚡",
+          "titulo": "Hasta 100 veces más energía",
+          "texto": "Al moverte, el músculo recibe muchísima más energía que en reposo."
+        },
+        {
+          "ico": "🔑",
+          "titulo": "GLUT4 abre la puerta",
+          "texto": "La contracción muscular mete la glucosa en el músculo."
+        },
+        {
+          "ico": "🛋️",
+          "titulo": "Quieta o quieto…",
+          "texto": "La insulina retira el exceso y lo acaba guardando como grasa."
+        }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Cómo usarlo",
+      "titulo_rojo": "estas fiestas",
+      "items": [
+        {
+          "ico": "🚶",
+          "titulo": "Paseo después de comer",
+          "texto": "Caminar también cuenta como actividad."
+        },
+        {
+          "ico": "🍬",
+          "titulo": "El dulce, cerca del movimiento",
+          "texto": "Durante o justo después de moverte."
+        },
+        {
+          "ico": "📈",
+          "titulo": "Compruébalo en tu curva",
+          "texto": "Tu respuesta es tuya."
+        }
+      ]
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Muévete y",
+      "titulo_rojo": "mira la diferencia.",
+      "cta": "Descubre cómo te afecta a ti",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🍫 Misma palmera de chocolate. Distinto momento. Curvas muy distintas.\n\n🛋️ Comida en el sofá: la glucosa de un Viber pasó de 80 a unos 150 mg/dl (+75) y siguió alta casi 2 horas.\n🚴 Después de pedalear: subida suave, por debajo de 120 mg/dl.\n\n¿Por qué? Al moverte, tus músculos reciben hasta 100 veces más energía que en reposo y el GLUT4 les abre la puerta a la glucosa. Sin movimiento, la insulina tiene que retirar ese exceso.\n\nTruco para estas fiestas: el dulce, cerca del movimiento. Y un paseo después de comer también cuenta.\n\nCurvas reales; la respuesta puede variar entre personas. Comparte con quien siempre se apunta al paseo 👇",
+    "hashtags": "#glucosa #ejercicio #saludmetabolica #nutriciondeprecision #glucovibes #monitorizaciondeglucosa #habitossaludables #navidad"
+  },
+  "linkedin": {
+    "texto": "El mismo alimento no tiene el mismo impacto siempre. Depende, y mucho, del momento.\n\nUn Viber comió la misma palmera de hojaldre y chocolate en dos situaciones. En reposo, su glucosa pasó de 80 a unos 150 mg/dl (+75) y se mantuvo elevada casi dos horas. Tras una salida en bici, la subida fue suave y no superó los 120 mg/dl.\n\nLa fisiología lo explica: al movernos, el músculo puede recibir hasta 100 veces más energía que en reposo, y la contracción muscular activa el transportador GLUT4, que capta glucosa de la sangre sin depender tanto de la insulina. Sin estímulo muscular, la insulina retira el exceso y una parte acaba almacenada como grasa.\n\nEn plena temporada de comidas largas, la aplicación práctica es sencilla: un paseo después de comer y el dulce cerca del movimiento.\n\nCurvas observadas en registros reales; la respuesta varía entre personas. ¿Lo has visto en tus datos?",
+    "hashtags": "#SaludMetabólica #Glucosa #Ejercicio #NutriciónDePrecisión #HealthTech"
+  },
+  "nota_revision": "Imagen: comparativa «¿Cómo afecta?» de la newsletter 5b29da3ccf (curvas una encima de otra, no lado a lado; se ha recortado la interfaz de Instagram). Discrepancia: el texto de la newsletter dice pico de 150 mg/dl, la curva marca ~155; se usa «~150» y +75 (texto) porque la curva no contradice el orden de magnitud. «<120» con bici se lee de la curva (la fuente no da la cifra). Toca temas cercanos a 11_buffet-actividad y 16_hambre-tras-entrenar: valorar si se prefiere otro tema para Nochebuena.",
+  "buffer": {
+    "instagram_post_id": null,
+    "canal": "glucovibes (instagram)"
+  }
+}

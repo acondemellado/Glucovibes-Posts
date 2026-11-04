@@ -1,0 +1,138 @@
+{
+  "id": "19_turron-navidad",
+  "tema": "Turrón Glucovibes: el dulce de Navidad que no dispara tu glucosa",
+  "pilar": 5,
+  "fuente": [
+    "93fe8baed2",
+    "blog:recetas-dulces-navidenas"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-12-19 (sábado) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Receta Glucovibes",
+      "titulo": "Turrón en Navidad.",
+      "titulo_rojo": "Sin el bajón.",
+      "subtitulo": "Almendra, pistacho, dátiles y chocolate 82%. Sin azúcar añadido."
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "Turrón Glucovibes de",
+      "titulo_rojo": "almendra y pistacho",
+      "src": "turron.jpg",
+      "ancho": 820,
+      "nota": "Receta del blog de Glucovibes."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Lo que",
+      "titulo_rojo": "necesitas",
+      "columnas": [
+        "Ingrediente",
+        "Cantidad"
+      ],
+      "filas": [
+        [
+          "Almendra molida",
+          "200 g"
+        ],
+        [
+          "Dátiles sin hueso",
+          "120 g"
+        ],
+        [
+          "Skyr (o yogur griego)",
+          "145 g"
+        ],
+        [
+          "Chocolate 82% o más",
+          "55 g*"
+        ],
+        [
+          "Aceite de coco",
+          "30 g"
+        ],
+        [
+          "Almendra cruda + pistacho",
+          "25 g + 25 g"
+        ]
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Así se",
+      "titulo_rojo": "prepara",
+      "items": [
+        {
+          "ico": "💧",
+          "titulo": "Remoja los dátiles",
+          "texto": "10-15 min en agua caliente."
+        },
+        {
+          "ico": "🥜",
+          "titulo": "Pica almendra y pistacho",
+          "texto": "En trocitos: son el crujiente."
+        },
+        {
+          "ico": "🌀",
+          "titulo": "Tritura la masa",
+          "texto": "Almendra molida, dátiles, coco y skyr. Añade los trocitos."
+        },
+        {
+          "ico": "🍫",
+          "titulo": "Prensa y cubre",
+          "texto": "Al molde, 10 min al congelador y chocolate fundido encima."
+        },
+        {
+          "ico": "❄️",
+          "titulo": "Una noche en la nevera",
+          "texto": "Con peso encima. Sácalo 10 min antes."
+        }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Por qué",
+      "titulo_rojo": "funciona",
+      "items": [
+        {
+          "ico": "🥑",
+          "titulo": "Grasa de frutos secos",
+          "texto": "Ralentiza la llegada del azúcar."
+        },
+        {
+          "ico": "🧱",
+          "titulo": "Proteína del skyr",
+          "texto": "Más saciedad, curva más suave."
+        },
+        {
+          "ico": "🍫",
+          "titulo": "Chocolate 82%",
+          "texto": "Mucho cacao, poco azúcar."
+        }
+      ],
+      "nota": "Los dátiles también llevan azúcar: disfrútalo en porciones."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Felices fiestas,",
+      "titulo_rojo": "con la curva estable.",
+      "cta": "Guárdala para Nochebuena",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🎄 Turrón en Navidad, sí. El pico y el bajón de después, mejor no.\n\nTe dejamos el Turrón Glucovibes de almendra y pistacho: almendra molida, dátiles, skyr, aceite de coco y una capa de chocolate 82%. Sin azúcar añadido.\n\n🥜 La grasa de los frutos secos y la proteína del skyr hacen que el azúcar llegue más despacio.\n🍫 El chocolate de mucho cacao aporta sabor con poco azúcar.\n\nLos dátiles también llevan azúcar, así que porciones pequeñas y a disfrutar.\n\nGuárdala para Nochebuena y compártela con quien hace los postres en casa 👇",
+    "hashtags": "#recetasaludable #turron #navidad #recetasnavideñas #glucosa #saludmetabolica #nutriciondeprecision #glucovibes #habitossaludables"
+  },
+  "linkedin": {
+    "texto": "Las Navidades llenan la mesa de turrón, mazapanes, bombones y roscón. Son parte de la fiesta, pero suelen combinar mucho azúcar y harina refinada: el cóctel perfecto para el pico y el bajón.\n\nEn Glucovibes preferimos adaptar la receta antes que renunciar a ella. Nuestro Turrón Glucovibes de almendra y pistacho cambia el azúcar por dátiles, suma proteína con skyr y grasa de frutos secos, y se cubre con chocolate de 82% o más.\n\nLa idea es sencilla: la grasa y la proteína ralentizan la llegada de la glucosa a la sangre, así que la curva es más suave. Y como los dátiles también llevan azúcar, la porción sigue importando.\n\nLa receta completa está en nuestro blog y en el carrusel. ¿Qué dulce navideño te gustaría que versionáramos?",
+    "hashtags": "#SaludMetabólica #Glucosa #NutriciónDePrecisión #Navidad #Longevidad"
+  },
+  "nota_revision": "Fuente: newsletter de Navidad 2022 (93fe8baed2) + receta del blog glucovibes.com/blog/recetas-dulces-navidenas/ (ingredientes y pasos literales). No hay curva de glucosa del turrón: no se dan cifras. La foto de la newsletter tenía caras del equipo; se usa la foto del turrón del blog.",
+  "buffer": {
+    "instagram_post_id": null,
+    "canal": "glucovibes (instagram)"
+  }
+}

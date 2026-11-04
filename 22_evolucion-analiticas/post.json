@@ -1,0 +1,104 @@
+{
+  "id": "22_evolucion-analiticas",
+  "tema": "Tus analíticas, mejor cada vez: mira tu evolución",
+  "pilar": 4,
+  "fuente": [
+    "70cc8e2075"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-12-31 (jueves) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Indicadores Glucovibes",
+      "titulo": "Tus analíticas,",
+      "titulo_rojo": "mejor cada vez.",
+      "subtitulo": "No mires un número suelto. Mira hacia dónde va."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Todas tus analíticas,",
+      "titulo_rojo": "ordenadas",
+      "items": [
+        {
+          "ico": "📸",
+          "titulo": "Súbelas con una foto",
+          "texto": "La app las guarda en tu histórico."
+        },
+        {
+          "ico": "🗂️",
+          "titulo": "Por área de salud",
+          "texto": "Cardiovascular, metabólica, renal, hepática…"
+        },
+        {
+          "ico": "🚦",
+          "titulo": "Con semáforo",
+          "texto": "Qué está en rango y qué conviene vigilar."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "Colesterol HDL,",
+      "titulo_rojo": "de 66 a 88",
+      "src": "hdl.png",
+      "ancho": 900,
+      "nota": "Captura real de la app Glucovibes de una Viber."
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "Glucosa basal,",
+      "titulo_rojo": "de 88 a 82",
+      "src": "glucosa.png",
+      "ancho": 900,
+      "nota": "Captura real de la app Glucovibes de una Viber."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "¿La",
+      "titulo_rojo": "receta?",
+      "items": [
+        {
+          "ico": "🥗",
+          "titulo": "Nutrición",
+          "texto": ""
+        },
+        {
+          "ico": "🏃",
+          "titulo": "Actividad",
+          "texto": ""
+        },
+        {
+          "ico": "🛏️",
+          "titulo": "Descanso",
+          "texto": ""
+        },
+        {
+          "ico": "📈",
+          "titulo": "Glucosa estable",
+          "texto": "Con los biosensores de Glucovibes. En 5-6 meses se nota."
+        }
+      ]
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Que 2027 se note",
+      "titulo_rojo": "en tu analítica.",
+      "cta": "Hazte miembro de Glucovibes",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "📈 Último día del año: buen momento para mirar hacia dónde vas, no solo dónde estás.\n\nEn Glucovibes subes cada analítica con una foto y la app la ordena por área de salud, con un semáforo y todo tu histórico.\n\nLo importante es la tendencia. En las capturas de una Viber:\n🩸 Colesterol HDL de 66 a 88 mg/dl (con picos de 97)\n🟢 Glucosa basal de 88 a 82 mg/dl, en rango y a la baja\n\n¿La receta? Constancia en nutrición, actividad y descanso, más una glucosa estable. En 5 o 6 meses se nota en la analítica.\n\n¿Qué marcador quieres ver mejorar en 2027? 👇",
+    "hashtags": "#analiticas #biomarcadores #colesterol #glucosa #saludmetabolica #glucovibes #longevidad #nutriciondeprecision"
+  },
+  "linkedin": {
+    "texto": "Una analítica aislada dice cómo estás hoy. Varias seguidas dicen hacia dónde vas.\n\nEn Glucovibes cada persona sube sus analíticas con una foto. La app las ordena por área de salud (cardiovascular, metabólica, renal, hepática…), marca con un semáforo qué está en rango y guarda el histórico para ver la evolución de cada biomarcador.\n\nEn el ejemplo del carrusel, el colesterol HDL de una Viber pasa de 66 a 88 mg/dl (llegó a 97) y su glucosa basal baja de 88 a 82 mg/dl, en rango.\n\nNo hay atajos: constancia en nutrición, actividad y descanso, sumada a la estabilidad glucémica que se trabaja con la monitorización continua. En 5 o 6 meses, esa combinación empieza a reflejarse en la analítica.\n\n¿Comparas tus analíticas entre sí o solo miras la última?",
+    "hashtags": "#SaludMetabólica #Biomarcadores #NutriciónDePrecisión #HealthTech #Longevidad"
+  },
+  "nota_revision": "Capturas de la newsletter 70cc8e2075 (sin nombre). La newsletter dice HDL «de 66 a ~90»; la captura muestra 66 → 90 → 95 → 97 → 88. Se titula «de 66 a 88» (primer y último valor) y se menciona el máximo de 97. Glucosa basal 88 → 82 coincide. Cerca del tema de 18_salud-foto-pelicula (05/12), pero aquí el foco es la evolución.",
+  "buffer": {
+    "instagram_post_id": null,
+    "canal": "glucovibes (instagram)"
+  }
+}

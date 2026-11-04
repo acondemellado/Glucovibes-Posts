@@ -1,0 +1,121 @@
+{
+  "id": "21_pilares-estilo-vida",
+  "tema": "Tu salud es un coche: los pilares de un estilo de vida saludable",
+  "pilar": 6,
+  "fuente": [
+    "9a1d4e1258"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-12-26 (sábado) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Para empezar el año",
+      "titulo": "Tu salud es un coche.",
+      "titulo_rojo": "¿Tienes alguna rueda pinchada?",
+      "subtitulo": "Los pilares de un estilo de vida saludable."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Primero, una",
+      "titulo_rojo": "diferencia",
+      "items": [
+        {
+          "ico": "🧬",
+          "titulo": "Nutrición",
+          "texto": "Lo que tu cuerpo hace con los nutrientes. Involuntario."
+        },
+        {
+          "ico": "🍽️",
+          "titulo": "Alimentación",
+          "texto": "Qué, cuándo y cómo comes. Eso lo decides tú."
+        }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "El",
+      "titulo_rojo": "combustible",
+      "items": [
+        {
+          "ico": "🔋",
+          "titulo": "Carbohidratos",
+          "texto": "Fruta, verdura, legumbre, integrales: energía progresiva."
+        },
+        {
+          "ico": "🧱",
+          "titulo": "Proteínas",
+          "texto": "Construyen y reparan. Calidad en cada comida."
+        },
+        {
+          "ico": "🥑",
+          "titulo": "Grasas saludables",
+          "texto": "Aguacate, frutos secos, pescado azul, aceite de oliva."
+        }
+      ]
+    },
+    {
+      "tipo": "cifras",
+      "titulo": "El dato que",
+      "titulo_rojo": "sorprende",
+      "items": [
+        {
+          "etq": "Fibra recomendada",
+          "valor": "25",
+          "unidad": "g/día",
+          "det": "Digestión, saciedad y glucosa más estable",
+          "nivel": "buena"
+        },
+        {
+          "etq": "No llegaban al mínimo",
+          "valor": ">80",
+          "unidad": "%",
+          "det": "De quienes empezaron un plan Glucovibes",
+          "nivel": "mala"
+        }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Las ruedas que",
+      "titulo_rojo": "completan el viaje",
+      "items": [
+        {
+          "ico": "🛏️",
+          "titulo": "Descanso",
+          "texto": "Regenera, equilibra hormonas y recupera el músculo."
+        },
+        {
+          "ico": "🏃",
+          "titulo": "Movimiento",
+          "texto": "Metabolismo, ánimo y mejor sueño."
+        },
+        {
+          "ico": "🚗",
+          "titulo": "Todo en equilibrio",
+          "texto": "Con una rueda pinchada avanzas… pero no bien."
+        }
+      ]
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Revisa tus ruedas",
+      "titulo_rojo": "antes de 2027.",
+      "cta": "Empieza con Glucovibes",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🚗 Piensa en tu salud como un coche: si una rueda está pinchada, avanzas… pero no de forma óptima.\n\nLas piezas clave:\n🔋 Carbohidratos de fruta, verdura, legumbre e integrales\n🧱 Proteína de calidad en cada comida\n🥑 Grasas saludables: aguacate, frutos secos, pescado azul, AOVE\n🛏️ Descanso y 🏃 movimiento\n\nY el dato que más sorprende: más del 80% de las personas que empezaron un plan Glucovibes no llegaban a los 25 g de fibra al día.\n\nAntes de los propósitos de 2027, ¿qué rueda revisarías primero? 👇",
+    "hashtags": "#habitossaludables #saludmetabolica #nutricion #fibra #glucovibes #glucosa #longevidad #bienestar"
+  },
+  "linkedin": {
+    "texto": "Entre Navidad y Año Nuevo es buen momento para revisar lo básico.\n\nEn Glucovibes usamos una imagen sencilla: tu bienestar es un coche. Si una rueda está pinchada, el coche se mueve, pero no de forma óptima.\n\nEl combustible: carbohidratos que dan energía progresiva (fruta, verdura, legumbre, integrales, tubérculos), proteína de calidad en cada comida y grasas saludables (aguacate, frutos secos, pescado azul, aceite de oliva).\n\nLas ruedas que completan el viaje: descanso, que regenera y equilibra el sistema hormonal, y movimiento, que mejora el metabolismo, el ánimo y el sueño.\n\nUn dato de nuestra comunidad: más del 80% de las personas que empezaron un plan Glucovibes no alcanzaban los 25 g de fibra diarios recomendados. A veces la mejora más grande está en lo más básico.\n\n¿Qué pilar te cuesta más mantener?",
+    "hashtags": "#SaludMetabólica #HábitosSaludables #NutriciónDePrecisión #Longevidad #HealthTech"
+  },
+  "nota_revision": "Fuente: email 02 del Membership Journey (9a1d4e1258). Cifras literales: 25 g de fibra y «más del 80%». Sin imagen propia (la de la fuente es el logo): carrusel solo con texto. La afirmación de la fuente sobre riesgo de diabetes tipo 2 se ha omitido por la regla de no hacer promesas médicas.",
+  "buffer": {
+    "instagram_post_id": null,
+    "canal": "glucovibes (instagram)"
+  }
+}

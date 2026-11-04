@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03",
+  "actualizado": "2026-11-04",
   "franjas": {
     "martes": "pilar 1-2",
     "jueves": "pilar 3-4",
@@ -261,7 +261,8 @@
         "ig:6ad880a1785291f70efedabc"
       ],
       "carpeta": null,
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "nota": "Sin generar: la fuente es un reel de Instagram (ig:) que solo se lee desde Buffer, desconectado el 2026-11-04."
     },
     {
       "fecha": "2026-12-10",
@@ -276,7 +277,7 @@
       ],
       "carpeta": null,
       "estado": "pendiente",
-      "nota": "Ojo: las newsletters sin fecha de esta entrada son plantillas vacías de Mailchimp; buscar otra fuente."
+      "nota": "Sin generar: las 3 newsletters de grasas son plantillas vacías de Mailchimp. Hace falta otra fuente (o un reel ig: de grasas)."
     },
     {
       "fecha": "2026-12-12",
@@ -288,7 +289,8 @@
         "ig:6ad880a1785291f70efedaae"
       ],
       "carpeta": null,
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "nota": "Sin generar: la fuente es un reel de Instagram (ig:) que solo se lee desde Buffer, desconectado el 2026-11-04."
     },
     {
       "fecha": "2026-12-15",
@@ -300,7 +302,8 @@
         "ig:6ad880a1785291f70efedaa8"
       ],
       "carpeta": null,
-      "estado": "pendiente"
+      "estado": "pendiente",
+      "nota": "Sin generar: la fuente es un reel de Instagram (ig:) que solo se lee desde Buffer, desconectado el 2026-11-04."
     },
     {
       "fecha": "2026-12-17",
@@ -314,19 +317,21 @@
       ],
       "carpeta": null,
       "estado": "pendiente",
-      "nota": "Ojo: las newsletters sin fecha de esta entrada son plantillas vacías de Mailchimp; buscar otra fuente."
+      "nota": "Sin generar: la fuente es un reel de Instagram (ig:) que solo se lee desde Buffer, desconectado el 2026-11-04."
     },
     {
       "fecha": "2026-12-19",
       "dia": "sábado",
       "hora": "19:30",
       "pilar": 5,
-      "tema": "Recetas navideñas Glucovibes",
+      "tema": "Receta: Turrón Glucovibes de almendra y pistacho",
       "fuentes": [
-        "93fe8baed2"
+        "93fe8baed2",
+        "blog:recetas-dulces-navidenas"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "19_turron-navidad",
+      "estado": "borrador",
+      "nota": "Generada el 2026-11-04. Falta subir el borrador a Buffer (conector desconectado) y enviar el aviso de revisión."
     },
     {
       "fecha": "2026-12-22",
@@ -345,25 +350,27 @@
       "dia": "jueves",
       "hora": "19:30",
       "pilar": 3,
-      "tema": "Glucosa y actividad: muévete después de comer",
+      "tema": "Mismo dulce, distinto momento: palmera en el sofá vs tras la bici",
       "fuentes": [
         "5b29da3ccf",
         "bbd61678c8"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "20_dulce-tras-moverte",
+      "estado": "borrador",
+      "nota": "Generada el 2026-11-04. Falta subir el borrador a Buffer (conector desconectado) y enviar el aviso de revisión."
     },
     {
       "fecha": "2026-12-26",
       "dia": "sábado",
       "hora": "19:30",
       "pilar": 6,
-      "tema": "Los pilares de un estilo de vida saludable",
+      "tema": "Tu salud es un coche: los pilares de un estilo de vida saludable",
       "fuentes": [
         "9a1d4e1258"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "21_pilares-estilo-vida",
+      "estado": "borrador",
+      "nota": "Generada el 2026-11-04. Falta subir el borrador a Buffer (conector desconectado) y enviar el aviso de revisión."
     },
     {
       "fecha": "2026-12-29",
@@ -386,8 +393,9 @@
       "fuentes": [
         "70cc8e2075"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "22_evolucion-analiticas",
+      "estado": "borrador",
+      "nota": "Generada el 2026-11-04. Falta subir el borrador a Buffer (conector desconectado) y enviar el aviso de revisión."
     },
     {
       "fecha": "2027-01-02",
