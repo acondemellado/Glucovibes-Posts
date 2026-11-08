@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04",
+  "actualizado": "2026-11-08",
   "franjas": {
     "martes": "pilar 1-2",
     "jueves": "pilar 3-4",
@@ -91,7 +91,7 @@
         "26d606020b"
       ],
       "carpeta": "07_origen-glucovibes",
-      "estado": "programado"
+      "estado": "publicado"
     },
     {
       "fecha": "2026-11-10",
