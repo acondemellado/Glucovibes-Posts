@@ -1,0 +1,103 @@
+{
+  "id": "24_energia-combustible",
+  "tema": "La energía lo es todo: de dónde sale y en qué la gastas",
+  "pilar": 3,
+  "fuente": [
+    "4a36b52e3c"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-12-10 (jueves) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Aprende tu metabolismo",
+      "titulo": "Tu cuerpo es una",
+      "titulo_rojo": "central energética.",
+      "subtitulo": "De dónde sale tu energía y en qué la gastas."
+    },
+    {
+      "tipo": "cifras",
+      "titulo": "Tres fuentes,",
+      "titulo_rojo": "tres ritmos",
+      "items": [
+        {
+          "etq": "Carbohidratos",
+          "valor": "4",
+          "unidad": "kcal/g",
+          "det": "La vía más rápida: se convierten en glucosa"
+        },
+        {
+          "etq": "Grasas",
+          "valor": "9",
+          "unidad": "kcal/g",
+          "det": "Más energía, pero más lenta"
+        },
+        {
+          "etq": "Proteínas",
+          "valor": "4",
+          "unidad": "kcal/g",
+          "det": "Sobre todo construyen y reparan"
+        }
+      ]
+    },
+    {
+      "tipo": "cifras",
+      "titulo": "¿En qué se",
+      "titulo_rojo": "va tu energía?",
+      "items": [
+        {
+          "etq": "Funciones vitales",
+          "valor": "≈75",
+          "unidad": "%",
+          "det": "Respirar, latir, mantener la temperatura: tu metabolismo basal"
+        }
+      ],
+      "nota": "Más la actividad física y la propia digestión."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "No toda energía",
+      "titulo_rojo": "es igual",
+      "items": [
+        {
+          "ico": "🐢",
+          "titulo": "Carbohidratos complejos",
+          "texto": "Integrales y legumbres: energía sostenida."
+        },
+        {
+          "ico": "⚡",
+          "titulo": "Carbohidratos simples",
+          "texto": "Se digieren rápido."
+        },
+        {
+          "ico": "🍗",
+          "titulo": "Digerir también gasta",
+          "texto": "Procesar proteína cuesta más energía que digerir azúcar añadido."
+        }
+      ]
+    },
+    {
+      "tipo": "portada",
+      "chip": "Recuerda",
+      "titulo": "Tu metabolismo",
+      "titulo_rojo": "no es fijo.",
+      "subtitulo": "La actividad, el descanso y la calidad de lo que comes cambian cómo usas tu energía."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Deja de adivinar.",
+      "titulo_rojo": "Mídelo.",
+      "cta": "Descubre tu respuesta",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🔋 La necesitas para todo: respirar, pensar, entrenar o charlar. Pero ¿de dónde sale tu energía?\n\nDe lo que comes:\n⚡ Carbohidratos: 4 kcal/g. La vía más rápida, se convierten en glucosa.\n🥑 Grasas: 9 kcal/g. Más energía, pero se usa más despacio.\n🍗 Proteínas: 4 kcal/g. Sobre todo construyen y reparan.\n\n¿Y en qué la gastas? Cerca del 75 % se va en funciones vitales: tu metabolismo basal. El resto, en moverte y en digerir.\n\nLa buena noticia: tu metabolismo no es fijo. Actividad, descanso y calidad de lo que comes lo cambian.\n\nGuárdalo para entender mejor tu energía 📌",
+    "hashtags": "#metabolismo #energia #glucosa #saludmetabolica #nutricion #macronutrientes #habitossaludables #glucovibes"
+  },
+  "linkedin": {
+    "texto": "Tu cuerpo es una central energética, y cada macronutriente la alimenta a su ritmo.\n\nLos carbohidratos (4 kcal/g) son la vía más rápida: se convierten en glucosa. Las grasas (9 kcal/g) aportan más energía, pero se metabolizan más despacio. Las proteínas (4 kcal/g) sobre todo construyen y reparan.\n\n¿Y a dónde va esa energía? Cerca del 75 % se destina a funciones vitales, el metabolismo basal. El resto, a la actividad física y a la propia digestión, que también tiene su coste: procesar proteína exige más energía que digerir azúcar añadido.\n\nLo importante: el metabolismo no es fijo. Actividad, descanso y calidad de los alimentos cambian cómo usamos la energía.\n\n¿Qué palanca te cuesta más mover?",
+    "hashtags": "#SaludMetabólica #Metabolismo #NutriciónDePrecisión #HealthTech"
+  },
+  "nota_revision": "Sustituye a «Las grasas: no tan malas como crees» (sus 3 newsletters son plantillas vacías). Fuente: newsletter 05 «La energía lo es todo» (4a36b52e3c)."
+}

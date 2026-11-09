@@ -1,0 +1,89 @@
+{
+  "id": "25_bowl-yogur-toppings",
+  "tema": "Cómo afecta: bowl de yogur con muesli azucarado vs chocolate negro y frutos secos",
+  "pilar": 1,
+  "fuente": [
+    "ig:6ad880a1785291f70efedaae"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-12-12 (sábado) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Cómo afecta",
+      "titulo": "Mismo yogur.",
+      "titulo_rojo": "Distintos toppings.",
+      "subtitulo": "Cambiamos lo que va encima y medimos la glucosa."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Dos",
+      "titulo_rojo": "bowls",
+      "items": [
+        {
+          "ico": "🥣",
+          "titulo": "Bowl 1",
+          "texto": "Yogur natural + arándanos + muesli comercial azucarado."
+        },
+        {
+          "ico": "🍫",
+          "titulo": "Bowl 2",
+          "texto": "Yogur natural + arándanos + chocolate negro 99% + frutos secos."
+        },
+        {
+          "ico": "📈",
+          "titulo": "Qué medimos",
+          "texto": "La glucosa durante las 2 horas siguientes."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "El topping",
+      "titulo_rojo": "manda",
+      "src": "curvas.png",
+      "ancho": 940,
+      "nota": "Curvas reales de una Viber; picos leídos en la gráfica. La respuesta puede variar entre personas."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "¿Por qué",
+      "titulo_rojo": "pasa esto?",
+      "items": [
+        {
+          "ico": "🍯",
+          "titulo": "Azúcar añadido",
+          "texto": "El muesli comercial lleva azúcares que suben la glucosa rápido."
+        },
+        {
+          "ico": "🥜",
+          "titulo": "Grasa saludable",
+          "texto": "El chocolate negro y los frutos secos frenan el paso del azúcar a la sangre."
+        }
+      ]
+    },
+    {
+      "tipo": "portada",
+      "chip": "#Glucotip",
+      "titulo": "Tu bowl,",
+      "titulo_rojo": "más estable.",
+      "subtitulo": "Yogur natural, fruta, frutos secos y chocolate negro (más del 85%)."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Deja de adivinar.",
+      "titulo_rojo": "Mídelo.",
+      "cta": "Descubre tu respuesta",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🫐 Hoy, en «Cómo afecta»: dos bowls de yogur, dos curvas.\n\nUna Viber tomó el mismo yogur natural con arándanos y solo cambió el topping:\n🥣 Bowl 1: muesli comercial azucarado.\n🍫 Bowl 2: chocolate negro 99% y frutos secos.\n\n📈 El primero generó un impacto claramente mayor en su glucosa (pico de unos 122 mg/dl frente a unos 100).\n\n¿Por qué? El muesli comercial lleva azúcares añadidos. La grasa saludable del chocolate negro y los frutos secos frena el paso del azúcar a la sangre.\n\n💡 #Glucotip: cambia el yogur de sabores por un bowl con fruta, frutos secos y chocolate negro (+85%).\n\n¿Cuál es tu topping? 👇",
+    "hashtags": "#comoafecta #glucosa #saludmetabolica #desayunosaludable #yogur #impactoglucemico #nutriciondeprecision #glucovibes"
+  },
+  "linkedin": {
+    "texto": "El yogur era el mismo. Lo que cambió fue lo de encima.\n\nUna usuaria de Glucovibes comparó dos bowls de yogur natural con arándanos: uno con muesli comercial azucarado y otro con chocolate negro 99% y frutos secos. El primero provocó un impacto claramente mayor en su glucosa: en la gráfica, un pico de unos 122 mg/dl frente a unos 100.\n\nDos factores explican la diferencia: los azúcares añadidos del muesli comercial y la grasa saludable del chocolate negro y los frutos secos, que ralentiza la absorción.\n\nPequeños cambios en un desayuno de siempre. Y cada persona responde a su manera: por eso medimos.\n\n¿Qué le pones tú a tu yogur?",
+    "hashtags": "#SaludMetabólica #Glucosa #NutriciónDePrecisión #HealthTech"
+  },
+  "nota_revision": "El reel no da cifras (ni en el texto ni en los subtítulos): los picos ≈122 y ≈100 mg/dl son lectura de la gráfica del vídeo. Si prefieres, se quitan y se deja solo la curva."
+}

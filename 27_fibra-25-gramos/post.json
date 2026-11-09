@@ -1,0 +1,94 @@
+{
+  "id": "27_fibra-25-gramos",
+  "tema": "La fibra, tu gran aliada: cómo llegar a 25 g al día",
+  "pilar": 3,
+  "fuente": [
+    "ig:6ad880a1785291f70efedaa4"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-12-17 (jueves) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Aprende tu metabolismo",
+      "titulo": "25 g de fibra al día.",
+      "titulo_rojo": "¿Cómo se llega?",
+      "subtitulo": "Cuatro cambios sencillos para conseguirlo."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Incluye",
+      "titulo_rojo": "fruta y verdura",
+      "items": [
+        {
+          "ico": "🍓",
+          "titulo": "Desayuno",
+          "texto": "Una pieza de fruta: fibra y saciedad para empezar el día."
+        },
+        {
+          "ico": "🥗",
+          "titulo": "Comida",
+          "texto": "Una ensalada para una digestión más saludable."
+        },
+        {
+          "ico": "🥦",
+          "titulo": "Cena",
+          "texto": "Verduras al vapor: ligeras y fáciles de digerir."
+        }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Cambia,",
+      "titulo_rojo": "agrega, añade",
+      "items": [
+        {
+          "ico": "🌾",
+          "titulo": "Cambia",
+          "texto": "Cereales refinados por cereales integrales."
+        },
+        {
+          "ico": "🫘",
+          "titulo": "Agrega legumbres",
+          "texto": "Garbanzos, lentejas o alubias varias veces por semana."
+        },
+        {
+          "ico": "🌰",
+          "titulo": "Añade frutos secos y semillas",
+          "texto": "En yogures, batidos o ensaladas."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "Tu racha",
+      "titulo_rojo": "de fibra",
+      "src": "app_racha.jpg",
+      "ancho": 560,
+      "nota": "Al llegar a 25 g de fibra, la app Glucovibes marca tu check del día."
+    },
+    {
+      "tipo": "portada",
+      "chip": "Recuerda",
+      "titulo": "Constancia",
+      "titulo_rojo": "sencilla.",
+      "subtitulo": "Pequeños cambios cada día suman más que una dieta perfecta un solo día."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Deja de adivinar.",
+      "titulo_rojo": "Mídelo.",
+      "cta": "Descubre tu respuesta",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🌾 25 g de fibra al día. Suena a mucho, pero se consigue con cambios pequeños:\n\n🍓 Fruta y verdura en cada comida: fruta en el desayuno, ensalada en la comida, verduras al vapor en la cena.\n🌾 Cereales integrales en lugar de refinados.\n🫘 Legumbres varias veces por semana: garbanzos, lentejas, alubias.\n🌰 Frutos secos y semillas en yogures, batidos o ensaladas.\n\nEn la app Glucovibes, cuando llegas a 25 g de fibra activas tu racha saludable y consigues tu check ✔️\n\nConstancia sencilla, cada día.\n\nGuárdalo para tu próxima compra 📌",
+    "hashtags": "#fibra #glucosa #saludmetabolica #legumbres #habitossaludables #nutricion #alimentacionsaludable #glucovibes"
+  },
+  "linkedin": {
+    "texto": "25 gramos de fibra al día. Es uno de los objetivos más sencillos y que más se olvidan.\n\nCuatro cambios lo hacen posible: fruta y verdura en cada comida, cereales integrales en lugar de refinados, legumbres varias veces por semana y frutos secos o semillas en yogures, batidos y ensaladas.\n\nEn la app Glucovibes, al llegar a 25 g de fibra se activa la racha saludable del día. Porque lo que sostiene la salud metabólica no es una dieta perfecta, sino la constancia.\n\n¿Cuál de estos cuatro te cuesta más?",
+    "hashtags": "#SaludMetabólica #Nutrición #Fibra #HealthTech"
+  },
+  "nota_revision": "Fuente: carrusel de Instagram «Consejos para llegar a los 25 g de fibra» (la newsletter 19 de fibra es una plantilla vacía). Pieza educativa: sin curvas."
+}

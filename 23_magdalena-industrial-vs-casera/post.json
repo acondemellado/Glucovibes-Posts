@@ -1,0 +1,89 @@
+{
+  "id": "23_magdalena-industrial-vs-casera",
+  "tema": "Cómo afecta: magdalena industrial vs casera (152 vs 129 mg/dl)",
+  "pilar": 1,
+  "fuente": [
+    "ig:6ad880a1785291f70efedabc"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-12-08 (martes) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Cómo afecta",
+      "titulo": "Misma magdalena.",
+      "titulo_rojo": "Distinta curva.",
+      "subtitulo": "Industrial o casera: medimos la glucosa dos horas después."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "El",
+      "titulo_rojo": "experimento",
+      "items": [
+        {
+          "ico": "🧁",
+          "titulo": "Día 1: magdalena industrial",
+          "texto": "La de toda la vida, de paquete."
+        },
+        {
+          "ico": "🍌",
+          "titulo": "Día 2: magdalena casera",
+          "texto": "Con plátano, avena y huevo, sin azúcares añadidos."
+        },
+        {
+          "ico": "📈",
+          "titulo": "Qué medimos",
+          "texto": "La glucosa durante las 2 horas siguientes."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "23 mg/dl",
+      "titulo_rojo": "de diferencia",
+      "src": "curvas.png",
+      "ancho": 940,
+      "nota": "Curvas reales de un Viber, en dos días distintos. La respuesta puede variar entre personas."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "¿Por qué",
+      "titulo_rojo": "pasa esto?",
+      "items": [
+        {
+          "ico": "⚡",
+          "titulo": "Harina refinada y azúcar",
+          "texto": "Se absorben rápido y la glucosa sube de golpe."
+        },
+        {
+          "ico": "🌾",
+          "titulo": "Fibra y proteína",
+          "texto": "La avena y el huevo hacen la digestión más lenta y la glucosa entra poco a poco."
+        }
+      ]
+    },
+    {
+      "tipo": "portada",
+      "chip": "#Glucotip",
+      "titulo": "¿Desayuno dulce?",
+      "titulo_rojo": "Mejor casero.",
+      "subtitulo": "Busca versiones con fibra y proteína: tu curva lo nota."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Deja de adivinar.",
+      "titulo_rojo": "Mídelo.",
+      "cta": "Descubre tu respuesta",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🧁 Hoy, en «Cómo afecta»: magdalena industrial vs magdalena casera.\n\nUn Viber las probó en dos días distintos:\n➡️ Magdalena industrial de toda la vida.\n➡️ Magdalena casera con plátano, avena y huevo, sin azúcares añadidos.\n\n📈 Resultado: con la industrial, pico de 152 mg/dl. Con la casera, 129 mg/dl.\n\n¿Por qué? Harina refinada y azúcares simples entran rápido. La fibra y la proteína de la versión casera frenan la digestión.\n\n💡 #Glucotip: si te gusta el desayuno dulce, prueba versiones caseras con fibra y proteína.\n\nTu respuesta es tuya. ¿Industrial o casera? 👇",
+    "hashtags": "#comoafecta #glucosa #saludmetabolica #desayunosaludable #magdalenacasera #impactoglucemico #nutriciondeprecision #glucovibes"
+  },
+  "linkedin": {
+    "texto": "Misma magdalena, 23 mg/dl de diferencia.\n\nUn usuario de Glucovibes comparó en dos días distintos una magdalena industrial y otra casera hecha con plátano, avena y huevo, sin azúcares añadidos. Con la industrial, su glucosa llegó a 152 mg/dl. Con la casera, a 129 mg/dl.\n\nLa clave está en los ingredientes: la harina refinada y los azúcares simples se absorben rápido; la fibra y la proteína ralentizan la digestión y suavizan la curva.\n\nNo se trata de prohibir el desayuno dulce, sino de elegir mejor con datos. Y la respuesta de cada persona es distinta: por eso medimos.\n\n¿Lo habías visto en tus datos?",
+    "hashtags": "#SaludMetabólica #Glucosa #NutriciónDePrecisión #HealthTech"
+  },
+  "nota_revision": "Cifras 152 y 129 mg/dl confirmadas en los subtítulos del reel. Curvas tomadas de la portada del reel (Buffer); se han tapado restos de la decoración del vídeo."
+}

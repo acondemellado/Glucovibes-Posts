@@ -1,0 +1,94 @@
+{
+  "id": "28_dormir-mal-vs-bien",
+  "tema": "Cómo afecta: mismo desayuno tras dormir mal vs dormir bien",
+  "pilar": 1,
+  "fuente": [
+    "ig:6ad880a1785291f70efeda9c"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-12-22 (martes) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Cómo afecta",
+      "titulo": "Mismo desayuno.",
+      "titulo_rojo": "Distinta noche.",
+      "subtitulo": "Cómo dormiste cambia tu glucosa de la mañana."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "El",
+      "titulo_rojo": "experimento",
+      "items": [
+        {
+          "ico": "😵",
+          "titulo": "Día 1: mala noche",
+          "texto": "Sueño interrumpido, con bajadas de glucosa nocturnas."
+        },
+        {
+          "ico": "😴",
+          "titulo": "Día 2: noche continua",
+          "texto": "Sueño profundo y sin interrupciones."
+        },
+        {
+          "ico": "🥑",
+          "titulo": "Lo que no cambia",
+          "texto": "El mismo desayuno, controlando el resto de factores."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "El sueño",
+      "titulo_rojo": "también cuenta",
+      "src": "curvas.png",
+      "ancho": 940,
+      "nota": "Curvas reales de una Viber; picos leídos en la gráfica. La respuesta puede variar entre personas."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "¿Por qué",
+      "titulo_rojo": "pasa esto?",
+      "items": [
+        {
+          "ico": "📉",
+          "titulo": "Menos sensibilidad a la insulina",
+          "texto": "Una mala noche puede reducirla y elevar el cortisol."
+        },
+        {
+          "ico": "🔋",
+          "titulo": "Hipoglucemias nocturnas",
+          "texto": "Reflejan poca energía disponible y alteran el descanso."
+        },
+        {
+          "ico": "✅",
+          "titulo": "Lo que funcionó",
+          "texto": "Ajustar la alimentación del día evitó las bajadas nocturnas y mejoró el sueño."
+        }
+      ]
+    },
+    {
+      "tipo": "portada",
+      "chip": "#Glucotip",
+      "titulo": "Dormir bien",
+      "titulo_rojo": "también es nutrición.",
+      "subtitulo": "Tu cuerpo procesa mejor los alimentos después de una buena noche."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Deja de adivinar.",
+      "titulo_rojo": "Mídelo.",
+      "cta": "Descubre tu respuesta",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "😴 Hoy, en «Cómo afecta»: el mismo desayuno, después de una mala noche y después de una buena.\n\n📈 Tras dormir mal, el pico de glucosa de una Viber fue mucho más alto (rozó los 160 mg/dl en su gráfica). Tras una noche continua y profunda, se quedó en unos 135.\n\n¿Por qué? Una mala noche puede reducir la sensibilidad a la insulina y elevar el cortisol. Y las hipoglucemias nocturnas alteran el descanso.\n\n💡 Al ajustar su alimentación durante el día, evitó esas bajadas nocturnas, durmió mejor y su respuesta al desayuno mejoró.\n\n#Glucotip: dormir bien también es cuidar tu glucosa.\n\n¿Cómo dormiste anoche? 👇",
+    "hashtags": "#comoafecta #glucosa #descanso #sueño #saludmetabolica #impactoglucemico #nutriciondeprecision #glucovibes"
+  },
+  "linkedin": {
+    "texto": "El mismo desayuno no siempre da la misma glucosa. Depende también de cómo has dormido.\n\nUna usuaria de Glucovibes comparó su respuesta a un mismo desayuno tras una mala noche (con hipoglucemias nocturnas) y tras una noche continua. Tras dormir mal, su pico rozó los 160 mg/dl; tras dormir bien, se quedó en torno a 135.\n\nLa falta de sueño puede reducir la sensibilidad a la insulina y elevar el cortisol. Al ajustar su alimentación durante el día para cubrir mejor sus necesidades, evitó las bajadas nocturnas, mejoró el descanso y, con él, su respuesta a la comida.\n\nEl descanso es una variable metabólica más. ¿La tienes en cuenta?",
+    "hashtags": "#SaludMetabólica #Glucosa #Descanso #HealthTech"
+  },
+  "nota_revision": "El reel no da cifras: ≈160 y ≈135 mg/dl son lectura de la gráfica del vídeo. Se han tapado restos de la decoración del reel en la curva de la mala noche."
+}

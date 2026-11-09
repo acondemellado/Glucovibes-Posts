@@ -1,0 +1,89 @@
+{
+  "id": "26_manzana-con-nueces",
+  "tema": "Cómo afecta: manzana sola vs manzana + 25 g de nueces",
+  "pilar": 1,
+  "fuente": [
+    "ig:6ad880a1785291f70efedaa8"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-12-15 (martes) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Cómo afecta",
+      "titulo": "Misma manzana.",
+      "titulo_rojo": "Con o sin nueces.",
+      "subtitulo": "Un puñado de nueces cambia la curva."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "El",
+      "titulo_rojo": "experimento",
+      "items": [
+        {
+          "ico": "🍎",
+          "titulo": "Opción 1",
+          "texto": "Una manzana (170 g), sola."
+        },
+        {
+          "ico": "🌰",
+          "titulo": "Opción 2",
+          "texto": "La misma manzana + 25 g de nueces."
+        },
+        {
+          "ico": "📈",
+          "titulo": "Qué medimos",
+          "texto": "La glucosa durante las 2 horas siguientes."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "La mitad",
+      "titulo_rojo": "de subida",
+      "src": "curvas.png",
+      "ancho": 940,
+      "nota": "Curvas reales de un Viber. La respuesta puede variar entre personas."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "¿Por qué",
+      "titulo_rojo": "pasa esto?",
+      "items": [
+        {
+          "ico": "🥑",
+          "titulo": "La grasa frena",
+          "texto": "Acompañar los hidratos con grasa saludable hace que la glucosa pase más despacio a la sangre."
+        },
+        {
+          "ico": "🌰",
+          "titulo": "Y suman",
+          "texto": "Las nueces aportan antioxidantes y omega-3."
+        }
+      ]
+    },
+    {
+      "tipo": "portada",
+      "chip": "#Glucotip",
+      "titulo": "¿Fruta de merienda?",
+      "titulo_rojo": "Acompáñala.",
+      "subtitulo": "Un puñado de frutos secos y tu curva será más suave."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Deja de adivinar.",
+      "titulo_rojo": "Mídelo.",
+      "cta": "Descubre tu respuesta",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🍎 Hoy, en «Cómo afecta»: manzana sola vs manzana con nueces.\n\nUn Viber tomó una manzana de 170 g en dos ocasiones: una vez sola y otra con 25 g de nueces.\n\n📈 Resultado: la manzana sola subió su glucosa +30 mg/dl. Con las nueces, +15 mg/dl. La mitad.\n\n¿Por qué? Las grasas saludables de las nueces hacen que la glucosa de la fruta pase más despacio a la sangre. Y de paso suman antioxidantes y omega-3.\n\n💡 #Glucotip: si meriendas fruta, acompáñala de un puñado de frutos secos.\n\nTu respuesta es tuya. ¿Lo habías probado? 👇",
+    "hashtags": "#comoafecta #glucosa #saludmetabolica #fruta #frutossecos #impactoglucemico #nutriciondeprecision #glucovibes"
+  },
+  "linkedin": {
+    "texto": "Un puñado de nueces redujo a la mitad la subida de glucosa de una manzana.\n\nUn usuario de Glucovibes tomó la misma manzana (170 g) en dos ocasiones: sola y con 25 g de nueces. Sola, su glucosa subió +30 mg/dl. Con las nueces, +15 mg/dl.\n\nLas grasas saludables ralentizan el paso de la glucosa a la sangre y modulan el pico. No hace falta renunciar a la fruta: basta con acompañarla bien.\n\nY cada persona responde a su manera, por eso merece la pena medirlo.\n\n¿Cómo tomas tú la fruta?",
+    "hashtags": "#SaludMetabólica #Glucosa #NutriciónDePrecisión #HealthTech"
+  },
+  "nota_revision": "El texto del reel no da cifras; +30 y +15 mg/dl vienen rotulados en las propias gráficas del vídeo."
+}
