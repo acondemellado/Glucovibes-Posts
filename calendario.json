@@ -278,7 +278,8 @@
         "ig:6ad880a1785291f70efedabc"
       ],
       "carpeta": "23_magdalena-industrial-vs-casera",
-      "estado": "revisar"
+      "estado": "revisar",
+      "aviso_thread": "1a1bf38c6a0b7ee5"
     },
     {
       "fecha": "2026-12-10",
@@ -291,7 +292,8 @@
       ],
       "carpeta": "24_energia-combustible",
       "estado": "revisar",
-      "nota": "Sustituye a «Las grasas: no tan malas como crees»: sus fuentes (c68d4980fd, cbadada367, 0a7b870d27) son plantillas vacías."
+      "nota": "Sustituye a «Las grasas: no tan malas como crees»: sus fuentes (c68d4980fd, cbadada367, 0a7b870d27) son plantillas vacías.",
+      "aviso_thread": "1a1bf38c6a0b7ee5"
     },
     {
       "fecha": "2026-12-12",
@@ -303,7 +305,8 @@
         "ig:6ad880a1785291f70efedaae"
       ],
       "carpeta": "25_bowl-yogur-toppings",
-      "estado": "revisar"
+      "estado": "revisar",
+      "aviso_thread": "1a1bf38c6a0b7ee5"
     },
     {
       "fecha": "2026-12-15",
@@ -315,7 +318,8 @@
         "ig:6ad880a1785291f70efedaa8"
       ],
       "carpeta": "26_manzana-con-nueces",
-      "estado": "revisar"
+      "estado": "revisar",
+      "aviso_thread": "1a1bf38c6a0b7ee5"
     },
     {
       "fecha": "2026-12-17",
@@ -328,7 +332,8 @@
       ],
       "carpeta": "27_fibra-25-gramos",
       "estado": "revisar",
-      "nota": "La newsletter fd64c991d9 (fibra) es una plantilla vacía; fuente real: carrusel de Instagram."
+      "nota": "La newsletter fd64c991d9 (fibra) es una plantilla vacía; fuente real: carrusel de Instagram.",
+      "aviso_thread": "1a1bf38c6a0b7ee5"
     },
     {
       "fecha": "2026-12-19",
@@ -357,7 +362,8 @@
         "ig:6ad880a1785291f70efeda9c"
       ],
       "carpeta": "28_dormir-mal-vs-bien",
-      "estado": "revisar"
+      "estado": "revisar",
+      "aviso_thread": "1a1bf38c6a0b7ee5"
     },
     {
       "fecha": "2026-12-24",
