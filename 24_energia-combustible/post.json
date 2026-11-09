@@ -5,7 +5,7 @@
   "fuente": [
     "4a36b52e3c"
   ],
-  "estado": "borrador",
+  "estado": "revisar",
   "fecha_sugerida": "2026-12-10 (jueves) 19:30",
   "slides": [
     {
@@ -99,5 +99,9 @@
     "texto": "Tu cuerpo es una central energética, y cada macronutriente la alimenta a su ritmo.\n\nLos carbohidratos (4 kcal/g) son la vía más rápida: se convierten en glucosa. Las grasas (9 kcal/g) aportan más energía, pero se metabolizan más despacio. Las proteínas (4 kcal/g) sobre todo construyen y reparan.\n\n¿Y a dónde va esa energía? Cerca del 75 % se destina a funciones vitales, el metabolismo basal. El resto, a la actividad física y a la propia digestión, que también tiene su coste: procesar proteína exige más energía que digerir azúcar añadido.\n\nLo importante: el metabolismo no es fijo. Actividad, descanso y calidad de los alimentos cambian cómo usamos la energía.\n\n¿Qué palanca te cuesta más mover?",
     "hashtags": "#SaludMetabólica #Metabolismo #NutriciónDePrecisión #HealthTech"
   },
-  "nota_revision": "Sustituye a «Las grasas: no tan malas como crees» (sus 3 newsletters son plantillas vacías). Fuente: newsletter 05 «La energía lo es todo» (4a36b52e3c)."
+  "nota_revision": "Sustituye a «Las grasas: no tan malas como crees» (sus 3 newsletters son plantillas vacías). Fuente: newsletter 05 «La energía lo es todo» (4a36b52e3c).",
+  "buffer": {
+    "instagram_post_id": "6af176192f1ff83d45220686",
+    "canal": "glucovibes (instagram)"
+  }
 }

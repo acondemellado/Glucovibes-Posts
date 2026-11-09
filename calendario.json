@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08",
+  "actualizado": "2026-11-09",
   "franjas": {
     "martes": "pilar 1-2",
     "jueves": "pilar 3-4",
@@ -277,37 +277,33 @@
       "fuentes": [
         "ig:6ad880a1785291f70efedabc"
       ],
-      "carpeta": null,
-      "estado": "pendiente",
-      "nota": "Sin generar: la fuente es un reel de Instagram (ig:) que solo se lee desde Buffer, desconectado el 2026-11-04."
+      "carpeta": "23_magdalena-industrial-vs-casera",
+      "estado": "revisar"
     },
     {
       "fecha": "2026-12-10",
       "dia": "jueves",
       "hora": "19:30",
       "pilar": 3,
-      "tema": "Las grasas: no tan malas como crees",
+      "tema": "La energía lo es todo: de dónde sale y en qué la gastas",
       "fuentes": [
-        "c68d4980fd",
-        "cbadada367",
-        "0a7b870d27"
+        "4a36b52e3c"
       ],
-      "carpeta": null,
-      "estado": "pendiente",
-      "nota": "Sin generar: las 3 newsletters de grasas son plantillas vacías de Mailchimp. Hace falta otra fuente (o un reel ig: de grasas)."
+      "carpeta": "24_energia-combustible",
+      "estado": "revisar",
+      "nota": "Sustituye a «Las grasas: no tan malas como crees»: sus fuentes (c68d4980fd, cbadada367, 0a7b870d27) son plantillas vacías."
     },
     {
       "fecha": "2026-12-12",
       "dia": "sábado",
       "hora": "19:30",
-      "pilar": 5,
-      "tema": "Bowl de yogur: muesli azucarado vs chocolate negro y frutos secos",
+      "pilar": 1,
+      "tema": "Cómo afecta: bowl de yogur con muesli azucarado vs chocolate negro y frutos secos",
       "fuentes": [
         "ig:6ad880a1785291f70efedaae"
       ],
-      "carpeta": null,
-      "estado": "pendiente",
-      "nota": "Sin generar: la fuente es un reel de Instagram (ig:) que solo se lee desde Buffer, desconectado el 2026-11-04."
+      "carpeta": "25_bowl-yogur-toppings",
+      "estado": "revisar"
     },
     {
       "fecha": "2026-12-15",
@@ -318,23 +314,21 @@
       "fuentes": [
         "ig:6ad880a1785291f70efedaa8"
       ],
-      "carpeta": null,
-      "estado": "pendiente",
-      "nota": "Sin generar: la fuente es un reel de Instagram (ig:) que solo se lee desde Buffer, desconectado el 2026-11-04."
+      "carpeta": "26_manzana-con-nueces",
+      "estado": "revisar"
     },
     {
       "fecha": "2026-12-17",
       "dia": "jueves",
       "hora": "19:30",
       "pilar": 3,
-      "tema": "La fibra, tu gran aliada (25 g al día)",
+      "tema": "La fibra, tu gran aliada: cómo llegar a 25 g al día",
       "fuentes": [
-        "fd64c991d9",
         "ig:6ad880a1785291f70efedaa4"
       ],
-      "carpeta": null,
-      "estado": "pendiente",
-      "nota": "Sin generar: la fuente es un reel de Instagram (ig:) que solo se lee desde Buffer, desconectado el 2026-11-04."
+      "carpeta": "27_fibra-25-gramos",
+      "estado": "revisar",
+      "nota": "La newsletter fd64c991d9 (fibra) es una plantilla vacía; fuente real: carrusel de Instagram."
     },
     {
       "fecha": "2026-12-19",
@@ -362,8 +356,8 @@
       "fuentes": [
         "ig:6ad880a1785291f70efeda9c"
       ],
-      "carpeta": null,
-      "estado": "pendiente"
+      "carpeta": "28_dormir-mal-vs-bien",
+      "estado": "revisar"
     },
     {
       "fecha": "2026-12-24",
@@ -437,6 +431,81 @@
       ],
       "carpeta": null,
       "estado": "pendiente"
+    },
+    {
+      "fecha": "2027-01-05",
+      "dia": "martes",
+      "hora": "19:30",
+      "pilar": 2,
+      "tema": "Pedalear en ayunas: la glucosa de una Viber bajó a 55 (y cómo evitar el bajón)",
+      "fuentes": [
+        "1b54cf9e8e"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2027-01-07",
+      "dia": "jueves",
+      "hora": "19:30",
+      "pilar": 4,
+      "tema": "Tu indicador de salud metabólica: un predictor, no una nota",
+      "fuentes": [
+        "688b75db6f"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2027-01-09",
+      "dia": "sábado",
+      "hora": "19:30",
+      "pilar": 6,
+      "tema": "Toda tu salud en una sola pantalla",
+      "fuentes": [
+        "b9a5ce268a"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2027-01-12",
+      "dia": "martes",
+      "hora": "19:30",
+      "pilar": 1,
+      "tema": "Un paseo después de comer: cuanto antes, mejor",
+      "fuentes": [
+        "61c80a12c3"
+      ],
+      "carpeta": null,
+      "estado": "pendiente",
+      "nota": "Lleva curva de un Viber en la newsletter: usar esa imagen como impacto."
+    },
+    {
+      "fecha": "2027-01-14",
+      "dia": "jueves",
+      "hora": "19:30",
+      "pilar": 3,
+      "tema": "Almidón resistente: quinoa recién hecha vs enfriada",
+      "fuentes": [
+        "310302044f"
+      ],
+      "carpeta": null,
+      "estado": "pendiente",
+      "nota": "Comparativa: necesita las curvas reales (imágenes de la newsletter o vídeo); si no aparecen, dejar en revisar."
+    },
+    {
+      "fecha": "2027-01-16",
+      "dia": "sábado",
+      "hora": "19:30",
+      "pilar": 6,
+      "tema": "Predecir tu curva de glucosa sin sensor: novedad de la app",
+      "fuentes": [
+        "91b9634673"
+      ],
+      "carpeta": null,
+      "estado": "pendiente",
+      "nota": "Solo la parte de la funcionalidad; sin la promo del Plan Dúo."
     }
   ],
   "hora_publicacion": "19:30 (Europe/Madrid); Buffer indica que el mejor horario es 19:00-20:00"

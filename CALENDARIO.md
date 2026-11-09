@@ -25,15 +25,21 @@ Instagram (y LinkedIn cuando esté conectado). 3 por semana: martes (comparativa
 | 2026-12-01 | martes | 2 | Entrenas, llegas con hambre… y el pico llega igual | revisar |
 | 2026-12-03 | jueves | 3 | ¿De dónde viene la glucosa? Empieza en las plantas | revisar |
 | 2026-12-05 | sábado | 6 | Tu salud no es una foto: es una película | revisar |
-| 2026-12-08 | martes | 1 | Cómo afecta: magdalena industrial vs casera (152 vs 129 mg/dl) | pendiente |
-| 2026-12-10 | jueves | 3 | Las grasas: no tan malas como crees | pendiente |
-| 2026-12-12 | sábado | 5 | Bowl de yogur: muesli azucarado vs chocolate negro y frutos secos | pendiente |
-| 2026-12-15 | martes | 1 | Cómo afecta: manzana sola vs manzana + 25 g de nueces | pendiente |
-| 2026-12-17 | jueves | 3 | La fibra, tu gran aliada (25 g al día) | pendiente |
+| 2026-12-08 | martes | 1 | Cómo afecta: magdalena industrial vs casera (152 vs 129 mg/dl) | revisar |
+| 2026-12-10 | jueves | 3 | La energía lo es todo: de dónde sale y en qué la gastas | revisar |
+| 2026-12-12 | sábado | 1 | Cómo afecta: bowl de yogur con muesli azucarado vs chocolate negro y frutos secos | revisar |
+| 2026-12-15 | martes | 1 | Cómo afecta: manzana sola vs manzana + 25 g de nueces | revisar |
+| 2026-12-17 | jueves | 3 | La fibra, tu gran aliada: cómo llegar a 25 g al día | revisar |
 | 2026-12-19 | sábado | 5 | Receta: Turrón Glucovibes de almendra y pistacho | programado |
-| 2026-12-22 | martes | 1 | Cómo afecta: mismo desayuno tras dormir mal vs dormir bien | pendiente |
+| 2026-12-22 | martes | 1 | Cómo afecta: mismo desayuno tras dormir mal vs dormir bien | revisar |
 | 2026-12-24 | jueves | 3 | Mismo dulce, distinto momento: palmera en el sofá vs tras la bici | programado |
 | 2026-12-26 | sábado | 6 | Tu salud es un coche: los pilares de un estilo de vida saludable | programado |
 | 2026-12-29 | martes | 1 | Cómo afecta: puré instantáneo vs puré casero | pendiente |
 | 2026-12-31 | jueves | 4 | Tus analíticas, mejor cada vez: mira tu evolución | programado |
 | 2027-01-02 | sábado | 5 | Smoothie: triturado solo vs con toppings (fibra, proteína, grasa) | pendiente |
+| 2027-01-05 | martes | 2 | Pedalear en ayunas: la glucosa de una Viber bajó a 55 (y cómo evitar el bajón) | pendiente |
+| 2027-01-07 | jueves | 4 | Tu indicador de salud metabólica: un predictor, no una nota | pendiente |
+| 2027-01-09 | sábado | 6 | Toda tu salud en una sola pantalla | pendiente |
+| 2027-01-12 | martes | 1 | Un paseo después de comer: cuanto antes, mejor | pendiente |
+| 2027-01-14 | jueves | 3 | Almidón resistente: quinoa recién hecha vs enfriada | pendiente |
+| 2027-01-16 | sábado | 6 | Predecir tu curva de glucosa sin sensor: novedad de la app | pendiente |

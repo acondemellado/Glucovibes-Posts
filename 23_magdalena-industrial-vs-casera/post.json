@@ -5,7 +5,7 @@
   "fuente": [
     "ig:6ad880a1785291f70efedabc"
   ],
-  "estado": "borrador",
+  "estado": "revisar",
   "fecha_sugerida": "2026-12-08 (martes) 19:30",
   "slides": [
     {
@@ -85,5 +85,9 @@
     "texto": "Misma magdalena, 23 mg/dl de diferencia.\n\nUn usuario de Glucovibes comparó en dos días distintos una magdalena industrial y otra casera hecha con plátano, avena y huevo, sin azúcares añadidos. Con la industrial, su glucosa llegó a 152 mg/dl. Con la casera, a 129 mg/dl.\n\nLa clave está en los ingredientes: la harina refinada y los azúcares simples se absorben rápido; la fibra y la proteína ralentizan la digestión y suavizan la curva.\n\nNo se trata de prohibir el desayuno dulce, sino de elegir mejor con datos. Y la respuesta de cada persona es distinta: por eso medimos.\n\n¿Lo habías visto en tus datos?",
     "hashtags": "#SaludMetabólica #Glucosa #NutriciónDePrecisión #HealthTech"
   },
-  "nota_revision": "Cifras 152 y 129 mg/dl confirmadas en los subtítulos del reel. Curvas tomadas de la portada del reel (Buffer); se han tapado restos de la decoración del vídeo."
+  "nota_revision": "Cifras 152 y 129 mg/dl confirmadas en los subtítulos del reel. Curvas tomadas de la portada del reel (Buffer); se han tapado restos de la decoración del vídeo.",
+  "buffer": {
+    "instagram_post_id": "6af175d9e29b1359f0d7ea70",
+    "canal": "glucovibes (instagram)"
+  }
 }

@@ -5,7 +5,7 @@
   "fuente": [
     "ig:6ad880a1785291f70efeda9c"
   ],
-  "estado": "borrador",
+  "estado": "revisar",
   "fecha_sugerida": "2026-12-22 (martes) 19:30",
   "slides": [
     {
@@ -90,5 +90,9 @@
     "texto": "El mismo desayuno no siempre da la misma glucosa. Depende también de cómo has dormido.\n\nUna usuaria de Glucovibes comparó su respuesta a un mismo desayuno tras una mala noche (con hipoglucemias nocturnas) y tras una noche continua. Tras dormir mal, su pico rozó los 160 mg/dl; tras dormir bien, se quedó en torno a 135.\n\nLa falta de sueño puede reducir la sensibilidad a la insulina y elevar el cortisol. Al ajustar su alimentación durante el día para cubrir mejor sus necesidades, evitó las bajadas nocturnas, mejoró el descanso y, con él, su respuesta a la comida.\n\nEl descanso es una variable metabólica más. ¿La tienes en cuenta?",
     "hashtags": "#SaludMetabólica #Glucosa #Descanso #HealthTech"
   },
-  "nota_revision": "El reel no da cifras: ≈160 y ≈135 mg/dl son lectura de la gráfica del vídeo. Se han tapado restos de la decoración del reel en la curva de la mala noche."
+  "nota_revision": "El reel no da cifras: ≈160 y ≈135 mg/dl son lectura de la gráfica del vídeo. Se han tapado restos de la decoración del reel en la curva de la mala noche.",
+  "buffer": {
+    "instagram_post_id": "6af1761e7522f65ac0c80331",
+    "canal": "glucovibes (instagram)"
+  }
 }
