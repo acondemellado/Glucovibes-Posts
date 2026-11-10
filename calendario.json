@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09",
+  "actualizado": "2026-11-10",
   "franjas": {
     "martes": "pilar 1-2",
     "jueves": "pilar 3-4",
@@ -278,8 +278,11 @@
         "ig:6ad880a1785291f70efedabc"
       ],
       "carpeta": "23_magdalena-industrial-vs-casera",
-      "estado": "revisar",
-      "aviso_thread": "1a1bf38c6a0b7ee5"
+      "estado": "programado",
+      "aviso_thread": "1a1bf38c6a0b7ee5",
+      "respuestas_procesadas": [
+        "1a1bf5c571fff432"
+      ]
     },
     {
       "fecha": "2026-12-10",
@@ -291,9 +294,12 @@
         "4a36b52e3c"
       ],
       "carpeta": "24_energia-combustible",
-      "estado": "revisar",
+      "estado": "programado",
       "nota": "Sustituye a «Las grasas: no tan malas como crees»: sus fuentes (c68d4980fd, cbadada367, 0a7b870d27) son plantillas vacías.",
-      "aviso_thread": "1a1bf38c6a0b7ee5"
+      "aviso_thread": "1a1bf38c6a0b7ee5",
+      "respuestas_procesadas": [
+        "1a1bf5c571fff432"
+      ]
     },
     {
       "fecha": "2026-12-12",
@@ -305,8 +311,11 @@
         "ig:6ad880a1785291f70efedaae"
       ],
       "carpeta": "25_bowl-yogur-toppings",
-      "estado": "revisar",
-      "aviso_thread": "1a1bf38c6a0b7ee5"
+      "estado": "programado",
+      "aviso_thread": "1a1bf38c6a0b7ee5",
+      "respuestas_procesadas": [
+        "1a1bf5c571fff432"
+      ]
     },
     {
       "fecha": "2026-12-15",
@@ -318,8 +327,11 @@
         "ig:6ad880a1785291f70efedaa8"
       ],
       "carpeta": "26_manzana-con-nueces",
-      "estado": "revisar",
-      "aviso_thread": "1a1bf38c6a0b7ee5"
+      "estado": "programado",
+      "aviso_thread": "1a1bf38c6a0b7ee5",
+      "respuestas_procesadas": [
+        "1a1bf5c571fff432"
+      ]
     },
     {
       "fecha": "2026-12-17",
@@ -331,9 +343,13 @@
         "ig:6ad880a1785291f70efedaa4"
       ],
       "carpeta": "27_fibra-25-gramos",
-      "estado": "revisar",
+      "estado": "aprobado",
       "nota": "La newsletter fd64c991d9 (fibra) es una plantilla vacía; fuente real: carrusel de Instagram.",
-      "aviso_thread": "1a1bf38c6a0b7ee5"
+      "aviso_thread": "1a1bf38c6a0b7ee5",
+      "respuestas_procesadas": [
+        "1a1bf5c571fff432"
+      ],
+      "nota_buffer": "Aprobada el 2026-11-09; sin programar por el límite de 10 programadas del plan gratuito de Buffer."
     },
     {
       "fecha": "2026-12-19",
@@ -346,11 +362,12 @@
         "blog:recetas-dulces-navidenas"
       ],
       "carpeta": "19_turron-navidad",
-      "estado": "programado",
+      "estado": "aprobado",
       "aviso_thread": "1a1a5bdcca1e5951",
       "respuestas_procesadas": [
         "1a1a5c4de56a2270"
-      ]
+      ],
+      "nota_buffer": "Figuraba como programado pero el 2026-11-10 seguía como borrador en Buffer (con fecha guardada); pasa a aprobado hasta que haya hueco."
     },
     {
       "fecha": "2026-12-22",
@@ -362,8 +379,12 @@
         "ig:6ad880a1785291f70efeda9c"
       ],
       "carpeta": "28_dormir-mal-vs-bien",
-      "estado": "revisar",
-      "aviso_thread": "1a1bf38c6a0b7ee5"
+      "estado": "aprobado",
+      "aviso_thread": "1a1bf38c6a0b7ee5",
+      "respuestas_procesadas": [
+        "1a1bf5c571fff432"
+      ],
+      "nota_buffer": "Aprobada el 2026-11-09; sin programar por el límite de 10 programadas del plan gratuito de Buffer."
     },
     {
       "fecha": "2026-12-24",
@@ -376,11 +397,12 @@
         "bbd61678c8"
       ],
       "carpeta": "20_dulce-tras-moverte",
-      "estado": "programado",
+      "estado": "aprobado",
       "aviso_thread": "1a1a5bdcca1e5951",
       "respuestas_procesadas": [
         "1a1a5c4de56a2270"
-      ]
+      ],
+      "nota_buffer": "Figuraba como programado pero el 2026-11-10 seguía como borrador en Buffer (con fecha guardada); pasa a aprobado hasta que haya hueco."
     },
     {
       "fecha": "2026-12-26",
@@ -392,11 +414,12 @@
         "9a1d4e1258"
       ],
       "carpeta": "21_pilares-estilo-vida",
-      "estado": "programado",
+      "estado": "aprobado",
       "aviso_thread": "1a1a5bdcca1e5951",
       "respuestas_procesadas": [
         "1a1a5c4de56a2270"
-      ]
+      ],
+      "nota_buffer": "Figuraba como programado pero el 2026-11-10 seguía como borrador en Buffer (con fecha guardada); pasa a aprobado hasta que haya hueco."
     },
     {
       "fecha": "2026-12-29",
@@ -420,11 +443,12 @@
         "70cc8e2075"
       ],
       "carpeta": "22_evolucion-analiticas",
-      "estado": "programado",
+      "estado": "aprobado",
       "aviso_thread": "1a1a5bdcca1e5951",
       "respuestas_procesadas": [
         "1a1a5c4de56a2270"
-      ]
+      ],
+      "nota_buffer": "Figuraba como programado pero el 2026-11-10 seguía como borrador en Buffer (con fecha guardada); pasa a aprobado hasta que haya hueco."
     },
     {
       "fecha": "2027-01-02",
