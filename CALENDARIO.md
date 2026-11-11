@@ -13,7 +13,7 @@ Instagram (y LinkedIn cuando esté conectado). 3 por semana: martes (comparativa
 | 2026-11-03 | martes | 5 | Dos donuts, dos respuestas: industrial vs Glucovibes | publicado |
 | 2026-11-05 | jueves | 2 | ¿Saltarte el desayuno baja tu glucosa? Depende | publicado |
 | 2026-11-07 | sábado | 6 | Así nació Glucovibes: hacemos visible lo invisible | publicado |
-| 2026-11-10 | martes | 1 | Zumo de naranja vs. naranja entera | programado |
+| 2026-11-10 | martes | 1 | Zumo de naranja vs. naranja entera | publicado |
 | 2026-11-12 | jueves | 4 | ¿Tu cuerpo envejece más rápido o más lento que tú? Edad biológica | revisar |
 | 2026-11-14 | sábado | 5 | Receta: bocados de pollo con ensalada de pasta de lenteja y salsa de yogur | revisar |
 | 2026-11-17 | martes | 1 | Mismo buffet, dos glucosas: el orden importa | revisar |
