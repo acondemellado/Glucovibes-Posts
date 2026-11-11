@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-10",
+  "actualizado": "2026-11-11",
   "franjas": {
     "martes": "pilar 1-2",
     "jueves": "pilar 3-4",
@@ -347,13 +347,12 @@
         "ig:6ad880a1785291f70efedaa4"
       ],
       "carpeta": "27_fibra-25-gramos",
-      "estado": "aprobado",
+      "estado": "programado",
       "nota": "La newsletter fd64c991d9 (fibra) es una plantilla vacía; fuente real: carrusel de Instagram.",
       "aviso_thread": "1a1bf38c6a0b7ee5",
       "respuestas_procesadas": [
         "1a1bf5c571fff432"
-      ],
-      "nota_buffer": "Aprobada; sin programar por el límite de 10 programadas del plan gratuito de Buffer (10/10 el 2026-11-10)."
+      ]
     },
     {
       "fecha": "2026-12-19",

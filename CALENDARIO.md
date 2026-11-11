@@ -29,7 +29,7 @@ Instagram (y LinkedIn cuando esté conectado). 3 por semana: martes (comparativa
 | 2026-12-10 | jueves | 3 | La energía lo es todo: de dónde sale y en qué la gastas | programado |
 | 2026-12-12 | sábado | 1 | Cómo afecta: bowl de yogur con muesli azucarado vs chocolate negro y frutos secos | programado |
 | 2026-12-15 | martes | 1 | Cómo afecta: manzana sola vs manzana + 25 g de nueces | programado |
-| 2026-12-17 | jueves | 3 | La fibra, tu gran aliada: cómo llegar a 25 g al día | aprobado |
+| 2026-12-17 | jueves | 3 | La fibra, tu gran aliada: cómo llegar a 25 g al día | programado |
 | 2026-12-19 | sábado | 5 | Receta: Turrón Glucovibes de almendra y pistacho | aprobado |
 | 2026-12-22 | martes | 1 | Cómo afecta: mismo desayuno tras dormir mal vs dormir bien | aprobado |
 | 2026-12-24 | jueves | 3 | Mismo dulce, distinto momento: palmera en el sofá vs tras la bici | aprobado |
