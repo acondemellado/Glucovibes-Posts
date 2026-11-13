@@ -1,0 +1,100 @@
+{
+  "id": "29_microbiota",
+  "tema": "Microbiota: síntomas que damos por normales y cómo se come para cuidarla",
+  "pilar": 3,
+  "fuente": [
+    "643b8c8bc1"
+  ],
+  "estado": "borrador",
+  "fecha_sugerida": "2026-11-26 (jueves) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Aprende tu metabolismo",
+      "titulo": "¿Hinchazón, acidez,",
+      "titulo_rojo": "mal descanso?",
+      "subtitulo": "A veces la respuesta no está en lo que comes, sino en quién lo digiere contigo.",
+      "desliza": "Desliza →"
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Señales que damos",
+      "titulo_rojo": "por normales",
+      "items": [
+        {
+          "ico": "🎈",
+          "titulo": "Hinchazón después de comer",
+          "texto": "Terminas el plato y la ropa aprieta."
+        },
+        {
+          "ico": "💧",
+          "titulo": "Retención de líquidos",
+          "texto": "Te notas pesada o pesado sin motivo claro."
+        },
+        {
+          "ico": "🔥",
+          "titulo": "Reflujo o acidez",
+          "texto": "Tan frecuente que ya tienes tu remedio a mano."
+        },
+        {
+          "ico": "😴",
+          "titulo": "Duermes y no descansas",
+          "texto": "Ocho horas y te levantas como si nada."
+        },
+        {
+          "ico": "🚻",
+          "titulo": "Diarreas o estreñimiento",
+          "texto": "Tu tránsito va a su aire desde hace meses."
+        }
+      ],
+      "nota": "Convivir con ello no lo convierte en normal. Muchas veces detrás hay un desequilibrio de la microbiota."
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "Lo que suma",
+      "titulo_rojo": "cada día",
+      "src": "priorizar.png",
+      "ancho": 1000,
+      "nota": "Fibra variada, grasas buenas y fermentados: lo que alimenta a las bacterias que te interesan."
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "Lo que depende",
+      "titulo_rojo": "de tu tolerancia",
+      "src": "moderar.png",
+      "ancho": 1000,
+      "nota": "Aquí no hay norma general: lo que a una persona le sienta bien, a otra la hincha."
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "Lo que conviene",
+      "titulo_rojo": "dejar a un lado",
+      "src": "evitar.png",
+      "ancho": 1000,
+      "nota": "Alcohol, ultraprocesados y edulcorantes tipo sorbitol o maltitol son los que más la castigan."
+    },
+    {
+      "tipo": "portada",
+      "chip": "#Glucotip",
+      "titulo": "No elimines grupos",
+      "titulo_rojo": "enteros para siempre",
+      "subtitulo": "Una dieta baja en FODMAP se usa un tiempo y con síntomas. Después se reintroduce."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Deja de adivinar.",
+      "titulo_rojo": "Mídelo.",
+      "cta": "Tu plan, con tus datos",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🦠 Hinchazón, retención de líquidos, reflujo, dormir y no descansar, diarreas o estreñimiento.\n\nConvives tanto tiempo con ello que acabas dándolo por normal. Y muchas veces detrás hay un desequilibrio de la microbiota.\n\nLa buena noticia: eso se puede medir, en lugar de ir probando dietas a ciegas.\n\n✅ A diario: fibra variada, grasas buenas, fermentados.\n⚖️ Según tu tolerancia: lácteos con lactosa, legumbres, trigo, algunas frutas.\n❌ Lo que más castiga: alcohol, ultraprocesados y edulcorantes tipo sorbitol o maltitol.\n\n💡 #Glucotip: no elimines grupos enteros para siempre. Lo que se quita, se quita un tiempo y después se reintroduce.\n\nEn Glucovibes construimos tu propuesta de nutrición con tus propios datos. Y tenemos un pack completo que incluye análisis de microbiota y el plan que sale de él, volcado a tu app.\n\n¿Cuál de esas señales te suena? 👇",
+    "hashtags": "#microbiota #saludintestinal #saludmetabolica #hinchazon #digestiones #nutriciondeprecision #glucovibes #habitossaludables"
+  },
+  "linkedin": {
+    "texto": "Hinchazón, retención de líquidos, reflujo, mal descanso, diarreas o estreñimiento.\n\nSon molestias tan comunes que la mayoría de la gente las asume como parte de su día. En muchos casos hay detrás un desequilibrio de la microbiota, y eso se puede medir en lugar de ir probando dietas por descarte.\n\nLo que se repite en las guías: priorizar a diario fibra variada, grasas de calidad y fermentados; moderar según tolerancia individual los lácteos con lactosa, las legumbres, el trigo y algunas frutas; y reducir al máximo alcohol, ultraprocesados y polialcoholes como el sorbitol o el maltitol.\n\nCon un matiz importante: eliminar grupos enteros de alimentos de forma permanente no es la solución. Las pautas bajas en FODMAP son temporales y van seguidas de reintroducción.\n\nEn Glucovibes trabajamos la nutrición con los datos de cada persona, y hemos sumado un pack que incluye análisis de microbiota y el plan que se deriva de él.\n\n¿Qué peso le das al intestino cuando hablas de salud metabólica?",
+    "hashtags": "#SaludMetabólica #Microbiota #NutriciónDePrecisión #HealthTech"
+  },
+  "nota_revision": "Pieza de reserva creada el 13-11-2026 a partir de la NL17 (microbiota, sale el 29-nov). Las tres diapositivas de imagen son recortes de la infografía de Alberto. NO se menciona a GUTS Biotech por indicación suya: solo \"pack completo con análisis de microbiota\" de Glucovibes. Sin fecha fija en el calendario: puede adelantarse a la semana del 29-nov o primeros de diciembre para acompañar a la newsletter."
+}

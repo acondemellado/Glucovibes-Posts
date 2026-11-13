@@ -20,7 +20,7 @@ Instagram (y LinkedIn cuando esté conectado). 3 por semana: martes (comparativa
 | 2026-11-19 | jueves | 4 | ¿Con cuánta energía te has levantado hoy? Readiness | revisar |
 | 2026-11-21 | sábado | 1 | Cómo afecta: misma cena a las 20:30 vs a las 23:00 | programado |
 | 2026-11-24 | martes | 1 | Cómo afecta: salsa de tomate casera vs industrial (130 vs 154 mg/dl) | revisar |
-| 2026-11-26 | jueves | 3 | Los carbohidratos: ni buenos ni malos, depende de cuáles y cuándo | revisar |
+| 2026-11-26 | jueves | 3 | Microbiota: síntomas que damos por normales y cómo se come para cuidarla | borrador |
 | 2026-11-28 | sábado | 5 | El mismo plato no vale para un día de sofá que para uno de bici | revisar |
 | 2026-12-01 | martes | 2 | Entrenas, llegas con hambre… y el pico llega igual | revisar |
 | 2026-12-03 | jueves | 3 | ¿De dónde viene la glucosa? Empieza en las plantas | revisar |
@@ -43,3 +43,4 @@ Instagram (y LinkedIn cuando esté conectado). 3 por semana: martes (comparativa
 | 2027-01-12 | martes | 1 | Un paseo después de comer: cuanto antes, mejor | pendiente |
 | 2027-01-14 | jueves | 3 | Almidón resistente: quinoa recién hecha vs enfriada | pendiente |
 | 2027-01-16 | sábado | 6 | Predecir tu curva de glucosa sin sensor: novedad de la app | pendiente |
+| 2027-01-21 | jueves | 3 | Los carbohidratos: ni buenos ni malos, depende de cuáles y cuándo | pendiente |

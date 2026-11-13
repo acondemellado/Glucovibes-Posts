@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11",
+  "actualizado": "2026-11-13",
   "franjas": {
     "martes": "pilar 1-2",
     "jueves": "pilar 3-4",
@@ -206,13 +206,13 @@
       "dia": "jueves",
       "hora": "19:30",
       "pilar": 3,
-      "tema": "Los carbohidratos: ni buenos ni malos, depende de cuáles y cuándo",
+      "tema": "Microbiota: síntomas que damos por normales y cómo se come para cuidarla",
       "fuentes": [
-        "c964e53e42"
+        "643b8c8bc1"
       ],
-      "carpeta": "14_carbohidratos",
-      "estado": "revisar",
-      "aviso_thread": "1a19b27c34f6c171"
+      "carpeta": "29_microbiota",
+      "estado": "borrador",
+      "nota": "Adelantada para acompanar a la newsletter de microbiota del domingo 29-nov. Recortes de la infografia de Alberto; sin mencionar a GUTS Biotech."
     },
     {
       "fecha": "2026-11-28",
@@ -539,6 +539,20 @@
       "carpeta": null,
       "estado": "pendiente",
       "nota": "Solo la parte de la funcionalidad; sin la promo del Plan Dúo."
+    },
+    {
+      "fecha": "2027-01-21",
+      "dia": "jueves",
+      "hora": "19:30",
+      "pilar": 3,
+      "tema": "Los carbohidratos: ni buenos ni malos, depende de cuáles y cuándo",
+      "fuentes": [
+        "c964e53e42"
+      ],
+      "carpeta": "14_carbohidratos",
+      "estado": "revisar",
+      "aviso_thread": "1a19b27c34f6c171",
+      "nota": "Desplazada del 26-nov al 21-ene para dejar sitio a la de microbiota (misma franja de jueves, pilar 3). No tenia borrador en Buffer."
     }
   ],
   "hora_publicacion": "19:30 (Europe/Madrid); Buffer indica que el mejor horario es 19:00-20:00"
