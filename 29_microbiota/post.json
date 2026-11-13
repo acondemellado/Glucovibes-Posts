@@ -5,7 +5,7 @@
   "fuente": [
     "643b8c8bc1"
   ],
-  "estado": "borrador",
+  "estado": "revisar",
   "fecha_sugerida": "2026-11-26 (jueves) 19:30",
   "slides": [
     {
@@ -96,5 +96,10 @@
     "texto": "Hinchazón, retención de líquidos, reflujo, mal descanso, diarreas o estreñimiento.\n\nSon molestias tan comunes que la mayoría de la gente las asume como parte de su día. En muchos casos hay detrás un desequilibrio de la microbiota, y eso se puede medir en lugar de ir probando dietas por descarte.\n\nLo que se repite en las guías: priorizar a diario fibra variada, grasas de calidad y fermentados; moderar según tolerancia individual los lácteos con lactosa, las legumbres, el trigo y algunas frutas; y reducir al máximo alcohol, ultraprocesados y polialcoholes como el sorbitol o el maltitol.\n\nCon un matiz importante: eliminar grupos enteros de alimentos de forma permanente no es la solución. Las pautas bajas en FODMAP son temporales y van seguidas de reintroducción.\n\nEn Glucovibes trabajamos la nutrición con los datos de cada persona, y hemos sumado un pack que incluye análisis de microbiota y el plan que se deriva de él.\n\n¿Qué peso le das al intestino cuando hablas de salud metabólica?",
     "hashtags": "#SaludMetabólica #Microbiota #NutriciónDePrecisión #HealthTech"
   },
-  "nota_revision": "Pieza de reserva creada el 13-11-2026 a partir de la NL17 (microbiota, sale el 29-nov). Las tres diapositivas de imagen son recortes de la infografía de Alberto. NO se menciona a GUTS Biotech por indicación suya: solo \"pack completo con análisis de microbiota\" de Glucovibes. Sin fecha fija en el calendario: puede adelantarse a la semana del 29-nov o primeros de diciembre para acompañar a la newsletter."
+  "nota_revision": "Pieza de reserva creada el 13-11-2026 a partir de la NL17 (microbiota, sale el 29-nov). Las tres diapositivas de imagen son recortes de la infografía de Alberto. NO se menciona a GUTS Biotech por indicación suya: solo \"pack completo con análisis de microbiota\" de Glucovibes. Sin fecha fija en el calendario: puede adelantarse a la semana del 29-nov o primeros de diciembre para acompañar a la newsletter.",
+  "buffer": {
+    "instagram_post_id": "6af6f6da10ced6793b30adc2",
+    "canal": "glucovibes (instagram)",
+    "sha": "991a1416604033205ea8b1e2154d808f18c245a3"
+  }
 }
