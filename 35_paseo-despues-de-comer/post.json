@@ -1,0 +1,92 @@
+{
+  "id": "35_paseo-despues-de-comer",
+  "tema": "Un paseo después de comer: cuanto antes, mejor",
+  "pilar": 1,
+  "fuente": [
+    "61c80a12c3"
+  ],
+  "fecha_sugerida": "2027-01-12 (martes) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Misma comida, distinta respuesta",
+      "titulo": "¿Paseo después de comer?",
+      "titulo_rojo": "Cuanto antes, mejor.",
+      "subtitulo": "El momento cambia lo que hace por tu glucosa."
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "La mañana",
+      "titulo_rojo": "de un Viber",
+      "src": "curva.png",
+      "ancho": 820,
+      "nota": "Curva real de un Viber: desayuno con fruta y avena y paseo de 35 min. La respuesta puede variar entre personas."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Qué",
+      "titulo_rojo": "ocurre",
+      "items": [
+        {
+          "ico": "⬆️",
+          "titulo": "Sube tras desayunar",
+          "texto": "Unos 103 mg/dl justo al empezar el paseo."
+        },
+        {
+          "ico": "⬇️",
+          "titulo": "Y cae demasiado",
+          "texto": "Insulina + músculo: unos 61 mg/dl al final. Hipoglucemia reactiva."
+        },
+        {
+          "ico": "➖",
+          "titulo": "Después, estabilidad",
+          "texto": "Entre 80 y 85 mg/dl durante horas."
+        }
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "El momento",
+      "titulo_rojo": "importa",
+      "columnas": [
+        "Si sales a caminar…",
+        "Lo más probable"
+      ],
+      "filas": [
+        [
+          "Al terminar o en 10 min",
+          "El pico se atenúa mucho*"
+        ],
+        [
+          "Pasados 10-30 min",
+          "La glucosa puede caer a valores bajos"
+        ]
+      ],
+      "nota": "Aun así, 30 minutos o más de paseo suelen dejar la glucosa estable las horas siguientes."
+    },
+    {
+      "tipo": "portada",
+      "chip": "#Glucotip",
+      "titulo": "Cuanto más cerca",
+      "titulo_rojo": "del último bocado, mejor.",
+      "subtitulo": "Y como cada cuerpo responde a su manera, mide tu curva."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Encuentra",
+      "titulo_rojo": "tu momento.",
+      "cta": "Descubre tu respuesta",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🚶 Pasear después de comer es uno de los mejores trucos para tu glucosa. Pero casi nadie mira el momento.\n\nUn Viber desayunó fruta y avena y, unos 20 minutos después, salió a caminar 35 minutos.\n\n📈 Su glucosa llegó a unos 103 mg/dl justo al empezar.\n📉 Al final del paseo había caído a unos 61: la insulina y el músculo sumaron fuerzas. Hipoglucemia reactiva.\n➖ Después, estable entre 80 y 85 durante horas.\n\n💡 Si sales nada más terminar o en los 10 minutos siguientes, el pico se atenúa mucho.\n\n#Glucotip: cuanto más cerca del último bocado, mejor.\n\nGuárdalo para tu próxima comida 📌",
+    "hashtags": "#glucosa #paseo #saludmetabolica #hipoglucemia #nutriciondeprecision #habitossaludables #movimiento #glucovibes"
+  },
+  "linkedin": {
+    "texto": "Un paseo después de comer es uno de los hábitos más sencillos para cuidar la glucosa. El detalle que casi nadie mira es el momento.\n\nUna persona que usa Glucovibes desayunó fruta y avena y salió a caminar unos 20 minutos después, durante 35 minutos. Al empezar, su glucosa estaba en unos 103 mg/dl; al terminar, en unos 61: la insulina ya liberada y el músculo en movimiento se sumaron y provocaron una hipoglucemia reactiva. Después se mantuvo estable entre 80 y 85 mg/dl durante horas.\n\nSalir nada más terminar, o en los 10 minutos siguientes, suele atenuar mucho el pico. ¿Cuándo das tú tu paseo?",
+    "hashtags": "#SaludMetabólica #Glucosa #Hábitos #HealthTech"
+  },
+  "nota_revision": "La newsletter fuente se envía el domingo 22-nov-2026; el post sale siete semanas después. Comparativa de momentos sin dos curvas: la fuente solo tiene la curva del paseo a los 20 min (la del paseo inmediato no existe), por eso va una sola curva.",
+  "estado": "revisar"
+}

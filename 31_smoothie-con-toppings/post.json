@@ -1,0 +1,94 @@
+{
+  "id": "31_smoothie-con-toppings",
+  "tema": "Cómo afecta: smoothie solo vs con toppings (fibra, proteína, grasa)",
+  "pilar": 5,
+  "fuente": [
+    "ig:6ad880a1785291f70efedaa0"
+  ],
+  "fecha_sugerida": "2027-01-02 (sábado) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Cómo afecta",
+      "titulo": "Mismo smoothie.",
+      "titulo_rojo": "Distinta curva.",
+      "subtitulo": "Lo que le pones encima cambia tu glucosa."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "La",
+      "titulo_rojo": "comparativa",
+      "items": [
+        {
+          "ico": "🥤",
+          "titulo": "Smoothie solo",
+          "texto": "Plátano y frutos rojos, completamente triturados."
+        },
+        {
+          "ico": "🥣",
+          "titulo": "Con toppings",
+          "texto": "La misma base + fruta entera, semillas y crema de cacahuete."
+        },
+        {
+          "ico": "⚖️",
+          "titulo": "Lo que no cambia",
+          "texto": "La base, el ejercicio y el nivel de estrés."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "Los toppings",
+      "titulo_rojo": "suavizan el pico",
+      "src": "curvas.png",
+      "ancho": 940,
+      "nota": "Curvas reales de una Viber; picos leídos en la gráfica. La respuesta puede variar entre personas."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "¿Por qué",
+      "titulo_rojo": "pasa esto?",
+      "items": [
+        {
+          "ico": "🌀",
+          "titulo": "Fruta triturada",
+          "texto": "Pierde parte de su estructura y la fibra frena menos."
+        },
+        {
+          "ico": "🌰",
+          "titulo": "Fibra, proteína y grasa",
+          "texto": "Los toppings ralentizan la digestión."
+        },
+        {
+          "ico": "📉",
+          "titulo": "Resultado",
+          "texto": "Una subida más estable y moderada."
+        }
+      ]
+    },
+    {
+      "tipo": "portada",
+      "chip": "#Glucotip",
+      "titulo": "¿Smoothie?",
+      "titulo_rojo": "Con toppings.",
+      "subtitulo": "Añade fibra, proteína y grasas saludables para una curva más estable."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Deja de adivinar.",
+      "titulo_rojo": "Mídelo.",
+      "cta": "Descubre tu respuesta",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🥤 Hoy, en «Cómo afecta»: el mismo smoothie, solo o con toppings.\n\nUna Viber tomó la misma base de plátano y frutos rojos en dos formatos: completamente triturada, y con fruta entera, semillas y crema de cacahuete por encima.\n\n📈 Solo, su pico llegó a unos 134 mg/dl. Con toppings, se quedó en unos 121, con una subida más suave.\n\n¿Por qué? Al triturar la fruta pierde estructura. La fibra, la proteína y la grasa de los toppings ralentizan la digestión.\n\n#Glucotip: si haces smoothies, ponles toppings.\n\nGuárdalo para tu próximo desayuno 📌",
+    "hashtags": "#comoafecta #glucosa #smoothie #saludmetabolica #impactoglucemico #nutriciondeprecision #desayunosaludable #glucovibes"
+  },
+  "linkedin": {
+    "texto": "La presentación de un alimento también cambia su impacto en la glucosa.\n\nUna usuaria de Glucovibes tomó la misma base de smoothie (plátano y frutos rojos) en dos formatos: solo y triturado, o con toppings de fruta entera, semillas y crema de cacahuete. Mantuvo constantes la base, el ejercicio y el estrés.\n\nSolo, su pico llegó a unos 134 mg/dl; con toppings, a unos 121, con una curva más estable. Al triturar la fruta se pierde parte de su estructura; la fibra, la proteína y la grasa ralentizan la digestión.\n\nPequeños cambios, curvas distintas. ¿Qué le pones a tu smoothie?",
+    "hashtags": "#SaludMetabólica #Glucosa #NutriciónDePrecisión #HealthTech"
+  },
+  "nota_revision": "El reel no da cifras: ≈134 y ≈121 mg/dl son lectura de la gráfica. Curvas sacadas de la miniatura del reel en Buffer (la URL del vídeo da 403), sin poder comprobar los subtítulos.",
+  "estado": "revisar"
+}

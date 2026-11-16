@@ -433,7 +433,7 @@
       "fuentes": [
         "ig:6ad880a1785291f70efedab2"
       ],
-      "carpeta": null,
+      "carpeta": "30_pure-instantaneo-vs-casero",
       "estado": "pendiente"
     },
     {
@@ -462,7 +462,7 @@
       "fuentes": [
         "ig:6ad880a1785291f70efedaa0"
       ],
-      "carpeta": null,
+      "carpeta": "31_smoothie-con-toppings",
       "estado": "pendiente"
     },
     {
@@ -474,7 +474,7 @@
       "fuentes": [
         "1b54cf9e8e"
       ],
-      "carpeta": null,
+      "carpeta": "32_pedalear-en-ayunas",
       "estado": "pendiente"
     },
     {
@@ -486,7 +486,7 @@
       "fuentes": [
         "688b75db6f"
       ],
-      "carpeta": null,
+      "carpeta": "33_indicador-salud-metabolica",
       "estado": "pendiente"
     },
     {
@@ -498,7 +498,7 @@
       "fuentes": [
         "b9a5ce268a"
       ],
-      "carpeta": null,
+      "carpeta": "34_salud-en-una-pantalla",
       "estado": "pendiente"
     },
     {
@@ -510,7 +510,7 @@
       "fuentes": [
         "61c80a12c3"
       ],
-      "carpeta": null,
+      "carpeta": "35_paseo-despues-de-comer",
       "estado": "pendiente",
       "nota": "Lleva curva de un Viber en la newsletter: usar esa imagen como impacto."
     },
@@ -541,6 +541,18 @@
       "nota": "Solo la parte de la funcionalidad; sin la promo del Plan Dúo."
     },
     {
+      "fecha": "2027-01-19",
+      "dia": "martes",
+      "hora": "19:30",
+      "pilar": 2,
+      "tema": "¿Un minuto de escaleras baja tu glucosa un 42 %? No en tu cena",
+      "fuentes": [
+        "f6cfd77bf4"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
       "fecha": "2027-01-21",
       "dia": "jueves",
       "hora": "19:30",
@@ -553,6 +565,79 @@
       "estado": "revisar",
       "aviso_thread": "1a19b27c34f6c171",
       "nota": "Desplazada del 26-nov al 21-ene para dejar sitio a la de microbiota (misma franja de jueves, pilar 3). No tenia borrador en Buffer."
+    },
+    {
+      "fecha": "2027-01-23",
+      "dia": "sábado",
+      "hora": "19:30",
+      "pilar": 5,
+      "tema": "Qué comer antes de entrenar para rendir sin bajón",
+      "fuentes": [
+        "3ed0f05e83"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2027-01-26",
+      "dia": "martes",
+      "hora": "19:30",
+      "pilar": 2,
+      "tema": "¿Comer menos alarga la vida? Lo que dicen los datos sobre la restricción calórica",
+      "fuentes": [
+        "dab6c7f3a9"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2027-01-28",
+      "dia": "jueves",
+      "hora": "19:30",
+      "pilar": 3,
+      "tema": "Estrés y glucosa: qué pasa dentro cuando te tensas",
+      "fuentes": [
+        "a356e02167"
+      ],
+      "carpeta": null,
+      "estado": "pendiente",
+      "nota": "Usar el ejemplo real de la newsletter si trae curva."
+    },
+    {
+      "fecha": "2027-01-30",
+      "dia": "sábado",
+      "hora": "19:30",
+      "pilar": 6,
+      "tema": "Los 10 mandamientos de Glucovibes para cuidar tu glucosa",
+      "fuentes": [
+        "5ea3bc3357"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2027-02-02",
+      "dia": "martes",
+      "hora": "19:30",
+      "pilar": 2,
+      "tema": "100 kcal no son 100 kcal: proteína vs grasa",
+      "fuentes": [
+        "1cc175011c"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
+    },
+    {
+      "fecha": "2027-02-04",
+      "dia": "jueves",
+      "hora": "19:30",
+      "pilar": 3,
+      "tema": "Índice de saciedad: alimentos que te quitan el hambre de verdad",
+      "fuentes": [
+        "0f6cc2c1e0"
+      ],
+      "carpeta": null,
+      "estado": "pendiente"
     }
   ],
   "hora_publicacion": "19:30 (Europe/Madrid); Buffer indica que el mejor horario es 19:00-20:00"

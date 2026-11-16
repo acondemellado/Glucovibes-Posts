@@ -1,0 +1,99 @@
+{
+  "id": "33_indicador-salud-metabolica",
+  "tema": "Tu indicador de salud metabólica: un predictor, no una nota",
+  "pilar": 4,
+  "fuente": [
+    "688b75db6f"
+  ],
+  "fecha_sugerida": "2027-01-07 (jueves) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Indicadores Glucovibes",
+      "titulo": "¿Y si un día cualquiera",
+      "titulo_rojo": "predijera tu salud futura?",
+      "subtitulo": "Así funciona tu indicador de salud metabólica."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Qué",
+      "titulo_rojo": "mira",
+      "items": [
+        {
+          "ico": "📊",
+          "titulo": "Glucosa media",
+          "texto": "La de tu día."
+        },
+        {
+          "ico": "🎢",
+          "titulo": "Variabilidad",
+          "texto": "Los altibajos, de día y de noche."
+        },
+        {
+          "ico": "🟢",
+          "titulo": "Tiempo en rango bajo",
+          "texto": "Entre 70 y 120 mg/dl."
+        },
+        {
+          "ico": "⛰️",
+          "titulo": "Picos",
+          "texto": "Por encima de 140 mg/dl."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "Así se ve",
+      "titulo_rojo": "por la mañana",
+      "src": "app.png",
+      "ancho": 680,
+      "nota": "Captura real de la app Glucovibes de una Viber: resultado de su descanso nocturno."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Un predictor,",
+      "titulo_rojo": "no una nota",
+      "items": [
+        {
+          "ico": "🔮",
+          "titulo": "Si repites este día…",
+          "texto": "Estima hacia dónde va tu salud metabólica."
+        },
+        {
+          "ico": "🌙",
+          "titulo": "Por la mañana",
+          "texto": "Evalúa tu noche para decidir tu día."
+        },
+        {
+          "ico": "🌇",
+          "titulo": "Por la tarde",
+          "texto": "Completa la imagen para ajustar cena y hora de acostarte."
+        }
+      ]
+    },
+    {
+      "tipo": "portada",
+      "chip": "Lo mejor",
+      "titulo": "Pequeños gestos",
+      "titulo_rojo": "mueven el indicador.",
+      "subtitulo": "Ordenar tus platos, moverte tras comer, cuidar el descanso."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "No es un destino.",
+      "titulo_rojo": "Eres quien lo pilota.",
+      "cta": "Descubre tu salud metabólica",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🔮 Imagina que tu cuerpo te dijera: «si repites este día muchas veces, esto es lo que te espera».\n\nEso es tu indicador de salud metabólica en Glucovibes. No mira una cifra suelta, sino el conjunto:\n👉 tu glucosa media\n👉 la variabilidad, de día y de noche\n👉 el tiempo entre 70 y 120 mg/dl\n👉 los picos por encima de 140\n\n🌙 Por la mañana evalúa tu noche. Por la tarde completa la imagen para que aún puedas ajustar la cena y la hora de acostarte.\n\n💡 Pequeños gestos lo mueven: ordenar tus platos, moverte tras comer, cuidar el descanso.\n\nUn espejo del futuro… que puedes cambiar hoy.",
+    "hashtags": "#saludmetabolica #glucosa #glucovibes #longevidad #monitorizaciondeglucosa #habitossaludables #bienestar #ciencia"
+  },
+  "linkedin": {
+    "texto": "¿Y si un día cualquiera pudiera anticipar hacia dónde va tu salud metabólica?\n\nEl indicador de salud metabólica de Glucovibes no se queda en una cifra suelta. Combina la glucosa media, la variabilidad diurna y nocturna, el tiempo en rango bajo (70-120 mg/dl) y los picos por encima de 140 mg/dl, y estima qué pasaría si ese patrón se repitiera.\n\nLlega en dos tiempos: por la mañana evalúa la noche para decidir el día, y por la tarde completa la imagen para que aún haya margen de ajustar la cena y el descanso.\n\nNo es una nota de examen, es un predictor que se puede cambiar con pequeños gestos. ¿Qué indicador te gustaría tener a primera hora?",
+    "hashtags": "#SaludMetabólica #Glucosa #HealthTech #Longevidad"
+  },
+  "nota_revision": "La newsletter (sep-2026) lo anunciaba para la próxima actualización de la app: confirma que en enero ya está disponible para todo el mundo. Captura de la newsletter (puntuación 50/100, «Comprometida»).",
+  "estado": "revisar"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "34_salud-en-una-pantalla",
+  "tema": "Toda tu salud en una sola pantalla",
+  "pilar": 6,
+  "fuente": [
+    "b9a5ce268a"
+  ],
+  "fecha_sugerida": "2027-01-09 (sábado) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Detrás de Glucovibes",
+      "titulo": "Toda tu salud,",
+      "titulo_rojo": "en una sola pantalla.",
+      "subtitulo": "Porque la salud no se entiende a trozos."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Todo",
+      "titulo_rojo": "junto",
+      "items": [
+        {
+          "ico": "🩸",
+          "titulo": "Sensor de glucosa",
+          "texto": "Tu curva, minuto a minuto."
+        },
+        {
+          "ico": "⌚",
+          "titulo": "Wearables",
+          "texto": "Sueño, actividad y recuperación."
+        },
+        {
+          "ico": "🧪",
+          "titulo": "Analíticas de sangre",
+          "texto": "Tu evolución en el tiempo."
+        },
+        {
+          "ico": "🍽️",
+          "titulo": "Hábitos",
+          "texto": "Lo que haces cada día."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "El puzzle",
+      "titulo_rojo": "completo",
+      "src": "app.png",
+      "ancho": 600,
+      "nota": "Captura real de la fase de testing de la app Glucovibes."
+    },
+    {
+      "tipo": "portada",
+      "chip": "¿Por qué importa?",
+      "titulo": "Una cifra aislada",
+      "titulo_rojo": "dice poco.",
+      "subtitulo": "Tu glucosa cobra sentido cuando la cruzas con cómo dormiste, cuánto te moviste o tu última analítica."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Haz visible",
+      "titulo_rojo": "lo invisible.",
+      "cta": "Descubre Glucovibes",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "📊 ¿Cuántas apps usas para mirar tu glucosa, tu sueño, tus analíticas o tu actividad?\n\nLa salud no se entiende a trozos. Por eso en Glucovibes juntamos todo en un mismo sitio: sensor de glucosa, wearables, analíticas de sangre y hábitos, hablando entre sí.\n\n🧩 Una cifra aislada dice poco. Tu glucosa cobra sentido cuando la cruzas con cómo dormiste, cuánto te moviste o lo que marca tu última analítica.\n\nEs la diferencia entre mirar piezas sueltas y ver el puzzle completo: metabólico, readiness, inflamación y edad biológica, de un vistazo.\n\n¿Cuántas apps de salud tienes en el móvil? 👇",
+    "hashtags": "#glucovibes #saludmetabolica #glucosa #wearables #longevidad #bienestar #healthtech #habitossaludables"
+  },
+  "linkedin": {
+    "texto": "La salud no se entiende a trozos, pero solemos mirarla así: una app para la glucosa, otra para el sueño, un PDF para las analíticas.\n\nEn Glucovibes llevamos tiempo centralizando esa información: sensor de glucosa, wearables, analíticas de sangre y hábitos diarios, en un mismo sitio y conectados entre sí.\n\nUna cifra aislada dice poco. La glucosa cobra sentido cuando se cruza con el descanso, la actividad o la última analítica. De ahí salen indicadores claros: salud metabólica, readiness, inflamación y oxidación, edad biológica.\n\n¿Cuántas fuentes de datos de salud consultas tú cada semana?",
+    "hashtags": "#SaludMetabólica #HealthTech #Wearables #Longevidad"
+  },
+  "nota_revision": "Sin la promo de la newsletter («muy pronto con tu membresía»): se presenta en presente. Captura de la fase de testing (verano 2026) incluida en la newsletter.",
+  "estado": "revisar"
+}

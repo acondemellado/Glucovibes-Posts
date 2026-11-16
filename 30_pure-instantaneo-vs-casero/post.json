@@ -1,0 +1,94 @@
+{
+  "id": "30_pure-instantaneo-vs-casero",
+  "tema": "Cómo afecta: puré instantáneo vs puré casero",
+  "pilar": 1,
+  "fuente": [
+    "ig:6ad880a1785291f70efedab2"
+  ],
+  "fecha_sugerida": "2026-12-29 (martes) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Cómo afecta",
+      "titulo": "Mismo puré.",
+      "titulo_rojo": "Distinta respuesta.",
+      "subtitulo": "De copos o de patata cocida: tu glucosa lo nota."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "La",
+      "titulo_rojo": "comparativa",
+      "items": [
+        {
+          "ico": "📦",
+          "titulo": "Puré instantáneo",
+          "texto": "Hecho con copos de patata deshidratada."
+        },
+        {
+          "ico": "🥔",
+          "titulo": "Puré casero",
+          "texto": "Hecho con patata cocida."
+        },
+        {
+          "ico": "⚖️",
+          "titulo": "Lo que no cambia",
+          "texto": "La misma cantidad, en la misma Viber."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "El procesado",
+      "titulo_rojo": "se ve en la curva",
+      "src": "curvas.png",
+      "ancho": 940,
+      "nota": "Curvas reales de una Viber; picos leídos en la gráfica. La respuesta puede variar entre personas."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "¿Por qué",
+      "titulo_rojo": "pasa esto?",
+      "items": [
+        {
+          "ico": "🏭",
+          "titulo": "Copos muy procesados",
+          "texto": "Se cuecen, deshidratan y trituran: se digieren más rápido."
+        },
+        {
+          "ico": "📈",
+          "titulo": "Absorción rápida",
+          "texto": "La glucosa entra de golpe y el pico sube más."
+        },
+        {
+          "ico": "🌱",
+          "titulo": "Estructura natural",
+          "texto": "El puré casero la conserva mejor y frena la absorción."
+        }
+      ]
+    },
+    {
+      "tipo": "portada",
+      "chip": "#Glucotip",
+      "titulo": "Cuanto más natural,",
+      "titulo_rojo": "más estable.",
+      "subtitulo": "Cocinar tus comidas de la forma más natural posible ayuda a tu curva."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Deja de adivinar.",
+      "titulo_rojo": "Mídelo.",
+      "cta": "Descubre tu respuesta",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🥔 Hoy, en «Cómo afecta»: puré de patata instantáneo vs puré casero.\n\nUna Viber tomó la misma cantidad en dos ocasiones: una con puré de copos y otra con puré de patata cocida.\n\n📈 Con el instantáneo, su pico rozó los 159 mg/dl. Con el casero, se quedó en unos 134.\n\n¿Por qué? Los copos se cuecen, deshidratan y trituran: se digieren antes y la glucosa sube más rápido. El puré casero conserva mejor la estructura del alimento.\n\n#Glucotip: cuanto más natural cocinas, más estable tu curva.\n\n¿Eres de puré casero o de sobre? 👇",
+    "hashtags": "#comoafecta #glucosa #saludmetabolica #impactoglucemico #nutriciondeprecision #patata #comidareal #glucovibes"
+  },
+  "linkedin": {
+    "texto": "Mismo alimento, mismo plato, distinta respuesta. El procesado también cuenta.\n\nUna usuaria de Glucovibes tomó la misma cantidad de puré de patata en dos ocasiones: instantáneo (de copos) y casero (de patata cocida). Con el instantáneo, su pico rozó los 159 mg/dl; con el casero, se quedó en torno a 134.\n\nLos copos se cuecen, deshidratan y trituran, lo que facilita su digestión y acelera la entrada de glucosa. El puré casero conserva mejor la estructura natural del alimento y ralentiza la absorción.\n\nNo se trata de prohibir nada, sino de saber qué versión te sienta mejor. ¿Lo habías visto en tus datos?",
+    "hashtags": "#SaludMetabólica #Glucosa #NutriciónDePrecisión #HealthTech"
+  },
+  "nota_revision": "El reel no da cifras: ≈159 y ≈134 mg/dl son lectura de la gráfica. Las curvas salen de la miniatura del reel en Buffer (la URL del vídeo da 403), así que no se han podido comprobar los subtítulos; se han tapado restos de la decoración del reel.",
+  "estado": "revisar"
+}

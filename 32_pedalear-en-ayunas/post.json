@@ -1,0 +1,102 @@
+{
+  "id": "32_pedalear-en-ayunas",
+  "tema": "Pedalear en ayunas: la glucosa de una Viber bajó a 55 (y cómo evitar el bajón)",
+  "pilar": 2,
+  "fuente": [
+    "1b54cf9e8e"
+  ],
+  "fecha_sugerida": "2027-01-05 (martes) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Mitos con datos",
+      "titulo": "¿Entrenar en ayunas?",
+      "titulo_rojo": "Mira tu glucosa.",
+      "subtitulo": "Una Viber pedaleó en ayunas y bajó a 55 mg/dl."
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "2 h 38 min",
+      "titulo_rojo": "de ciclismo indoor",
+      "src": "curva.png",
+      "ancho": 820,
+      "nota": "Curva real de una Viber, en ayunas. Cada cuerpo responde a su manera."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Qué",
+      "titulo_rojo": "ocurre",
+      "items": [
+        {
+          "ico": "📉",
+          "titulo": "La glucosa cae",
+          "texto": "A los 25 minutos, unos 55 mg/dl: hipoglucemia en plena actividad."
+        },
+        {
+          "ico": "🔥",
+          "titulo": "Tira de las grasas",
+          "texto": "Pasan a ser la fuente de energía principal."
+        },
+        {
+          "ico": "🪫",
+          "titulo": "El rendimiento lo nota",
+          "texto": "Menos potencia, concentración y energía."
+        }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Al empezar",
+      "titulo_rojo": "a comer",
+      "items": [
+        {
+          "ico": "🍌",
+          "titulo": "Sube y se estabiliza",
+          "texto": "Alrededor de 80 mg/dl el resto de la sesión."
+        },
+        {
+          "ico": "🧘",
+          "titulo": "Curva tranquila",
+          "texto": "A baja intensidad, comer durante la actividad la mantiene estable."
+        }
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Poco",
+      "titulo_rojo": "y a menudo",
+      "columnas": [
+        "",
+        "Carbohidratos"
+      ],
+      "filas": [
+        [
+          "✅ Mejor",
+          "25 g cada 30 min*"
+        ],
+        [
+          "❌ Peor",
+          "50 g cada 50-60 min"
+        ]
+      ],
+      "nota": "Si tienes diabetes o tomas medicación que baja la glucosa, consulta con tu equipo sanitario antes de entrenar en ayunas."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Entrena con datos,",
+      "titulo_rojo": "no con modas.",
+      "cta": "Descubre tu respuesta",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🚴 Entrenar en ayunas «para quemar grasa» está de moda. Pero tu glucosa tiene mucho que decir.\n\nUna Viber hizo 2 h 38 min de ciclismo indoor en ayunas. A los 25 minutos su glucosa bajó a unos 55 mg/dl: hipoglucemia en plena sesión.\n\n🔥 El cuerpo tira de grasas, sí. Pero potencia, concentración y energía lo notan.\n\n🍌 En cuanto empezó a comer, la curva subió y se quedó estable, alrededor de 80 mg/dl.\n\n💡 Poco y a menudo: 25 g de carbohidratos cada 30 min mejor que 50 g cada hora.\n\nSi tienes diabetes o tomas medicación que baja la glucosa, consulta antes con tu equipo sanitario.\n\n¿Entrenas en ayunas? 👇",
+    "hashtags": "#glucosa #ciclismo #entrenamiento #ayuno #saludmetabolica #nutriciondeportiva #rendimiento #glucovibes"
+  },
+  "linkedin": {
+    "texto": "Entrenar en ayunas a baja intensidad está de moda. Los datos de glucosa cuentan una historia más matizada.\n\nUna usuaria de Glucovibes hizo una sesión de ciclismo indoor de 2 h 38 min, empezada en ayunas. A los 25 minutos su glucosa cayó a unos 55 mg/dl: una hipoglucemia en plena actividad. El cuerpo tira de las grasas, pero el rendimiento, la concentración y la energía se resienten.\n\nAl empezar a comer, la glucosa se estabilizó en torno a 80 mg/dl durante el resto de la sesión. La pauta que suele funcionar: poco y a menudo, por ejemplo 25 g de carbohidratos cada 30 minutos en lugar de 50 g cada hora.\n\nIntensidad, duración, cena o descanso cambian la curva. ¿Mides tu respuesta cuando entrenas?",
+    "hashtags": "#SaludMetabólica #Glucosa #Rendimiento #HealthTech"
+  },
+  "nota_revision": "Fuente: newsletter del 15-nov-2026; el post sale siete semanas después.",
+  "estado": "revisar"
+}
