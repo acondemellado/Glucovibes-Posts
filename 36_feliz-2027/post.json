@@ -1,0 +1,82 @@
+{
+  "id": "36_feliz-2027",
+  "tema": "Feliz 2027: pon vida a tus años",
+  "pilar": 6,
+  "fuente": [],
+  "estado": "revisar",
+  "fecha_sugerida": "2026-12-31 (jueves) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Glucovibes por dentro",
+      "titulo": "Feliz",
+      "titulo_rojo": "2027.",
+      "subtitulo": "Gracias por hacer visible lo invisible con nosotros este año."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lo que nos",
+      "titulo_rojo": "llevamos de 2026",
+      "items": [
+        {
+          "ico": "🔍",
+          "titulo": "Datos, no modas",
+          "texto": "Ver qué pasa dentro para decidir mejor."
+        },
+        {
+          "ico": "🧬",
+          "titulo": "Tu respuesta es tuya",
+          "texto": "Misma comida, distinta respuesta."
+        },
+        {
+          "ico": "🤝",
+          "titulo": "Una comunidad",
+          "texto": "Gracias a cada Viber por compartir el camino."
+        }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Para 2027,",
+      "titulo_rojo": "pequeños pasos",
+      "items": [
+        {
+          "ico": "🥗",
+          "titulo": "Comer con intención",
+          "texto": ""
+        },
+        {
+          "ico": "🏃",
+          "titulo": "Moverte cada día",
+          "texto": ""
+        },
+        {
+          "ico": "🛏️",
+          "titulo": "Descansar mejor",
+          "texto": ""
+        },
+        {
+          "ico": "📈",
+          "titulo": "Medir para saber",
+          "texto": "Y ver cómo cambia tu salud."
+        }
+      ]
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Pon vida a tus años,",
+      "titulo_rojo": "no solo años a la vida.",
+      "cta": "Feliz año nuevo",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🥂 Último día del año. Gracias por hacer visible lo invisible con nosotros.\n\nEn 2026 hemos visto juntos que tu respuesta es tuya: misma comida, distinta respuesta. Y que con datos se decide mejor que con modas.\n\nPara 2027, nada de propósitos imposibles. Pequeños pasos:\n🥗 Comer con intención\n🏃 Moverte cada día\n🛏️ Descansar mejor\n📈 Medir para saber cómo cambia tu salud\n\nPon vida a tus años, no solo años a la vida.\n\n¡Feliz año nuevo! ¿Cuál es tu primer paso para 2027? 👇",
+    "hashtags": "#felizañonuevo #2027 #propositos #saludmetabolica #glucosa #glucovibes #habitossaludables #longevidad"
+  },
+  "linkedin": {
+    "texto": "Cerramos 2026 con una idea que se repite en cada curva que vemos: tu respuesta es tuya. Misma comida, distinta respuesta.\n\nEste año hemos intentado hacer visible lo invisible: lo que pasa dentro de cada persona cuando come, se mueve o duerme. Gracias a toda la comunidad de Glucovibes por compartir el camino y por ayudarnos a convertir datos en decisiones.\n\nPara 2027 no proponemos grandes revoluciones, sino pequeños pasos sostenibles: comer con intención, moverse cada día, descansar mejor y medir para saber cómo cambia la salud.\n\nPon vida a tus años, no solo años a la vida.\n\nFeliz año nuevo. ¿Cuál es tu primer paso para 2027?",
+    "hashtags": "#SaludMetabólica #Longevidad #NutriciónDePrecisión #HealthTech #FelizAñoNuevo"
+  },
+  "nota_revision": "Pieza especial pedida por Alberto el 04/11 para el 31/12 (sustituye a la 22, que pasa al sábado 02/01). Sin cifras ni fuente de newsletter: felicitación y propósitos genéricos; firma «Pon vida a tus años, no solo años a la vida»."
+}
