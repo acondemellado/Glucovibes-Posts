@@ -369,7 +369,8 @@
       "aviso_thread": "1a1a5bdcca1e5951",
       "respuestas_procesadas": [
         "1a1a5c4de56a2270",
-        "1a1a5d0b06c5c0c8"
+        "1a1a5d0b06c5c0c8",
+        "1a1ea3f65e282543"
       ],
       "nota_buffer": "Aprobada; sin programar por el límite de 10 programadas del plan gratuito de Buffer (10/10 el 2026-11-10)."
     },
@@ -405,7 +406,8 @@
       "aviso_thread": "1a1a5bdcca1e5951",
       "respuestas_procesadas": [
         "1a1a5c4de56a2270",
-        "1a1a5d0b06c5c0c8"
+        "1a1a5d0b06c5c0c8",
+        "1a1ea3f65e282543"
       ],
       "nota_buffer": "Aprobada; sin programar por el límite de 10 programadas del plan gratuito de Buffer (10/10 el 2026-11-10)."
     },
@@ -423,7 +425,8 @@
       "aviso_thread": "1a1a5bdcca1e5951",
       "respuestas_procesadas": [
         "1a1a5c4de56a2270",
-        "1a1a5d0b06c5c0c8"
+        "1a1a5d0b06c5c0c8",
+        "1a1ea3f65e282543"
       ],
       "nota_buffer": "Aprobada; sin programar por el límite de 10 programadas del plan gratuito de Buffer (10/10 el 2026-11-10)."
     },
@@ -447,13 +450,15 @@
       "tema": "Feliz 2027: pon vida a tus años",
       "fuentes": [],
       "carpeta": "36_feliz-2027",
-      "estado": "revisar",
+      "estado": "aprobado",
       "aviso_thread": "1a1a5bdcca1e5951",
       "respuestas_procesadas": [
         "1a1a5c4de56a2270",
-        "1a1a5d0b06c5c0c8"
+        "1a1a5d0b06c5c0c8",
+        "1a1ea3f65e282543"
       ],
-      "nota": "Pieza especial de Año Nuevo pedida el 04-nov; sustituye a la 22 en el 31-dic."
+      "nota": "Pieza especial de Año Nuevo pedida el 04-nov; sustituye a la 22 en el 31-dic.",
+      "nota_buffer": "Aprobada (OK del 17-nov); sin programar por el límite de 10 programadas del plan gratuito de Buffer (11 programadas el 2026-11-18)."
     },
     {
       "fecha": "2027-01-02",
@@ -465,13 +470,15 @@
         "70cc8e2075"
       ],
       "carpeta": "22_evolucion-analiticas",
-      "estado": "revisar",
+      "estado": "aprobado",
       "aviso_thread": "1a1a5bdcca1e5951",
       "respuestas_procesadas": [
         "1a1a5c4de56a2270",
-        "1a1a5d0b06c5c0c8"
+        "1a1a5d0b06c5c0c8",
+        "1a1ea3f65e282543"
       ],
-      "nota": "Movida del 31-dic al 02-ene y texto adaptado a «empieza el año con una analítica» (respuesta del 04-nov). Vuelve a revisión."
+      "nota": "Movida del 31-dic al 02-ene y texto adaptado a «empieza el año con una analítica» (respuesta del 04-nov). Vuelve a revisión.",
+      "nota_buffer": "Aprobada (OK del 17-nov); sin programar por el límite de 10 programadas del plan gratuito de Buffer (11 programadas el 2026-11-18)."
     },
     {
       "fecha": "2027-01-05",

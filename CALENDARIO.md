@@ -35,8 +35,8 @@ Instagram (y LinkedIn cuando esté conectado). 3 por semana: martes (comparativa
 | 2026-12-24 | jueves | 3 | Mismo dulce, distinto momento: palmera en el sofá vs tras la bici | aprobado |
 | 2026-12-26 | sábado | 6 | Tu salud es un coche: los pilares de un estilo de vida saludable | aprobado |
 | 2026-12-29 | martes | 1 | Cómo afecta: puré instantáneo vs puré casero | pendiente |
-| 2026-12-31 | jueves | 6 | Feliz 2027: pon vida a tus años | revisar |
-| 2027-01-02 | sábado | 4 | Tus analíticas, mejor cada vez: mira tu evolución | revisar |
+| 2026-12-31 | jueves | 6 | Feliz 2027: pon vida a tus años | aprobado |
+| 2027-01-02 | sábado | 4 | Tus analíticas, mejor cada vez: mira tu evolución | aprobado |
 | 2027-01-05 | martes | 2 | Pedalear en ayunas: la glucosa de una Viber bajó a 55 (y cómo evitar el bajón) | pendiente |
 | 2027-01-07 | jueves | 4 | Tu indicador de salud metabólica: un predictor, no una nota | pendiente |
 | 2027-01-09 | sábado | 6 | Toda tu salud en una sola pantalla | pendiente |
