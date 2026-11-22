@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17",
+  "actualizado": "2026-11-22",
   "franjas": {
     "martes": "pilar 1-2",
     "jueves": "pilar 3-4",
@@ -120,7 +120,8 @@
       "aviso_thread": "1a177191b8dc8036",
       "respuestas_procesadas": [
         "1a1a5c69a2c13ae2"
-      ]
+      ],
+      "nota_buffer_2026-11-22": "En Buffer está PROGRAMADA a mano (sin OK por email) para Tuesday 01/12 19:30 +0100 Madrid, no en la fecha del calendario. Sigue en 'revisar' hasta que Alberto confirme la reorganización."
     },
     {
       "fecha": "2026-11-14",
@@ -136,7 +137,8 @@
       "aviso_thread": "1a177191b8dc8036",
       "respuestas_procesadas": [
         "1a1a5c69a2c13ae2"
-      ]
+      ],
+      "nota_buffer_2026-11-22": "En Buffer está PROGRAMADA a mano (sin OK por email) para Saturday 28/11 19:30 +0100 Madrid, no en la fecha del calendario. Sigue en 'revisar' hasta que Alberto confirme la reorganización."
     },
     {
       "fecha": "2026-11-17",
@@ -152,7 +154,8 @@
       "aviso_thread": "1a177191b8dc8036",
       "respuestas_procesadas": [
         "1a1a5c69a2c13ae2"
-      ]
+      ],
+      "nota_buffer_2026-11-22": "En Buffer está PROGRAMADA a mano (sin OK por email) para Tuesday 24/11 19:30 +0100 Madrid, no en la fecha del calendario. Sigue en 'revisar' hasta que Alberto confirme la reorganización."
     },
     {
       "fecha": "2026-11-19",
@@ -168,7 +171,8 @@
       "aviso_thread": "1a177191b8dc8036",
       "respuestas_procesadas": [
         "1a1a5c69a2c13ae2"
-      ]
+      ],
+      "nota_buffer_2026-11-22": "En Buffer está PROGRAMADA a mano (sin OK por email) para Thursday 03/12 19:30 +0100 Madrid, no en la fecha del calendario. Sigue en 'revisar' hasta que Alberto confirme la reorganización."
     },
     {
       "fecha": "2026-11-21",
@@ -180,7 +184,7 @@
         "218efb0e6f"
       ],
       "carpeta": "08_cena-temprana-vs-tarde",
-      "estado": "programado",
+      "estado": "publicado",
       "aviso_thread": "1a177191b8dc8036",
       "nota": "Movida en Buffer desde el 10/11 al 21/11 (programada sin OK por email: la movió Alberto en Buffer).",
       "respuestas_procesadas": [
@@ -212,7 +216,8 @@
       ],
       "carpeta": "29_microbiota",
       "estado": "revisar",
-      "nota": "Adelantada para acompanar a la newsletter de microbiota del domingo 29-nov. Recortes de la infografia de Alberto; sin mencionar a GUTS Biotech."
+      "nota": "Adelantada para acompanar a la newsletter de microbiota del domingo 29-nov. Recortes de la infografia de Alberto; sin mencionar a GUTS Biotech.",
+      "nota_buffer_2026-11-22": "En Buffer está PROGRAMADA a mano (sin OK por email) para Thursday 26/11 19:30 +0100 Madrid, no en la fecha del calendario. Sigue en 'revisar' hasta que Alberto confirme la reorganización."
     },
     {
       "fecha": "2026-11-28",
@@ -410,7 +415,7 @@
         "1a1a5d0b06c5c0c8",
         "1a1ea3f65e282543"
       ],
-      "nota_buffer": "Programada en Buffer el 2026-11-21 para el jueves 24-dic a las 19:30 (+01:00), al quedar hueco (9/10)."
+      "nota_buffer": "Programada por el agente el 2026-11-21 para el 24-dic 19:30 (+01:00), pero Alberto la devolvió a borrador en Buffer el 2026-11-21 a las 20:03 Madrid. No se reprograma hasta que lo confirme."
     },
     {
       "fecha": "2026-12-26",
@@ -429,7 +434,8 @@
         "1a1a5d0b06c5c0c8",
         "1a1ea3f65e282543"
       ],
-      "nota_buffer": "Aprobada; sin programar por el límite de 10 programadas del plan gratuito de Buffer (10/10 el 2026-11-10)."
+      "nota_buffer": "Aprobada; sin programar por el límite de 10 programadas del plan gratuito de Buffer (10/10 el 2026-11-10).",
+      "nota_buffer_2026-11-22": "Había hueco (8/10 programadas), pero no se programa: Alberto está reorganizando Buffer a mano (devolvió a borrador la 20 y programó 09-12 y 29 en otras fechas). Esperar confirmación."
     },
     {
       "fecha": "2026-12-29",
@@ -459,7 +465,8 @@
         "1a1ea3f65e282543"
       ],
       "nota": "Pieza especial de Año Nuevo pedida el 04-nov; sustituye a la 22 en el 31-dic.",
-      "nota_buffer": "Aprobada (OK del 17-nov); sin programar por el límite de 10 programadas del plan gratuito de Buffer (11 programadas el 2026-11-18)."
+      "nota_buffer": "Aprobada (OK del 17-nov); sin programar por el límite de 10 programadas del plan gratuito de Buffer (11 programadas el 2026-11-18).",
+      "nota_buffer_2026-11-22": "Había hueco (8/10 programadas), pero no se programa: Alberto está reorganizando Buffer a mano (devolvió a borrador la 20 y programó 09-12 y 29 en otras fechas). Esperar confirmación."
     },
     {
       "fecha": "2027-01-02",
@@ -479,7 +486,8 @@
         "1a1ea3f65e282543"
       ],
       "nota": "Movida del 31-dic al 02-ene y texto adaptado a «empieza el año con una analítica» (respuesta del 04-nov). Vuelve a revisión.",
-      "nota_buffer": "Aprobada (OK del 17-nov); sin programar por el límite de 10 programadas del plan gratuito de Buffer (11 programadas el 2026-11-18)."
+      "nota_buffer": "Aprobada (OK del 17-nov); sin programar por el límite de 10 programadas del plan gratuito de Buffer (11 programadas el 2026-11-18).",
+      "nota_buffer_2026-11-22": "Había hueco (8/10 programadas), pero no se programa: Alberto está reorganizando Buffer a mano (devolvió a borrador la 20 y programó 09-12 y 29 en otras fechas). Esperar confirmación."
     },
     {
       "fecha": "2027-01-05",
