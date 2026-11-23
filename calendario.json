@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-22",
+  "actualizado": "2026-11-23",
   "franjas": {
     "martes": "pilar 1-2",
     "jueves": "pilar 3-4",
@@ -447,7 +447,7 @@
         "ig:6ad880a1785291f70efedab2"
       ],
       "carpeta": "30_pure-instantaneo-vs-casero",
-      "estado": "pendiente"
+      "estado": "revisar"
     },
     {
       "fecha": "2026-12-31",
@@ -499,7 +499,7 @@
         "1b54cf9e8e"
       ],
       "carpeta": "32_pedalear-en-ayunas",
-      "estado": "pendiente"
+      "estado": "revisar"
     },
     {
       "fecha": "2027-01-07",
@@ -511,7 +511,7 @@
         "688b75db6f"
       ],
       "carpeta": "33_indicador-salud-metabolica",
-      "estado": "pendiente"
+      "estado": "revisar"
     },
     {
       "fecha": "2027-01-09",
@@ -523,7 +523,7 @@
         "b9a5ce268a"
       ],
       "carpeta": "34_salud-en-una-pantalla",
-      "estado": "pendiente"
+      "estado": "revisar"
     },
     {
       "fecha": "2027-01-12",
@@ -535,7 +535,7 @@
         "61c80a12c3"
       ],
       "carpeta": "35_paseo-despues-de-comer",
-      "estado": "pendiente",
+      "estado": "revisar",
       "nota": "Lleva curva de un Viber en la newsletter: usar esa imagen como impacto."
     },
     {
@@ -547,8 +547,8 @@
       "fuentes": [
         "310302044f"
       ],
-      "carpeta": null,
-      "estado": "pendiente",
+      "carpeta": "37_quinoa-recien-hecha-vs-enfriada",
+      "estado": "revisar",
       "nota": "Comparativa: necesita las curvas reales (imágenes de la newsletter o vídeo); si no aparecen, dejar en revisar."
     },
     {

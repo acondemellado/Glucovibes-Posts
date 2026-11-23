@@ -90,5 +90,8 @@
     "hashtags": "#SaludMetabólica #Glucosa #NutriciónDePrecisión #HealthTech"
   },
   "nota_revision": "Curvas reales de la newsletter «08 ¿Cómo afecta? Nuevo ejemplo» (fotograma del vídeo), pero la imagen no rotula cuál es cuál: se asigna la más alta (≈133) a la recién cocida y la más baja (≈111) a la enfriada, como explica la newsletter. Confírmalo. Picos leídos en la gráfica (no hay subtítulos ni cifras en la fuente) y no hay reel de quinoa en Buffer para comprobarlo. Se han tapado restos de la decoración del vídeo.",
-  "estado": "revisar"
+  "estado": "revisar",
+  "buffer": {
+    "instagram_post_id": "6b03e92900ec56c26fe4a77a"
+  }
 }

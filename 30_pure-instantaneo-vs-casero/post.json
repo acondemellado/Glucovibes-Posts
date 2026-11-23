@@ -90,5 +90,9 @@
     "hashtags": "#SaludMetabólica #Glucosa #NutriciónDePrecisión #HealthTech"
   },
   "nota_revision": "El reel no da cifras: ≈159 y ≈134 mg/dl son lectura de la gráfica. Las curvas salen de la miniatura del reel en Buffer (la URL del vídeo da 403), así que no se han podido comprobar los subtítulos; se han tapado restos de la decoración del reel.",
-  "estado": "revisar"
+  "estado": "revisar",
+  "buffer": {
+    "instagram_post_id": "6afaf1f1d2a6b9d4fcb4a9fa",
+    "nota": "Borrador creado el 16-nov-2026 (commit 594a4a7); reutilizado, mismas imágenes."
+  }
 }

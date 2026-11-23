@@ -88,5 +88,8 @@
     "hashtags": "#SaludMetabólica #Glucosa #Hábitos #HealthTech"
   },
   "nota_revision": "La newsletter fuente se envía el domingo 22-nov-2026; el post sale siete semanas después. Comparativa de momentos sin dos curvas: la fuente solo tiene la curva del paseo a los 20 min (la del paseo inmediato no existe), por eso va una sola curva.",
-  "estado": "revisar"
+  "estado": "revisar",
+  "buffer": {
+    "instagram_post_id": "6b03e92800ec56c26fe4a70a"
+  }
 }

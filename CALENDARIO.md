@@ -34,14 +34,14 @@ Instagram (y LinkedIn cuando esté conectado). 3 por semana: martes (comparativa
 | 2026-12-22 | martes | 1 | Cómo afecta: mismo desayuno tras dormir mal vs dormir bien | programado |
 | 2026-12-24 | jueves | 3 | Mismo dulce, distinto momento: palmera en el sofá vs tras la bici | programado |
 | 2026-12-26 | sábado | 6 | Tu salud es un coche: los pilares de un estilo de vida saludable | aprobado |
-| 2026-12-29 | martes | 1 | Cómo afecta: puré instantáneo vs puré casero | pendiente |
+| 2026-12-29 | martes | 1 | Cómo afecta: puré instantáneo vs puré casero | revisar |
 | 2026-12-31 | jueves | 6 | Feliz 2027: pon vida a tus años | aprobado |
 | 2027-01-02 | sábado | 4 | Tus analíticas, mejor cada vez: mira tu evolución | aprobado |
-| 2027-01-05 | martes | 2 | Pedalear en ayunas: la glucosa de una Viber bajó a 55 (y cómo evitar el bajón) | pendiente |
-| 2027-01-07 | jueves | 4 | Tu indicador de salud metabólica: un predictor, no una nota | pendiente |
-| 2027-01-09 | sábado | 6 | Toda tu salud en una sola pantalla | pendiente |
-| 2027-01-12 | martes | 1 | Un paseo después de comer: cuanto antes, mejor | pendiente |
-| 2027-01-14 | jueves | 3 | Almidón resistente: quinoa recién hecha vs enfriada | pendiente |
+| 2027-01-05 | martes | 2 | Pedalear en ayunas: la glucosa de una Viber bajó a 55 (y cómo evitar el bajón) | revisar |
+| 2027-01-07 | jueves | 4 | Tu indicador de salud metabólica: un predictor, no una nota | revisar |
+| 2027-01-09 | sábado | 6 | Toda tu salud en una sola pantalla | revisar |
+| 2027-01-12 | martes | 1 | Un paseo después de comer: cuanto antes, mejor | revisar |
+| 2027-01-14 | jueves | 3 | Almidón resistente: quinoa recién hecha vs enfriada | revisar |
 | 2027-01-16 | sábado | 6 | Predecir tu curva de glucosa sin sensor: novedad de la app | pendiente |
 | 2027-01-19 | martes | 2 | ¿Un minuto de escaleras baja tu glucosa un 42 %? No en tu cena | pendiente |
 | 2027-01-21 | jueves | 3 | Los carbohidratos: ni buenos ni malos, depende de cuáles y cuándo | revisar |
