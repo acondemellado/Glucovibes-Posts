@@ -1,0 +1,94 @@
+{
+  "id": "37_quinoa-recien-hecha-vs-enfriada",
+  "tema": "Almidón resistente: quinoa recién hecha vs enfriada",
+  "pilar": 3,
+  "fuente": [
+    "310302044f"
+  ],
+  "fecha_sugerida": "2027-01-14 (jueves) 19:30",
+  "slides": [
+    {
+      "tipo": "portada",
+      "chip": "Cómo afecta",
+      "titulo": "Misma quinoa.",
+      "titulo_rojo": "Distinta curva.",
+      "subtitulo": "Recién cocida o después de una noche en la nevera: tu glucosa lo nota."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "La",
+      "titulo_rojo": "prueba",
+      "items": [
+        {
+          "ico": "🍲",
+          "titulo": "Quinoa recién cocida",
+          "texto": "Del fuego al plato."
+        },
+        {
+          "ico": "🧊",
+          "titulo": "Quinoa enfriada",
+          "texto": "Cocida y refrigerada durante una noche."
+        },
+        {
+          "ico": "⚖️",
+          "titulo": "Lo que no cambia",
+          "texto": "El mismo plato de quinoa."
+        }
+      ]
+    },
+    {
+      "tipo": "imagen",
+      "titulo": "El frío",
+      "titulo_rojo": "se ve en la curva",
+      "src": "curvas.png",
+      "ancho": 940,
+      "nota": "Curvas observadas en registros reales; picos leídos en la gráfica. La respuesta puede variar entre personas."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "¿Por qué",
+      "titulo_rojo": "pasa esto?",
+      "items": [
+        {
+          "ico": "❄️",
+          "titulo": "Almidón resistente",
+          "texto": "Al enfriarse, parte del almidón cambia y se comporta como fibra."
+        },
+        {
+          "ico": "🐢",
+          "titulo": "Digestión más lenta",
+          "texto": "La glucosa entra poco a poco y la curva es más estable."
+        },
+        {
+          "ico": "🦠",
+          "titulo": "Extra para tu intestino",
+          "texto": "También alimenta tu microbiota y ayuda a la saciedad."
+        }
+      ]
+    },
+    {
+      "tipo": "portada",
+      "chip": "#Glucotip",
+      "titulo": "Cocina hoy,",
+      "titulo_rojo": "come mañana.",
+      "subtitulo": "Pequeños cambios en cómo preparas tus platos marcan la diferencia."
+    },
+    {
+      "tipo": "cierre",
+      "titulo": "Deja de adivinar.",
+      "titulo_rojo": "Mídelo.",
+      "cta": "Descubre tu respuesta",
+      "web": "glucovibes.com"
+    }
+  ],
+  "instagram": {
+    "caption": "🍲 Hoy, en «Cómo afecta»: quinoa recién cocida vs quinoa enfriada.\n\nMismo plato, dos momentos: recién hecha o después de una noche en la nevera.\n\n📈 Recién cocida, la curva subió hasta unos 133 mg/dl. Enfriada, se quedó en unos 111.\n\n¿Por qué? ❄️ Al enfriarse, parte del almidón se transforma en almidón resistente, que se comporta como fibra: se digiere más despacio y la glucosa entra poco a poco. Además, cuida tu intestino y ayuda a la saciedad.\n\n#Glucotip: cocina de más y guarda para mañana.\n\n¿Ya lo hacías con la quinoa, el arroz o la pasta? 👇",
+    "hashtags": "#comoafecta #glucosa #saludmetabolica #almidonresistente #quinoa #nutriciondeprecision #microbiota #glucovibes"
+  },
+  "linkedin": {
+    "texto": "Mismo alimento, misma cantidad, distinta respuesta. A veces la diferencia está en la nevera.\n\nEn uno de nuestros «Cómo afecta» comparamos la misma quinoa recién cocida y después de refrigerarla una noche. Recién hecha, la curva de glucosa subió hasta unos 133 mg/dl; enfriada, se quedó en torno a 111.\n\nLa explicación es el almidón resistente: al enfriarse, parte del almidón cambia de estructura y se comporta como fibra. Se digiere más despacio, la glucosa entra de forma más gradual y, de paso, alimenta la microbiota.\n\nNo hace falta cambiar lo que comes, a veces basta con cambiar cuándo y cómo lo preparas. ¿Lo habías visto en tus datos?",
+    "hashtags": "#SaludMetabólica #Glucosa #NutriciónDePrecisión #HealthTech"
+  },
+  "nota_revision": "Curvas reales de la newsletter «08 ¿Cómo afecta? Nuevo ejemplo» (fotograma del vídeo), pero la imagen no rotula cuál es cuál: se asigna la más alta (≈133) a la recién cocida y la más baja (≈111) a la enfriada, como explica la newsletter. Confírmalo. Picos leídos en la gráfica (no hay subtítulos ni cifras en la fuente) y no hay reel de quinoa en Buffer para comprobarlo. Se han tapado restos de la decoración del vídeo.",
+  "estado": "revisar"
+}
