@@ -5,7 +5,7 @@
   "fuente": [
     "643b8c8bc1"
   ],
-  "estado": "revisar",
+  "estado": "programado",
   "fecha_sugerida": "2026-11-26 (jueves) 19:30",
   "slides": [
     {
@@ -100,6 +100,7 @@
   "buffer": {
     "instagram_post_id": "6af6f6da10ced6793b30adc2",
     "canal": "glucovibes (instagram)",
-    "sha": "991a1416604033205ea8b1e2154d808f18c245a3"
+    "sha": "991a1416604033205ea8b1e2154d808f18c245a3",
+    "programado": "2026-11-26 19:30 (Europe/Madrid)"
   }
 }
