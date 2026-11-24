@@ -5,7 +5,7 @@
 
 ## Texto del post
 
-🚶 Pasear después de comer ayuda. Pero el momento también cuenta.
+🚶 ¿Importa cuándo pasear para estabilizar tu glucosa? Sí, y mucho.
 
 Un usuario desayunó fruta con avena y salió a caminar 20 minutos después. Al empezar el paseo su glucosa estaba en 103 mg/dl; al terminar, 35 minutos más tarde, por debajo de 70.
 
