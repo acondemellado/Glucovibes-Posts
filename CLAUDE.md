@@ -4,7 +4,7 @@ Desde el 23/11/2026 las piezas de Instagram de este repo siguen la estrategia de
 
 Lo imprescindible:
 
-1. **Parrilla.** Los carruseles salen martes y jueves a las 19:30. Miércoles y sábados son reels; no programes carruseles esos días.
+1. **Parrilla.** Carruseles y reels conviven. Los carruseles salen martes, jueves y sábado a las 19:30; el miércoles es para el reel. Algún sábado puede ocuparlo un reel en cámara: si ya hay uno programado ese día, no pongas carrusel. Los carruseles ya programados conservan su hueco y su estilo; retoca solo el texto cuando haga falta.
 2. **Temas.** Además de las newsletters, usa las ideas de carrusel aprobadas en Dropbox `/Glucovibes/marketing/Plan de marketing/01_ideas/`.
 3. **Gancho y cierre.** Primera frase corta, con un mito, una cifra o una comparación. Al menos una de cada dos piezas cierra pidiendo que se envíe a alguien. Última diapositiva guardable (resumen o checklist).
 4. **Afirmaciones de salud.** Nunca «pierde peso»: sí «gestiona tu peso» y «entiende tu metabolismo». Nada de prometer alivio, tratar insomnio o diabetes, testimonios para vender, rendimiento garantizado ni diagnóstico. Curvas siempre anónimas y con «la respuesta varía entre personas».
