@@ -5,7 +5,7 @@
 
 ## Texto del post
 
-🚴 ¿Ejercicio en ayunas para quemar más grasa? Mira esta curva.
+🚴 ¿Entrenar en ayunas para quemar más grasa? Mira esta curva.
 
 Una Viber se subió a la bici y pedaleó 2 horas y media en ayunas, a baja intensidad. A esa intensidad el cuerpo quema grasa, pero también quema glucosa.
 
