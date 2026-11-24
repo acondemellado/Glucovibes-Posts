@@ -81,15 +81,18 @@
       "subtitulo": "Una dieta baja en FODMAP se usa un tiempo y con síntomas. Después se reintroduce."
     },
     {
-      "tipo": "cierre",
-      "titulo": "Deja de adivinar.",
-      "titulo_rojo": "Mídelo.",
-      "cta": "Tu plan, con tus datos",
-      "web": "glucovibes.com"
+      "tipo": "cierre_cta",
+      "src": "slide_07_cta.png",
+      "titulo": "¿Te reconoces?",
+      "titulo_rojo": "Conoce tu microbiota.",
+      "pildora": "Test de microbiota intestinal",
+      "nota": "Unidades limitadas, bajo petición",
+      "cta": "Escríbenos por mensaje privado o al email de contacto de la bio y te hacemos una propuesta personalizada.",
+      "sustituye_a": "slide_07.png (cierre «Deja de adivinar. Mídelo.»)"
     }
   ],
   "instagram": {
-    "caption": "🦠 Hinchazón, retención de líquidos, reflujo, dormir y no descansar, diarreas o estreñimiento.\n\nConvives tanto tiempo con ello que acabas dándolo por normal. Y muchas veces detrás hay un desequilibrio de la microbiota.\n\nLa buena noticia: eso se puede medir, en lugar de ir probando dietas a ciegas.\n\n✅ A diario: fibra variada, grasas buenas, fermentados.\n⚖️ Según tu tolerancia: lácteos con lactosa, legumbres, trigo, algunas frutas.\n❌ Lo que más castiga: alcohol, ultraprocesados y edulcorantes tipo sorbitol o maltitol.\n\n💡 #Glucotip: no elimines grupos enteros para siempre. Lo que se quita, se quita un tiempo y después se reintroduce.\n\nEn Glucovibes construimos tu propuesta de nutrición con tus propios datos. Y tenemos un pack completo que incluye análisis de microbiota y el plan que sale de él, volcado a tu app.\n\n¿Cuál de esas señales te suena? 👇",
+    "caption": "🦠 Hinchazón, retención de líquidos, reflujo, dormir y no descansar, diarreas o estreñimiento.\n\nConvives tanto tiempo con ello que acabas dándolo por normal. Y muchas veces detrás hay un desequilibrio de la microbiota.\n\nLa buena noticia: eso se puede medir, en lugar de ir probando dietas a ciegas.\n\n✅ A diario: fibra variada, grasas buenas, fermentados.\n⚖️ Según tu tolerancia: lácteos con lactosa, legumbres, trigo, algunas frutas.\n❌ Lo que más castiga: alcohol, ultraprocesados y edulcorantes tipo sorbitol o maltitol.\n\n💡 #Glucotip: no elimines grupos enteros para siempre. Lo que se quita, se quita un tiempo y después se reintroduce.\n\n🔬 Si te reconoces en estas señales, en Glucovibes te ayudamos a conocer tu microbiota intestinal con un test que hacemos junto a uno de nuestros partners. Tenemos unidades limitadas, bajo petición.\n\n📩 Escríbenos por mensaje privado o al email de contacto de la bio y te hacemos una propuesta personalizada.\n\n¿Cuál de esas señales te suena? 👇",
     "hashtags": "#microbiota #saludintestinal #saludmetabolica #hinchazon #digestiones #nutriciondeprecision #glucovibes #habitossaludables"
   },
   "linkedin": {
@@ -101,6 +104,8 @@
     "instagram_post_id": "6af6f6da10ced6793b30adc2",
     "canal": "glucovibes (instagram)",
     "sha": "991a1416604033205ea8b1e2154d808f18c245a3",
-    "programado": "2026-11-26 19:30 (Europe/Madrid)"
+    "programado": "2026-11-26 19:30 (Europe/Madrid)",
+    "sha_slide_07": "aab22e9eb957f34749d9be62c993c7ee6403c24f",
+    "nota": "Diapositivas 1-6 servidas desde sha 991a141; la 7.ª es slide_07_cta.png desde sha aab22e9 (OK de Beto 24-11-2026)."
   }
 }
