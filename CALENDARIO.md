@@ -26,13 +26,13 @@ Instagram (y LinkedIn cuando esté conectado). 3 por semana: martes (comparativa
 | 2026-12-03 | jueves | 3 | ¿De dónde viene la glucosa? Empieza en las plantas | revisar |
 | 2026-12-05 | sábado | 6 | Tu salud no es una foto: es una película | revisar |
 | 2026-12-08 | martes | 1 | Cómo afecta: magdalena industrial vs casera (152 vs 129 mg/dl) | programado |
-| 2026-12-10 | jueves | 3 | La energía lo es todo: de dónde sale y en qué la gastas | programado |
-| 2026-12-12 | sábado | 1 | Cómo afecta: bowl de yogur con muesli azucarado vs chocolate negro y frutos secos | programado |
-| 2026-12-15 | martes | 1 | Cómo afecta: manzana sola vs manzana + 25 g de nueces | programado |
-| 2026-12-17 | jueves | 3 | La fibra, tu gran aliada: cómo llegar a 25 g al día | programado |
-| 2026-12-19 | sábado | 5 | Receta: Turrón Glucovibes de almendra y pistacho | programado |
-| 2026-12-22 | martes | 1 | Cómo afecta: mismo desayuno tras dormir mal vs dormir bien | programado |
-| 2026-12-24 | jueves | 3 | Mismo dulce, distinto momento: palmera en el sofá vs tras la bici | programado |
+| 2026-12-10 | jueves | 3 | La energía lo es todo: de dónde sale y en qué la gastas | aprobado |
+| 2026-12-12 | sábado | 1 | Cómo afecta: bowl de yogur con muesli azucarado vs chocolate negro y frutos secos | aprobado |
+| 2026-12-15 | martes | 1 | Cómo afecta: manzana sola vs manzana + 25 g de nueces | aprobado |
+| 2026-12-17 | jueves | 3 | La fibra, tu gran aliada: cómo llegar a 25 g al día | aprobado |
+| 2026-12-19 | sábado | 5 | Receta: Turrón Glucovibes de almendra y pistacho | aprobado |
+| 2026-12-22 | martes | 1 | Cómo afecta: mismo desayuno tras dormir mal vs dormir bien | aprobado |
+| 2026-12-24 | jueves | 3 | Mismo dulce, distinto momento: palmera en el sofá vs tras la bici | aprobado |
 | 2026-12-26 | sábado | 6 | Tu salud es un coche: los pilares de un estilo de vida saludable | aprobado |
 | 2026-12-29 | martes | 1 | Cómo afecta: puré instantáneo vs puré casero | revisar |
 | 2026-12-31 | jueves | 6 | Feliz 2027: pon vida a tus años | aprobado |

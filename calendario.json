@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "franjas": {
     "martes": "pilar 1-2",
     "jueves": "pilar 3-4",
@@ -300,7 +300,7 @@
         "4a36b52e3c"
       ],
       "carpeta": "24_energia-combustible",
-      "estado": "programado",
+      "estado": "aprobado",
       "nota": "Sustituye a «Las grasas: no tan malas como crees»: sus fuentes (c68d4980fd, cbadada367, 0a7b870d27) son plantillas vacías.",
       "aviso_thread": "1a1bf38c6a0b7ee5",
       "respuestas_procesadas": [
@@ -318,7 +318,7 @@
         "ig:6ad880a1785291f70efedaae"
       ],
       "carpeta": "25_bowl-yogur-toppings",
-      "estado": "programado",
+      "estado": "aprobado",
       "aviso_thread": "1a1bf38c6a0b7ee5",
       "respuestas_procesadas": [
         "1a1bf5c571fff432"
@@ -335,7 +335,7 @@
         "ig:6ad880a1785291f70efedaa8"
       ],
       "carpeta": "26_manzana-con-nueces",
-      "estado": "programado",
+      "estado": "aprobado",
       "aviso_thread": "1a1bf38c6a0b7ee5",
       "respuestas_procesadas": [
         "1a1bf5c571fff432"
@@ -352,7 +352,7 @@
         "ig:6ad880a1785291f70efedaa4"
       ],
       "carpeta": "27_fibra-25-gramos",
-      "estado": "programado",
+      "estado": "aprobado",
       "nota": "La newsletter fd64c991d9 (fibra) es una plantilla vacía; fuente real: carrusel de Instagram.",
       "aviso_thread": "1a1bf38c6a0b7ee5",
       "respuestas_procesadas": [
@@ -371,7 +371,7 @@
         "blog:recetas-dulces-navidenas"
       ],
       "carpeta": "19_turron-navidad",
-      "estado": "programado",
+      "estado": "aprobado",
       "aviso_thread": "1a1a5bdcca1e5951",
       "respuestas_procesadas": [
         "1a1a5c4de56a2270",
@@ -390,7 +390,7 @@
         "ig:6ad880a1785291f70efeda9c"
       ],
       "carpeta": "28_dormir-mal-vs-bien",
-      "estado": "programado",
+      "estado": "aprobado",
       "aviso_thread": "1a1bf38c6a0b7ee5",
       "respuestas_procesadas": [
         "1a1bf5c571fff432"
@@ -408,7 +408,7 @@
         "bbd61678c8"
       ],
       "carpeta": "20_dulce-tras-moverte",
-      "estado": "programado",
+      "estado": "aprobado",
       "aviso_thread": "1a1a5bdcca1e5951",
       "respuestas_procesadas": [
         "1a1a5c4de56a2270",
