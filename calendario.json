@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-27",
   "franjas": {
     "martes": "pilar 1-2",
     "jueves": "pilar 3-4",
@@ -288,7 +288,7 @@
       "respuestas_procesadas": [
         "1a1bf5c571fff432"
       ],
-      "nota_buffer": "Figura como programado, pero en Buffer volvió a borrador el 2026-11-20 a las 20:31 Madrid (no lo hizo el agente; probablemente a mano). No se reprograma hasta que Alberto lo confirme."
+      "nota_buffer": "Comprobado el 2026-11-27: vuelve a estar programada en Buffer para su fecha a las 19:30 (+01:00) Madrid (reprogramada a mano por Alberto)."
     },
     {
       "fecha": "2026-12-10",
@@ -300,13 +300,13 @@
         "4a36b52e3c"
       ],
       "carpeta": "24_energia-combustible",
-      "estado": "aprobado",
+      "estado": "programado",
       "nota": "Sustituye a «Las grasas: no tan malas como crees»: sus fuentes (c68d4980fd, cbadada367, 0a7b870d27) son plantillas vacías.",
       "aviso_thread": "1a1bf38c6a0b7ee5",
       "respuestas_procesadas": [
         "1a1bf5c571fff432"
       ],
-      "nota_buffer": "Figura como programado, pero en Buffer volvió a borrador el 2026-11-20 a las 20:31 Madrid (no lo hizo el agente; probablemente a mano). No se reprograma hasta que Alberto lo confirme."
+      "nota_buffer": "Comprobado el 2026-11-27: vuelve a estar programada en Buffer para su fecha a las 19:30 (+01:00) Madrid (reprogramada a mano por Alberto)."
     },
     {
       "fecha": "2026-12-12",

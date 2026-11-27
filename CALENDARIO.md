@@ -26,7 +26,7 @@ Instagram (y LinkedIn cuando esté conectado). 3 por semana: martes (comparativa
 | 2026-12-03 | jueves | 3 | ¿De dónde viene la glucosa? Empieza en las plantas | revisar |
 | 2026-12-05 | sábado | 6 | Tu salud no es una foto: es una película | revisar |
 | 2026-12-08 | martes | 1 | Cómo afecta: magdalena industrial vs casera (152 vs 129 mg/dl) | programado |
-| 2026-12-10 | jueves | 3 | La energía lo es todo: de dónde sale y en qué la gastas | aprobado |
+| 2026-12-10 | jueves | 3 | La energía lo es todo: de dónde sale y en qué la gastas | programado |
 | 2026-12-12 | sábado | 1 | Cómo afecta: bowl de yogur con muesli azucarado vs chocolate negro y frutos secos | aprobado |
 | 2026-12-15 | martes | 1 | Cómo afecta: manzana sola vs manzana + 25 g de nueces | aprobado |
 | 2026-12-17 | jueves | 3 | La fibra, tu gran aliada: cómo llegar a 25 g al día | aprobado |
