@@ -20,7 +20,7 @@ Instagram (y LinkedIn cuando esté conectado). 3 por semana: martes (comparativa
 | 2026-11-19 | jueves | 4 | ¿Con cuánta energía te has levantado hoy? Readiness | revisar |
 | 2026-11-21 | sábado | 1 | Cómo afecta: misma cena a las 20:30 vs a las 23:00 | publicado |
 | 2026-11-24 | martes | 1 | Cómo afecta: salsa de tomate casera vs industrial (130 vs 154 mg/dl) | revisar |
-| 2026-11-26 | jueves | 3 | Microbiota: síntomas que damos por normales y cómo se come para cuidarla | revisar |
+| 2026-11-26 | jueves | 3 | Microbiota: síntomas que damos por normales y cómo se come para cuidarla | publicado |
 | 2026-11-28 | sábado | 5 | El mismo plato no vale para un día de sofá que para uno de bici | revisar |
 | 2026-12-01 | martes | 2 | Entrenas, llegas con hambre… y el pico llega igual | revisar |
 | 2026-12-03 | jueves | 3 | ¿De dónde viene la glucosa? Empieza en las plantas | revisar |
